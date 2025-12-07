@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """
-Items Matcher for OneEnough Items (OEI)
-----------------------------------------
+Fluid Matcher for One Enough Fluid (OEF)
+-----------------------------------------
 
-Reads a JSON configuration file and generates datapacks for the OneEnough Items mod.
-Creates replacement mappings at data/oei/replacements.
+Reads a JSON configuration file and generates datapacks for the One Enough Fluid mod.
+Creates replacement mappings at data/oef/replacements.
+
+OEF is an add-on for OEI that extends OEI's fluid-replacement functionality.
+It enables fluid replacement for blocks, items and recipes — any fluid that JEI can display can be replaced.
 
 Usage:
-    python -m tools.items_matcher [options]
+    python -m tools.fluid_matcher [options]
 """
 
 from __future__ import annotations
@@ -97,7 +100,7 @@ def validate_config(config: List[Dict[str, Any]]) -> Tuple[bool, str]:
     """Validate configuration data.
     
     Args:
-        config: Configuration list with matchItems and resultItems
+        config: Configuration list with matchFluid and resultFluid
         
     Returns:
         Tuple of (is_valid, error_message)
@@ -109,28 +112,28 @@ def validate_config(config: List[Dict[str, Any]]) -> Tuple[bool, str]:
         if not isinstance(entry, dict):
             return False, f"Entry {idx} must be a dictionary"
         
-        if "matchItems" not in entry:
-            return False, f"Entry {idx} missing 'matchItems' field"
+        if "matchFluid" not in entry:
+            return False, f"Entry {idx} missing 'matchFluid' field"
         
-        if "resultItems" not in entry:
-            return False, f"Entry {idx} missing 'resultItems' field"
+        if "resultFluid" not in entry:
+            return False, f"Entry {idx} missing 'resultFluid' field"
         
-        match_items = entry["matchItems"]
-        if not isinstance(match_items, list):
-            return False, f"Entry {idx}: 'matchItems' must be a list"
+        match_fluid = entry["matchFluid"]
+        if not isinstance(match_fluid, list):
+            return False, f"Entry {idx}: 'matchFluid' must be a list"
         
-        if not match_items:
-            return False, f"Entry {idx}: 'matchItems' cannot be empty"
+        if not match_fluid:
+            return False, f"Entry {idx}: 'matchFluid' cannot be empty"
         
-        result_item = entry["resultItems"]
-        if not isinstance(result_item, str):
-            return False, f"Entry {idx}: 'resultItems' must be a string"
+        result_fluid = entry["resultFluid"]
+        if not isinstance(result_fluid, str):
+            return False, f"Entry {idx}: 'resultFluid' must be a string"
         
         # Check for self-replacement
-        if result_item in match_items:
+        if result_fluid in match_fluid:
             return False, (
-                f"Entry {idx}: Cannot replace item with itself. "
-                f"'{result_item}' is in both matchItems and resultItems"
+                f"Entry {idx}: Cannot replace fluid with itself. "
+                f"'{result_fluid}' is in both matchFluid and resultFluid"
             )
     
     return True, ""
@@ -181,7 +184,7 @@ def create_datapack_structure(output_dir: Path) -> Path:
     Returns:
         Path to the replacements directory
     """
-    replacements_dir = output_dir / "data" / "oei" / "replacements"
+    replacements_dir = output_dir / "data" / "oef" / "replacements"
     replacements_dir.mkdir(parents=True, exist_ok=True)
     return replacements_dir
 
@@ -191,7 +194,7 @@ def generate_replacements_file(
     replacements_dir: Path,
     filename: str = "replacements.json"
 ) -> Path:
-    """Generate the replacements JSON file for OEI.
+    """Generate the replacements JSON file for OEF.
     
     Args:
         config: Configuration list
@@ -203,7 +206,7 @@ def generate_replacements_file(
     """
     output_file = replacements_dir / filename
     
-    # OEI expects the replacements in the same format as the config
+    # OEF expects the replacements in the same format as the config
     with output_file.open("w", encoding="utf-8") as f:
         json.dump(config, f, indent=4)
     
@@ -222,7 +225,7 @@ def create_pack_mcmeta(output_dir: Path, pack_format: int = 10) -> None:
     meta = {
         "pack": {
             "pack_format": pack_format,
-            "description": "OneEnough Items replacements"
+            "description": "One Enough Fluid replacements"
         }
     }
     
@@ -234,38 +237,44 @@ def create_pack_mcmeta(output_dir: Path, pack_format: int = 10) -> None:
 # Main entry point
 # ---------------------------------------------------------------------
 def main() -> None:
-    """Main entry point for items matcher."""
+    """Main entry point for fluid matcher."""
     parser = argparse.ArgumentParser(
-        description="Generate OneEnough Items datapack from JSON configuration",
+        description="Generate One Enough Fluid datapack from JSON configuration",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
   # Generate datapack from default input directory (/input)
-  python -m tools.items_matcher
+  python -m tools.fluid_matcher
   
   # Generate datapack from config.json
-  python -m tools.items_matcher --config config.json
+  python -m tools.fluid_matcher --config config.json
   
   # Generate datapack from directory of JSON files
-  python -m tools.items_matcher --input-dir ./configs/items
+  python -m tools.fluid_matcher --input-dir ./configs/fluids
   
   # Specify custom output directory
-  python -m tools.items_matcher --config config.json --output-dir ./datapacks/oei
+  python -m tools.fluid_matcher --config config.json --output-dir ./datapacks/oef
   
   # Custom pack format
-  python -m tools.items_matcher --config config.json --pack-format 15
+  python -m tools.fluid_matcher --config config.json --pack-format 15
 
 Configuration format:
   [
       {
-          "matchItems": [
-              "#forge:ore",
-              "minecraft:potato",
-              "minecraft:carrot"
+          "matchFluid": [
+              "minecraft:water",
+              "minecraft:lava",
+              "forge:crude_oil"
           ],
-          "resultItems": "minecraft:egg"
+          "resultFluid": "minecraft:water"
       }
   ]
+
+Notes:
+  - OEF is an add-on for OEI that extends fluid-replacement functionality
+  - Datapack fields are "matchFluid" and "resultFluid", not "matchItems" and "resultItems"
+  - For hot-reloaded recipes you may need to reload twice for changes to take full effect
+  - Some mods serialize fluid fields in ways outside OEF's handling, so those fluids cannot be replaced
         """
     )
     input_group = parser.add_mutually_exclusive_group(required=False)
@@ -283,8 +292,8 @@ Configuration format:
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("oei_datapack"),
-        help="Output directory for datapack (default: oei_datapack)"
+        default=Path("oef_datapack"),
+        help="Output directory for datapack (default: oef_datapack)"
     )
     parser.add_argument(
         "--pack-format",
@@ -337,6 +346,7 @@ Configuration format:
     
     log(f"\nDatapack generated successfully at: {args.output_dir.resolve()}")
     log(f"Install by copying to: .minecraft/saves/<world>/datapacks/")
+    log("Note: Requires OEI as a dependency", "INFO")
 
 
 if __name__ == "__main__":

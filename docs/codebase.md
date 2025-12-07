@@ -33,7 +33,8 @@ RD-Minecraft-Tools/
 │   ├── asset_scanner.py
 │   ├── recipe_scanner.py
 │   ├── block_matcher.py
-│   └── items_matcher.py
+│   ├── items_matcher.py
+│   └── fluid_matcher.py
 ├── src/                # Shared utilities
 │   ├── __init__.py
 │   ├── utils.py       # Common functions (logging, thread-safe I/O)
@@ -45,7 +46,8 @@ RD-Minecraft-Tools/
 │   ├── test_asset_scanner.py
 │   ├── test_recipe_scanner.py
 │   ├── test_block_matcher.py
-│   └── test_items_matcher.py
+│   ├── test_items_matcher.py
+│   └── test_fluid_matcher.py
 ├── config/             # Configuration files
 │   ├── pytest.ini
 │   ├── pytest.yaml
@@ -141,6 +143,55 @@ RD-Minecraft-Tools/
 - `choose_result_namespace()`: User interaction or auto-selection
 - `build_matches()`: Generate mapping pairs
 
+### Items Matcher
+
+**Purpose**: Generate OneEnough Items (OEI) datapacks from JSON configuration
+
+**Process Flow**:
+1. **Configuration Phase**: Load and validate JSON configuration file
+   - Validate structure (list of dictionaries)
+   - Check for required fields: `matchItems` and `resultItems`
+   - Validate data types and prevent self-replacement
+2. **Datapack Generation Phase**: Create OEI datapack structure
+   - Create directory: `data/oei/replacements/`
+   - Generate `replacements.json` with configuration
+   - Create `pack.mcmeta` with datapack metadata
+3. **Output Phase**: Write datapack to output directory
+
+**Key Components**:
+- `validate_config()`: Validate configuration structure and content
+- `load_config()`: Load and validate JSON configuration
+- `create_datapack_structure()`: Create OEI datapack directory structure
+- `generate_replacements_file()`: Generate replacements JSON file
+- `create_pack_mcmeta()`: Create datapack metadata file
+
+### Fluid Matcher
+
+**Purpose**: Generate One Enough Fluid (OEF) datapacks from JSON configuration
+
+**Process Flow**:
+1. **Configuration Phase**: Load and validate JSON configuration file
+   - Validate structure (list of dictionaries)
+   - Check for required fields: `matchFluid` and `resultFluid`
+   - Validate data types and prevent self-replacement
+2. **Datapack Generation Phase**: Create OEF datapack structure
+   - Create directory: `data/oef/replacements/`
+   - Generate `replacements.json` with configuration
+   - Create `pack.mcmeta` with datapack metadata
+3. **Output Phase**: Write datapack to output directory
+
+**Key Components**:
+- `validate_config()`: Validate configuration structure and content
+- `load_config()`: Load and validate JSON configuration
+- `create_datapack_structure()`: Create OEF datapack directory structure
+- `generate_replacements_file()`: Generate replacements JSON file
+- `create_pack_mcmeta()`: Create datapack metadata file
+
+**Notes**:
+- OEF is an add-on for OEI that extends fluid-replacement functionality
+- Uses `matchFluid` and `resultFluid` fields (not `matchItems`/`resultItems`)
+- Enables fluid replacement for blocks, items, and recipes
+
 ---
 
 ## Data Flow
@@ -207,6 +258,46 @@ Match mappings
 [Format Conversion]
     ↓
 matches.json/csv/txt
+```
+
+### Items Matcher Data Flow
+
+```
+JSON config file
+    ↓
+[Validation]
+    ↓
+Validated config (matchItems/resultItems)
+    ↓
+[Datapack Generation]
+    ↓
+data/oei/replacements/replacements.json
+    ↓
+[Metadata Creation]
+    ↓
+pack.mcmeta
+    ↓
+OEI datapack (ready to install)
+```
+
+### Fluid Matcher Data Flow
+
+```
+JSON config file
+    ↓
+[Validation]
+    ↓
+Validated config (matchFluid/resultFluid)
+    ↓
+[Datapack Generation]
+    ↓
+data/oef/replacements/replacements.json
+    ↓
+[Metadata Creation]
+    ↓
+pack.mcmeta
+    ↓
+OEF datapack (ready to install)
 ```
 
 ---
@@ -297,6 +388,32 @@ def write_entry(out_file: Path, lines: List[str]):
 ```csv
 matchBlock,resultBlock
 namespace:block_id,namespace:block_id
+```
+
+#### OEI/OEF Datapack JSON Files
+```json
+[
+  {
+    "matchItems": [
+      "minecraft:potato",
+      "minecraft:carrot"
+    ],
+    "resultItems": "minecraft:egg"
+  }
+]
+```
+
+For OEF (Fluid Matcher), the format uses `matchFluid` and `resultFluid`:
+```json
+[
+  {
+    "matchFluid": [
+      "minecraft:water",
+      "minecraft:lava"
+    ],
+    "resultFluid": "minecraft:water"
+  }
+]
 ```
 
 ---

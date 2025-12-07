@@ -282,8 +282,11 @@ def main() -> None:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Generate OEB datapack (default)
+  # Generate OEB datapack (default, uses /input directory)
   python -m tools.block_matcher
+  
+  # Specify input directory with .txt files
+  python -m tools.block_matcher --input-dir ./blocks
   
   # Non-interactive with pre-selected namespace
   python -m tools.block_matcher --namespace minecraft --no-interactive
@@ -298,8 +301,8 @@ Examples:
     parser.add_argument(
         "--input-dir",
         type=Path,
-        default=None,
-        help="Directory containing .txt files (default: current directory)"
+        default=Path("/input"),
+        help="Directory containing .txt files (default: /input)"
     )
     parser.add_argument(
         "--output-file",
@@ -345,12 +348,8 @@ Examples:
     
     args = parser.parse_args()
     
-    # Determine input directory
-    if args.input_dir:
-        input_dir = args.input_dir
-    else:
-        # Default to current directory
-        input_dir = Path.cwd()
+    # Use input directory (defaults to /input)
+    input_dir = args.input_dir
     
     if not input_dir.exists():
         log(f"Input directory does not exist: {input_dir}", "ERROR")

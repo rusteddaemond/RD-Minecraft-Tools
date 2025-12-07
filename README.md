@@ -8,6 +8,7 @@ A collection of Python tools for analyzing and processing Minecraft mod JAR file
 - **[Recipe Scanner](docs/codebase.md#recipe-scanner)** - Extract recipe results from JAR files
 - **[Block Matcher](docs/codebase.md#block-matcher)** - Find duplicate blocks across namespaces
 - **[Items Matcher](docs/codebase.md#items-matcher)** - Generate OEI datapacks from JSON config
+- **[Fluid Matcher](docs/codebase.md#fluid-matcher)** - Generate OEF datapacks from JSON config
 
 ## Quick Start
 
