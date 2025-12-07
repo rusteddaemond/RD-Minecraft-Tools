@@ -30,78 +30,146 @@ RD-Minecraft-Tools is a collection of Python tools for analyzing Minecraft mod J
 RD-Minecraft-Tools/
 ├── tools/              # Main tool modules
 │   ├── __init__.py
-│   ├── asset_scanner.py
-│   ├── recipe_scanner.py
-│   ├── block_matcher.py
-│   ├── items_matcher.py
-│   └── fluid_matcher.py
-├── src/                # Shared utilities
-│   ├── __init__.py
-│   ├── utils.py       # Common functions (logging, thread-safe I/O)
-│   ├── jar_processor.py      # JAR file utilities
-│   ├── arg_parser.py         # Common argument parsing
-│   └── thread_pool.py        # Thread pool execution
+│   ├── scanners/       # Scanner tools
+│   │   ├── __init__.py
+│   │   ├── block_scanner.py
+│   │   ├── items_scanner.py
+│   │   ├── fluid_scanner.py
+│   │   └── recipe_scanner.py
+│   ├── matchers/       # Matcher tools
+│   │   ├── __init__.py
+│   │   ├── block_matcher.py
+│   │   ├── items_matcher.py
+│   │   └── fluid_matcher.py
+│   ├── interfaces/      # Shared argument interfaces
+│   │   ├── __init__.py
+│   │   ├── scanner_args.py
+│   │   └── matcher_args.py
+│   └── docker_builder.py
+├── src/                # Core architecture
+│   ├── models/         # Data models (dataclasses)
+│   │   ├── scanner.py  # NamespaceObject, ScannerResult, ScannerConfig
+│   │   ├── matcher.py  # MatchRule, MatcherConfig, DuplicateMatch
+│   │   ├── datapack.py # DatapackMetadata, ReplacementRule
+│   │   ├── jar.py      # JarEntry, JarMetadata
+│   │   └── recipe.py   # RecipeResult
+│   ├── interfaces/     # Protocol definitions (contracts)
+│   │   ├── scanner.py  # IEntryFilter, IScannerProcessor
+│   │   ├── matcher.py  # IMatcherProcessor, IMatcherValidator
+│   │   ├── processor.py # IJarProcessor, IFileProcessor
+│   │   ├── cleaner.py  # IIdentifierCleaner
+│   │   └── datapack.py # IDatapackGenerator
+│   ├── processors/    # Business logic implementations
+│   │   ├── scanner/    # Scanner processors
+│   │   ├── matcher/    # Matcher processors
+│   │   ├── jar/        # JAR file processors
+│   │   ├── datapack/   # Datapack generation
+│   │   ├── cleaner/    # Identifier cleaning
+│   │   └── file_io.py  # File I/O operations
+│   ├── services/      # High-level orchestration
+│   │   ├── scanner_service.py
+│   │   └── matcher_service.py
+│   ├── utils/          # Pure utilities
+│   │   ├── logging.py
+│   │   ├── threading.py
+│   │   └── config.py
+│   ├── utils.py        # Backward compatibility (re-exports)
+│   ├── jar_processor.py # Legacy (deprecated)
+│   ├── scanner_common.py # Legacy (deprecated)
+│   ├── matcher_common.py # Legacy (deprecated)
+│   └── arg_parser.py   # Common argument parsing
 ├── tests/             # Unit tests
 │   ├── __init__.py
-│   ├── test_asset_scanner.py
-│   ├── test_recipe_scanner.py
+│   ├── test_models.py
+│   ├── test_processors.py
+│   ├── test_services.py
 │   ├── test_block_matcher.py
-│   ├── test_items_matcher.py
-│   └── test_fluid_matcher.py
+│   └── test_recipe_scanner.py
 ├── config/             # Configuration files
-│   ├── pytest.ini
-│   ├── pytest.yaml
-│   ├── flake8.yaml
-│   ├── black.yaml
-│   └── mypy.yaml
+│   ├── paths.json
+│   └── README.md
 └── docs/              # Documentation
-    └── codebase.md
+    ├── codebase.md
+    └── refactoring/    # Architecture refactoring documentation
 ```
 
 ### Module Organization
 
-- **tools/**: Contains the main tool scripts, each as an independent module
-- **src/**: Shared code used by multiple tools (DRY principle)
-  - `utils.py`: Core utilities (logging, thread-safe I/O, directory management)
-  - `jar_processor.py`: JAR file discovery, validation, and output directory creation
-  - `arg_parser.py`: Common command-line argument definitions
-  - `thread_pool.py`: Standardized concurrent execution patterns
-- **tests/**: Unit tests mirroring the tool structure
-- **config/**: Configuration files in YAML format
+- **tools/**: Contains the main tool scripts, each as a thin wrapper around services
+- **src/models/**: Explicit data structures using dataclasses (immutable where possible)
+- **src/interfaces/**: Protocol definitions that define contracts for components
+- **src/processors/**: Business logic implementations that adhere to interfaces
+- **src/services/**: High-level orchestration that composes processors
+- **src/utils/**: Pure utility functions without business logic
+- **tests/**: Unit tests for models, processors, and services
+- **config/**: Configuration files
 - **docs/**: Developer documentation
+
+### Architecture Principles
+
+The codebase follows a layered architecture with clear separation of concerns:
+
+1. **Models Layer**: Explicit, type-safe data structures
+2. **Interfaces Layer**: Well-defined contracts using `typing.Protocol`
+3. **Processors Layer**: Business logic implementations
+4. **Services Layer**: High-level orchestration
+5. **Utilities Layer**: Pure helper functions
+
+See [Architecture Overview](refactoring/architecture_overview.md) for detailed information.
 
 ---
 
 ## Tool Architecture
 
-### Asset Scanner
+### New Architecture (Current)
 
-**Purpose**: Extract block/item identifiers from JAR files
+The codebase uses a layered architecture with clear separation of concerns:
 
-**Process Flow**:
+- **Models**: Data structures (`NamespaceObject`, `ScannerResult`, `MatchRule`, etc.)
+- **Interfaces**: Protocol definitions (`IScannerProcessor`, `IMatcherProcessor`, etc.)
+- **Processors**: Business logic implementations (`AssetScannerProcessor`, `DuplicateMatcherProcessor`, etc.)
+- **Services**: High-level orchestration (`ScannerService`, `MatcherService`)
+
+Tools are thin wrappers that use services to orchestrate workflows.
+
+### Asset Scanners (Block, Items, Fluid)
+
+**Purpose**: Extract asset identifiers from JAR files
+
+**Architecture**: Uses `ScannerService` with `AssetScannerProcessor` and entry filters
+
+**Shared Process Flow**:
 1. **Discovery Phase**: Find all `.jar` files in input directory
 2. **Scanning Phase**: Concurrently process each JAR file
    - Open JAR as ZIP archive
    - Iterate through entries
-   - Filter by path pattern (`assets/{namespace}/models|textures/{block|item}/*`)
+   - Filter by path pattern (varies by scanner type)
    - Extract namespace and identifier
    - Buffer entries by namespace
 3. **Writing Phase**: Thread-safely write raw entries to files
-4. **Cleaning Phase**: Process raw files
-   - Remove file extensions
-   - Remove affixes (orientation, state, etc.)
+4. **Cleaning Phase**: Process raw files with convergence-based cleaning
+   - Remove file extensions (including .json for fluids)
+   - Remove affixes (orientation, state, etc.) until convergence
    - Deduplicate
    - Sort alphabetically
 
+**Scanner-Specific Path Patterns**:
+- **Block Scanner**: `assets/{namespace}/models|textures/block/*`
+- **Items Scanner**: `assets/{namespace}/models|textures/item/*`
+- **Fluid Scanner**: `assets/{namespace}/fluid/*` or `assets/{namespace}/fluid_types/*`
+
 **Key Components**:
-- `AFFIX_GROUPS`: Dictionary of affix categories for cleaning
-- `clean_identifier()`: Recursive cleaning function
-- `process_jar()`: Per-JAR processing function
-- `clean_results()`: Post-processing cleaning function
+- `src/services/scanner_service.py`: Orchestrates scanner workflows
+- `src/processors/scanner/asset.py`: `AssetScannerProcessor` implementation
+- `src/processors/scanner/filters.py`: Entry filters (`BlockEntryFilter`, `ItemsEntryFilter`, `FluidEntryFilter`)
+- `src/processors/cleaner/identifier.py`: Identifier cleaning (`IdentifierCleaner`, `FluidIdentifierCleaner`)
+- `src/models/scanner.py`: Data models (`ScannerResult`, `ScannerConfig`, `NamespaceObject`)
 
 ### Recipe Scanner
 
 **Purpose**: Extract recipe results from JAR files
+
+**Architecture**: Uses `ScannerService` with `RecipeScannerProcessor`
 
 **Process Flow**:
 1. **Discovery Phase**: Find all `.jar` files
@@ -115,13 +183,15 @@ RD-Minecraft-Tools/
 4. **Cleaning Phase**: Deduplicate and sort
 
 **Key Components**:
-- `extract_results_from_json()`: JSON parsing with multiple format support
-- `process_jar()`: Per-JAR processing
-- `clean_results()`: Deduplication and sorting
+- `src/services/scanner_service.py`: Orchestrates scanner workflows
+- `src/processors/scanner/recipe.py`: `RecipeScannerProcessor` implementation
+- `src/models/scanner.py`: Data models
 
 ### Block Matcher
 
 **Purpose**: Find duplicate blocks across namespaces
+
+**Architecture**: Uses `MatcherService` with `DuplicateMatcherProcessor`
 
 **Process Flow**:
 1. **Discovery Phase**: Find all `.txt` files in input directory
@@ -135,68 +205,72 @@ RD-Minecraft-Tools/
    - Non-interactive: Use provided namespace
 5. **Generation Phase**: Build match mappings
    - Create `matchBlock -> resultBlock` pairs
-6. **Output Phase**: Write in selected format (JSON/CSV/TXT)
+6. **Output Phase**: Generate datapack with match rules
 
 **Key Components**:
-- `load_blocks()`: Parse text files into data structure
-- `filter_duplicates()`: Find cross-namespace duplicates
-- `choose_result_namespace()`: User interaction or auto-selection
-- `build_matches()`: Generate mapping pairs
+- `src/services/matcher_service.py`: Orchestrates matcher workflows
+- `src/processors/matcher/duplicate.py`: `DuplicateMatcherProcessor` implementation
+- `src/processors/file_io.py`: File I/O operations
+- `src/models/matcher.py`: Data models (`MatchRule`, `MatcherConfig`)
 
-### Items Matcher
+### Matchers (Block, Items, Fluid)
 
-**Purpose**: Generate OneEnough Items (OEI) datapacks from JSON configuration
+**Purpose**: Find duplicate objects across namespaces and generate datapacks (OEB/OEI/OEF)
 
-**Process Flow**:
-1. **Configuration Phase**: Load and validate JSON configuration file
-   - Validate structure (list of dictionaries)
-   - Check for required fields: `matchItems` and `resultItems`
-   - Validate data types and prevent self-replacement
-2. **Datapack Generation Phase**: Create OEI datapack structure
-   - Create directory: `data/oei/replacements/`
-   - Generate `replacements.json` with configuration
+**Architecture**: All matchers use `MatcherService` with `DuplicateMatcherProcessor`
+
+**Shared Process Flow**:
+1. **Discovery Phase**: Find all `.txt` files in input directory (from scanners)
+2. **Loading Phase**: Parse text files
+   - Read each line as `namespace:object_id`
+   - Build map: `object_id -> [namespaces]`
+3. **Filtering Phase**: Find duplicates
+   - Filter objects appearing in multiple namespaces
+4. **Selection Phase**: Choose target namespace
+   - Interactive: Prompt user
+   - Non-interactive: Use provided namespace
+5. **Generation Phase**: Build match rules
+   - Create match mappings (matchField -> resultField)
+6. **Datapack Generation Phase**: Create datapack structure
+   - Create directory: `data/{datapack_path}/replacements/`
+   - Generate `replacements.json` with match rules
    - Create `pack.mcmeta` with datapack metadata
-3. **Output Phase**: Write datapack to output directory
+7. **Output Phase**: Write datapack to output directory
+
+**Matcher-Specific Details**:
+- **Block Matcher (OEB)**:
+  - Fields: `matchBlock` and `resultBlock`
+  - Datapack path: `data/oeb/replacements/`
+  - Output file: Named after target namespace (e.g., `farm_and_charm.json`)
+- **Items Matcher (OEI)**:
+  - Fields: `matchItems` and `resultItems`
+  - Datapack path: `data/oei/replacements/`
+  - Output file: Named after target namespace (e.g., `minecraft.json`)
+- **Fluid Matcher (OEF)**:
+  - Fields: `matchFluid` and `resultFluid`
+  - Datapack path: `data/oef/replacements/`
+  - Output file: Named after target namespace (e.g., `minecraft.json`)
+  - OEF is an add-on for OEI that extends fluid-replacement functionality
+  - Enables fluid replacement for blocks, items, and recipes
+
+**Output File Naming**:
+- Input files are named by source namespace: `namespace1.txt`, `namespace2.txt`
+- Output file is named after the target namespace (the namespace replacements are made TO)
+- Example: If `minecraft:egg` is replaced with `farm_and_charm:haybale`, output is `farm_and_charm.json`
 
 **Key Components**:
-- `validate_config()`: Validate configuration structure and content
-- `load_config()`: Load and validate JSON configuration
-- `create_datapack_structure()`: Create OEI datapack directory structure
-- `generate_replacements_file()`: Generate replacements JSON file
-- `create_pack_mcmeta()`: Create datapack metadata file
-
-### Fluid Matcher
-
-**Purpose**: Generate One Enough Fluid (OEF) datapacks from JSON configuration
-
-**Process Flow**:
-1. **Configuration Phase**: Load and validate JSON configuration file
-   - Validate structure (list of dictionaries)
-   - Check for required fields: `matchFluid` and `resultFluid`
-   - Validate data types and prevent self-replacement
-2. **Datapack Generation Phase**: Create OEF datapack structure
-   - Create directory: `data/oef/replacements/`
-   - Generate `replacements.json` with configuration
-   - Create `pack.mcmeta` with datapack metadata
-3. **Output Phase**: Write datapack to output directory
-
-**Key Components**:
-- `validate_config()`: Validate configuration structure and content
-- `load_config()`: Load and validate JSON configuration
-- `create_datapack_structure()`: Create OEF datapack directory structure
-- `generate_replacements_file()`: Generate replacements JSON file
-- `create_pack_mcmeta()`: Create datapack metadata file
-
-**Notes**:
-- OEF is an add-on for OEI that extends fluid-replacement functionality
-- Uses `matchFluid` and `resultFluid` fields (not `matchItems`/`resultItems`)
-- Enables fluid replacement for blocks, items, and recipes
+- `src/services/matcher_service.py`: Orchestrates matcher workflows
+- `src/processors/matcher/duplicate.py`: `DuplicateMatcherProcessor` implementation
+- `src/processors/file_io.py`: File I/O operations for reading `.txt` files
+- `src/processors/datapack/generator.py`: `DatapackGenerator` implementation
+- `src/models/matcher.py`: Data models (`MatchRule`, `MatcherConfig`)
+- `src/models/datapack.py`: Data models (`DatapackMetadata`, `ReplacementRule`)
 
 ---
 
 ## Data Flow
 
-### Asset Scanner Data Flow
+### Asset Scanner Data Flow (Block/Items/Fluid)
 
 ```
 JAR Files
@@ -209,12 +283,14 @@ Raw Entries (namespace:identifier)
     ↓
 *_raw.txt files
     ↓
-[Cleaning Process]
+[Convergence-based Cleaning]
     ↓
 Cleaned Entries (normalized)
     ↓
 *.txt files (final output)
 ```
+
+**Note**: All asset scanners follow the same data flow pattern, differing only in path patterns (see Scanner-Specific Path Patterns above).
 
 ### Recipe Scanner Data Flow
 
@@ -241,7 +317,7 @@ Result IDs
 ### Block Matcher Data Flow
 
 ```
-*.txt files (from asset scanner)
+*.txt files (from block scanner: namespace:block_id)
     ↓
 [Parsing]
     ↓
@@ -253,52 +329,59 @@ Duplicate blocks
     ↓
 [Namespace Selection]
     ↓
-Match mappings
-    ↓
-[Format Conversion]
-    ↓
-matches.json/csv/txt
-```
-
-### Items Matcher Data Flow
-
-```
-JSON config file
-    ↓
-[Validation]
-    ↓
-Validated config (matchItems/resultItems)
+Match rules (matchBlock -> resultBlock)
     ↓
 [Datapack Generation]
     ↓
-data/oei/replacements/replacements.json
+data/oeb/replacements/{target_namespace}.json
     ↓
 [Metadata Creation]
     ↓
 pack.mcmeta
     ↓
-OEI datapack (ready to install)
+OEB datapack (ready to install)
 ```
 
-### Fluid Matcher Data Flow
+### Matcher Data Flow (Block/Items/Fluid)
+
+All matchers follow the same data flow pattern - they differ only in the type of objects they match:
 
 ```
-JSON config file
+*.txt files (from scanners: namespace:object_id)
     ↓
-[Validation]
+[Parsing]
     ↓
-Validated config (matchFluid/resultFluid)
+object_id -> [namespaces] map
+    ↓
+[Duplicate Detection]
+    ↓
+Duplicate objects (appearing in multiple namespaces)
+    ↓
+[Namespace Selection]
+    ↓
+Match rules (matchField -> resultField)
     ↓
 [Datapack Generation]
     ↓
-data/oef/replacements/replacements.json
+data/{datapack_path}/replacements/{target_namespace}.json
     ↓
 [Metadata Creation]
     ↓
 pack.mcmeta
     ↓
-OEF datapack (ready to install)
+OEI/OEF/OEB datapack (ready to install)
 ```
+
+**Matcher-Specific Details**:
+- **Block Matcher (OEB)**: Uses `matchBlock` and `resultBlock` fields
+- **Items Matcher (OEI)**: Uses `matchItems` and `resultItems` fields
+- **Fluid Matcher (OEF)**: Uses `matchFluid` and `resultFluid` fields
+
+**File Naming**:
+- Input files: Named by source namespace (e.g., `minecraft.txt`, `farm_and_charm.txt`)
+- Output file: Named after target namespace (e.g., `farm_and_charm.json` if replacements target that namespace)
+
+All matchers read from `.txt` files and output JSON datapacks.
 
 ---
 
@@ -374,23 +457,45 @@ def write_entry(out_file: Path, lines: List[str]):
 - Sorted alphabetically
 - Deduplicated
 
-#### JSON Files
+#### Matcher Input Files (Text Format)
+
+Input files are named by namespace (e.g., `minecraft.txt`, `farm_and_charm.txt`):
+
+**minecraft.txt**:
+```
+minecraft:dirt
+minecraft:stone
+minecraft:egg
+```
+
+**farm_and_charm.txt**:
+```
+farm_and_charm:haybale
+farm_and_charm:copper_block
+```
+
+Format: `namespace:object_id` (one per line), UTF-8 encoding, sorted alphabetically, deduplicated.
+
+These `.txt` files are generated by the scanner tools (block_scanner, items_scanner, fluid_scanner).
+
+#### Matcher Output Files (Datapack JSON Format)
+
+All matchers generate JSON datapacks with the same structure, differing only in field names:
+
+**OEB (Block Matcher)**:
 ```json
 [
   {
-    "matchBlock": "namespace:block_id",
-    "resultBlock": "namespace:block_id"
+    "matchBlock": [
+      "modname:copper_block",
+      "othermod:copper_block"
+    ],
+    "resultBlock": "minecraft:copper_block"
   }
 ]
 ```
 
-#### CSV Files
-```csv
-matchBlock,resultBlock
-namespace:block_id,namespace:block_id
-```
-
-#### OEI/OEF Datapack JSON Files
+**OEI (Items Matcher)**:
 ```json
 [
   {
@@ -403,7 +508,7 @@ namespace:block_id,namespace:block_id
 ]
 ```
 
-For OEF (Fluid Matcher), the format uses `matchFluid` and `resultFluid`:
+**OEF (Fluid Matcher)**:
 ```json
 [
   {
@@ -415,6 +520,10 @@ For OEF (Fluid Matcher), the format uses `matchFluid` and `resultFluid`:
   }
 ]
 ```
+
+All matchers read from `.txt` files (output from scanners) and generate JSON datapacks.
+
+**Output File Naming**: The output JSON file is named after the target namespace (the namespace that replacements are made TO). For example, if `minecraft:egg` is replaced with `farm_and_charm:haybale`, the output file will be `farm_and_charm.json`.
 
 ---
 
@@ -434,12 +543,12 @@ For OEF (Fluid Matcher), the format uses `matchFluid` and `resultFluid`:
 - **Flexibility**: Users can re-run cleaning with different parameters
 - **Audit trail**: Raw files serve as a record of extraction
 
-### Why Triple-Pass Cleaning?
+### Why Convergence-Based Cleaning?
 
-- **Nested affixes**: Some identifiers have multiple affixes (e.g., `dirt_top_side`)
-- **Recursive removal**: Each pass removes one layer of affixes
-- **Balance**: Too few passes miss nested affixes, too many might over-clean
-- **Configurable**: Users can adjust with `--clean-passes`
+- **Nested affixes**: Some identifiers have multiple affixes (e.g., `dirt_top_side_stage0`)
+- **Thorough removal**: Continues cleaning until no more changes occur
+- **No pass limit**: Handles deeply nested affixes automatically
+- **Automatic**: No configuration needed - cleans until convergence
 
 ### Why Exclude Minecraft Recipes by Default?
 
@@ -454,38 +563,94 @@ For OEF (Fluid Matcher), the format uses `matchFluid` and `resultFluid`:
 - **Context-aware**: Different projects may have different preferences
 - **Non-interactive option**: Can be automated with `--namespace` and `--no-interactive`
 
-### Why Multiple Output Formats?
+### Why Datapack Output Format?
 
-- **Flexibility**: Different tools/scripts may need different formats
-- **Human-readable**: TXT format for manual inspection
-- **Machine-readable**: JSON/CSV for automated processing
-- **Easy conversion**: Can convert between formats if needed
+- **Standardized**: All matchers output Minecraft datapacks in the same format
+- **Ready to use**: Datapacks can be directly installed in Minecraft worlds
+- **Consistent structure**: Same format across OEB, OEI, and OEF datapacks
+- **Field-based**: Only difference between matchers is field names (matchBlock/matchItems/matchFluid)
 
 ---
 
 ## Extension Points
 
-### Adding a New Tool
+### Adding a New Scanner Tool
 
-1. Create new file in `tools/` directory
-2. Import shared utilities:
+1. Create new file in `tools/scanners/` directory
+2. Use the new architecture:
    ```python
-   from src.utils import log, write_entry
-   from src.jar_processor import validate_input_directory, find_jar_files, create_output_dirs
-   from src.arg_parser import add_common_jar_args, get_thread_count
-   from src.thread_pool import execute_concurrent
+   from src.services.scanner_service import ScannerService
+   from src.processors.scanner import AssetScannerProcessor, BlockEntryFilter
+   from src.processors.cleaner import IdentifierCleaner
+   from src.processors.file_io import FileIOProcessor
+   from src.models.scanner import ScannerConfig
+   
+   # Create components
+   entry_filter = BlockEntryFilter()  # Or create custom filter
+   cleaner = IdentifierCleaner()
+   processor = AssetScannerProcessor(entry_filter, cleaner)
+   file_io = FileIOProcessor()
+   service = ScannerService(processor, file_io, cleaner)
+   
+   # Create config and run
+   config = ScannerConfig(...)
+   service.run_scan(config)
    ```
-3. Follow existing patterns:
-   - Use `argparse` for CLI with `add_common_jar_args()` for standard options
-   - Use `log()` for all output (replaces print statements)
-   - Use `write_entry()` for thread-safe file writing
-   - Use `execute_concurrent()` for parallel processing
-   - Add type hints
-   - Add docstrings
+
+### Adding a New Matcher Tool
+
+1. Create new file in `tools/matchers/` directory
+2. Use the new architecture:
+   ```python
+   from src.services.matcher_service import MatcherService
+   from src.processors.matcher import DuplicateMatcherProcessor
+   from src.processors.file_io import FileIOProcessor
+   from src.models.matcher import MatcherConfig
+   
+   # Create components
+   file_io = FileIOProcessor()
+   processor = DuplicateMatcherProcessor(file_io)
+   service = MatcherService(processor, file_io)
+   
+   # Create config and run
+   config = MatcherConfig(...)
+   service.run_duplicate_matcher(config, result_ns="minecraft")
+   ```
+
+### Creating a Custom Entry Filter
+
+Implement `IEntryFilter` interface:
+```python
+from src.interfaces.scanner import IEntryFilter
+from src.models.scanner import NamespaceObject
+
+class CustomEntryFilter(IEntryFilter):
+    def should_include(self, entry_path: str) -> bool:
+        # Your filtering logic
+        return entry_path.endswith(".json")
+    
+    def extract_object(self, entry_path: str) -> NamespaceObject | None:
+        # Extract namespace and object_id from path
+        # Return None if extraction fails
+        pass
+```
+
+### Creating a Custom Processor
+
+Implement the appropriate interface:
+```python
+from src.interfaces.scanner import IScannerProcessor
+from src.models.scanner import ScannerConfig, ScannerResult
+
+class CustomScannerProcessor(IScannerProcessor):
+    def process_jar(self, jar_path: Path, config: ScannerConfig) -> List[ScannerResult]:
+        # Your processing logic
+        pass
+```
 
 ### Adding New Affixes
 
-Edit `AFFIX_GROUPS` in `tools/asset_scanner.py`:
+Edit `AFFIX_GROUPS` in `src/processors/cleaner/identifier.py`:
 ```python
 AFFIX_GROUPS = {
     "new_category": [
@@ -495,16 +660,6 @@ AFFIX_GROUPS = {
     # ... existing groups
 }
 ```
-
-### Adding New Output Formats
-
-In `tools/block_matcher.py`, add new format function:
-```python
-def write_new_format(matches: List[Dict[str, str]], out_file: Path):
-    # Implementation
-```
-
-Then add to `--format` choices and main() function.
 
 ---
 
@@ -543,8 +698,8 @@ Then add to `--format` choices and main() function.
 
 ### Architecture Improvements
 
-1. **Plugin system**: Allow external tools to extend functionality
-2. **Configuration files**: YAML/JSON config for default settings
-3. **Logging framework**: Replace print statements with proper logging
-4. **Error recovery**: Better handling of corrupted JARs
-5. **Validation**: Validate JAR structure before processing
+1. **Migrate legacy tools**: Migrate `tag_scanner.py` and `asset_scanner.py` to new architecture
+2. **Remove deprecated code**: After legacy migration, remove `scanner_common.py`, `matcher_common.py`, `matcher_base.py`
+3. **Plugin system**: Allow external tools to extend functionality via interfaces
+4. **Enhanced testing**: Add more integration and end-to-end tests
+5. **Performance optimization**: Profile hot paths and optimize

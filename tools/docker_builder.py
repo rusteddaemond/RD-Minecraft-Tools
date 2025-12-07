@@ -21,6 +21,7 @@ from typing import Set
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from src.utils import log, get_project_root
+from src.file_operations import read_text_file, find_files, write_text_file
 
 
 # ---------------------------------------------------------------------
@@ -57,12 +58,11 @@ def extract_modrinth_ids_from_file(file_path: Path) -> Set[str]:
     modrinth_ids: Set[str] = set()
     
     try:
-        with file_path.open("r", encoding="utf-8", errors="ignore") as f:
-            content = f.read()
-            # Find all Modrinth URLs and extract the project IDs
-            matches = MODRINTH_URL_PATTERN.findall(content)
-            for match in matches:
-                modrinth_ids.add(match)
+        content = read_text_file(file_path, errors="ignore")
+        # Find all Modrinth URLs and extract the project IDs
+        matches = MODRINTH_URL_PATTERN.findall(content)
+        for match in matches:
+            modrinth_ids.add(match)
     except Exception as e:
         log(f"Error reading {file_path.name}: {e}", "WARN")
     
@@ -83,12 +83,11 @@ def extract_curseforge_ids_from_file(file_path: Path) -> Set[str]:
     curseforge_ids: Set[str] = set()
     
     try:
-        with file_path.open("r", encoding="utf-8", errors="ignore") as f:
-            content = f.read()
-            # Find all CurseForge URLs and extract the project IDs
-            matches = CURSEFORGE_URL_PATTERN.findall(content)
-            for match in matches:
-                curseforge_ids.add(match)
+        content = read_text_file(file_path, errors="ignore")
+        # Find all CurseForge URLs and extract the project IDs
+        matches = CURSEFORGE_URL_PATTERN.findall(content)
+        for match in matches:
+            curseforge_ids.add(match)
     except Exception as e:
         log(f"Error reading {file_path.name}: {e}", "WARN")
     
@@ -110,9 +109,7 @@ def find_mod_files(mods_dir: Path) -> list[Path]:
         return mod_files
     
     for ext in ["*.txt", "*.md"]:
-        mod_files.extend(mods_dir.glob(ext))
-        # Also search recursively
-        mod_files.extend(mods_dir.rglob(ext))
+        mod_files.extend(find_files(mods_dir, ext, recursive=True))
     
     return sorted(set(mod_files))  # Remove duplicates and sort
 
@@ -196,8 +193,7 @@ def extract_curseforge_keys_from_env(env_file: Path) -> tuple[Set[str], str | No
         return curseforge_keys, cf_api_key
     
     try:
-        with env_file.open("r", encoding="utf-8", errors="ignore") as f:
-            content = f.read()
+        content = read_text_file(env_file, errors="ignore")
             
             # Look for CF_API_KEY
             api_key_match = re.search(
@@ -338,8 +334,7 @@ volumes:
     
     # Write to file
     try:
-        with output_path.open("w", encoding="utf-8") as f:
-            f.write(yaml_content)
+        write_text_file(output_path, yaml_content)
         log(f"Generated docker-compose.yml at {output_path.resolve()}", "OK")
         log(f"  - Modrinth projects: {len(modrinth_ids)}", "INFO")
         log(f"  - CurseForge files: {len(curseforge_keys)}", "INFO")
@@ -360,25 +355,21 @@ def main() -> None:
         formatter_class=argparse.RawDescriptionHelpFormatter
     )
     
+    from src.config_loader import load_paths_from_config, get_default_paths
+    
     project_root = get_project_root()
     
     parser.add_argument(
-        "--mods-dir",
+        "--config",
         type=Path,
-        default=project_root / "mods",
-        help="Directory containing .txt and .md mod files (default: mods in project root)"
+        default=None,
+        help="Path to configuration file for standard paths (JSON format)"
     )
     parser.add_argument(
         "--env-file",
         type=Path,
         default=project_root / ".env",
         help="Path to .env file containing CurseForge keys (default: .env in project root)"
-    )
-    parser.add_argument(
-        "--output",
-        type=Path,
-        default=project_root / "docker-compose.yml",
-        help="Output path for docker-compose.yml (default: docker-compose.yml in project root)"
     )
     parser.add_argument(
         "--server-type",
@@ -419,13 +410,19 @@ def main() -> None:
     
     args = parser.parse_args()
     
+    # Load paths from config
+    paths = load_paths_from_config(args.config) if args.config else get_default_paths()
+    
+    # Use mods directory from config
+    mods_dir = paths.mods
+    
     # Extract Modrinth IDs from mod files
     log("Extracting Modrinth project IDs from mod files...")
-    modrinth_ids = extract_all_modrinth_ids(args.mods_dir)
+    modrinth_ids = extract_all_modrinth_ids(mods_dir)
     
     # Extract CurseForge project IDs from mod files
     log("Extracting CurseForge project IDs from mod files...")
-    curseforge_ids_from_files = extract_all_curseforge_ids(args.mods_dir)
+    curseforge_ids_from_files = extract_all_curseforge_ids(mods_dir)
     
     # Extract CurseForge file IDs from .env
     log("Extracting CurseForge keys from .env file...")
@@ -434,13 +431,14 @@ def main() -> None:
     # Combine CurseForge IDs from files and .env
     curseforge_keys = curseforge_ids_from_files | curseforge_keys_from_env
     
-    # Generate docker-compose.yml
+    # Generate docker-compose.yml (use output directory from config)
+    output_path = paths.output / "docker-compose.yml"
     log("Generating docker-compose.yml...")
     generate_docker_compose(
         modrinth_ids=modrinth_ids,
         curseforge_keys=curseforge_keys,
         cf_api_key=cf_api_key,
-        output_path=args.output,
+        output_path=output_path,
         server_type=args.server_type,
         memory=args.memory,
         difficulty=args.difficulty,

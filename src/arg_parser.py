@@ -8,15 +8,16 @@ from __future__ import annotations
 import argparse
 import os
 from pathlib import Path
+from typing import Optional
 
-from src.utils import get_project_root
+from src.config_loader import StandardPaths, load_paths_from_config, get_default_paths
 
 
 def add_common_jar_args(parser: argparse.ArgumentParser) -> None:
     """Add common arguments for JAR processing tools.
     
     Adds the following arguments:
-    - --input-dir: Directory containing JAR files (default: project_root / "mods")
+    - --config: Path to configuration file for standard paths (optional)
     - --threads: Number of worker threads (default: CPU count)
     - --verbose: Enable verbose error output
     - --skip-raw: Delete raw files after cleaning
@@ -24,13 +25,11 @@ def add_common_jar_args(parser: argparse.ArgumentParser) -> None:
     Args:
         parser: ArgumentParser instance to add arguments to
     """
-    project_root = get_project_root()
-    
     parser.add_argument(
-        "--input-dir",
+        "--config",
         type=Path,
-        default=project_root / "mods",
-        help="Directory containing JAR files (default: mods in project root)"
+        default=None,
+        help="Path to configuration file for standard paths (JSON format)"
     )
     parser.add_argument(
         "--threads",

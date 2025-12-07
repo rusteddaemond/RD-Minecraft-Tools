@@ -7,9 +7,11 @@ JAR files used across multiple scanning tools.
 from __future__ import annotations
 import zipfile
 from pathlib import Path
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 
-from src.utils import get_project_root, create_directory_with_fallback, log
+from src.utils import create_directory_with_fallback, log
+from src.config_loader import StandardPaths, load_paths_from_config, get_default_paths
+from src.file_operations import find_jar_files as _find_jar_files
 
 
 def find_jar_files(input_dir: Path) -> List[Path]:
@@ -24,7 +26,7 @@ def find_jar_files(input_dir: Path) -> List[Path]:
     Raises:
         ValueError: If no JAR files are found
     """
-    jars = list(input_dir.glob("*.jar"))
+    jars = _find_jar_files(input_dir)
     if not jars:
         raise ValueError(f"No .jar files found in {input_dir}")
     return jars
@@ -64,7 +66,7 @@ def validate_jar_file(jar_path: Path) -> bool:
         return False
 
 
-def create_output_dirs(category: str) -> Tuple[Path, Path]:
+def create_output_dirs(category: str, paths: Optional[StandardPaths] = None) -> Tuple[Path, Path]:
     """Create raw (logs) and cleaned (output) directories for a category.
     
     Creates directory structure for storing raw and cleaned output files.
@@ -72,7 +74,8 @@ def create_output_dirs(category: str) -> Tuple[Path, Path]:
     Falls back to temp directory if permission denied.
     
     Args:
-        category: One of 'blocks', 'items', 'recipes'
+        category: One of 'blocks', 'items', 'recipes', 'fluids'
+        paths: Optional StandardPaths instance. If None, uses default paths.
     
     Returns:
         Tuple of (raw_dir, cleaned_dir)
@@ -84,17 +87,18 @@ def create_output_dirs(category: str) -> Tuple[Path, Path]:
         >>> cleaned.exists()
         True
     """
-    project_root = get_project_root()
+    if paths is None:
+        paths = get_default_paths()
     
     raw_dir = create_directory_with_fallback(
-        project_root,
-        ["logs", category],
+        paths.logs,
+        [category],
         fallback_prefix="jar_scan_"
     )
     
     cleaned_dir = create_directory_with_fallback(
-        project_root,
-        ["output", category],
+        paths.output,
+        [category],
         fallback_prefix="jar_scan_"
     )
     

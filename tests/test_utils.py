@@ -5,13 +5,13 @@ from pathlib import Path
 import tempfile
 import os
 from src.utils import (
-    get_lock,
-    write_entry,
     log,
     utc_now_str,
     get_project_root,
-    create_directory_with_fallback
+    create_directory_with_fallback,
+    write_entry
 )
+from src.file_operations import get_lock
 
 
 class TestUtils(unittest.TestCase):
