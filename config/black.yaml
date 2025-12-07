@@ -1,0 +1,15 @@
+# Black code formatter configuration
+
+line-length: 100
+target-version:
+  - py37
+include: '\.pyi?$'
+exclude: |
+  /(
+      \.git
+    | \.venv
+    | venv
+    | build
+    | dist
+    | __pycache__
+  )/

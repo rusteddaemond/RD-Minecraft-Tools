@@ -1,4 +1,4 @@
-# Architecture Documentation
+# Codebase Documentation
 
 This document explains the internal architecture and design decisions of RD-Minecraft-Tools.
 
@@ -32,18 +32,28 @@ RD-Minecraft-Tools/
 │   ├── __init__.py
 │   ├── asset_scanner.py
 │   ├── recipe_scanner.py
-│   └── block_matcher.py
+│   ├── block_matcher.py
+│   └── items_matcher.py
 ├── src/                # Shared utilities
 │   ├── __init__.py
-│   └── utils.py       # Common functions (logging, thread-safe I/O)
+│   ├── utils.py       # Common functions (logging, thread-safe I/O)
+│   ├── jar_processor.py      # JAR file utilities
+│   ├── arg_parser.py         # Common argument parsing
+│   └── thread_pool.py        # Thread pool execution
 ├── tests/             # Unit tests
 │   ├── __init__.py
 │   ├── test_asset_scanner.py
 │   ├── test_recipe_scanner.py
-│   └── test_block_matcher.py
+│   ├── test_block_matcher.py
+│   └── test_items_matcher.py
+├── config/             # Configuration files
+│   ├── pytest.ini
+│   ├── pytest.yaml
+│   ├── flake8.yaml
+│   ├── black.yaml
+│   └── mypy.yaml
 └── docs/              # Documentation
-    ├── USAGE.md
-    └── ARCHITECTURE.md
+    └── codebase.md
 ```
 
 ### Module Organization
@@ -55,7 +65,8 @@ RD-Minecraft-Tools/
   - `arg_parser.py`: Common command-line argument definitions
   - `thread_pool.py`: Standardized concurrent execution patterns
 - **tests/**: Unit tests mirroring the tool structure
-- **docs/**: User and developer documentation
+- **config/**: Configuration files in YAML format
+- **docs/**: Developer documentation
 
 ---
 
@@ -216,11 +227,6 @@ execute_concurrent(jars, process_jar_wrapper, max_workers=max_workers, verbose=a
 ```
 
 This provides standardized error handling and thread management across all tools.
-
-**Benefits**:
-- I/O-bound operations (reading JAR files) benefit from threading
-- Multiple JARs processed simultaneously
-- Scales with CPU count
 
 ### Thread-Safe File Writing
 
@@ -425,4 +431,3 @@ Then add to `--format` choices and main() function.
 3. **Logging framework**: Replace print statements with proper logging
 4. **Error recovery**: Better handling of corrupted JARs
 5. **Validation**: Validate JAR structure before processing
-

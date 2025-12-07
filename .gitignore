@@ -150,3 +150,4 @@ _test.tmp
 _write_test.tmp
 oei_datapack/
 oeb_output/
+.flake8
