@@ -151,3 +151,8 @@ _write_test.tmp
 oei_datapack/
 oeb_output/
 .flake8
+
+# Mod directories
+mods/
+example_mods/
+scan_output/
