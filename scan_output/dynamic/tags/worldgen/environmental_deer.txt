@@ -1,0 +1,4 @@
+#minecraft:is_forest
+atmospheric:aspen_parkland
+atmospheric:grimwoods
+minecraft:grove

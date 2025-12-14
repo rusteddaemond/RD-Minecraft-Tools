@@ -1,0 +1,3 @@
+c:crops/beetroot
+c:crops/carrot
+c:crops/potato

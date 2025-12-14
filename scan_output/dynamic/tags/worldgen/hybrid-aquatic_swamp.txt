@@ -1,0 +1,9 @@
+biomesoplenty:bayou
+biomeswevegone:bayou
+biomeswevegone:cypress_swamplands
+minecraft:swamp
+still_life:mediterranean_swamp
+still_life:temperate_swamp
+terralith:orchid_swamp
+terrestria:cypress_swamp
+wythers:waterlily_swamp

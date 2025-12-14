@@ -1,0 +1,8 @@
+pastel:budding_citrine
+pastel:citrine_block
+pastel:citrine_cluster
+pastel:citrine_shard
+pastel:large_citrine_bud
+pastel:medium_citrine_bud
+pastel:polished_citrine_block
+pastel:small_citrine_bud

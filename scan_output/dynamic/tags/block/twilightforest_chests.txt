@@ -1,0 +1,8 @@
+twilightforest:canopy_chest
+twilightforest:dark_chest
+twilightforest:mangrove_chest
+twilightforest:mining_chest
+twilightforest:sorting_chest
+twilightforest:time_chest
+twilightforest:transformation_chest
+twilightforest:twilight_oak_chest

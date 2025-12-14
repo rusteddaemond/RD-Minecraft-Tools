@@ -1,0 +1,9 @@
+aether:aether_dirt
+aether:holystone
+aether:quicksoil
+atmospheric:arid_sandstone
+atmospheric:ivory_travertine
+atmospheric:peach_travertine
+atmospheric:persimmon_travertine
+atmospheric:red_arid_sandstone
+atmospheric:saffron_travertine

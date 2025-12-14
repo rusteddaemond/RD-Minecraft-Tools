@@ -1,0 +1,4 @@
+pastel:hummingstone
+pastel:hummingstone_glass
+pastel:hummingstone_glass_pane
+pastel:waxed_hummingstone

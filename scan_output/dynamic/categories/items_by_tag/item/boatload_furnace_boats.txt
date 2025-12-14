@@ -1,0 +1,13 @@
+atmospheric:aspen_furnace_boat
+atmospheric:grimwood_furnace_boat
+atmospheric:kousa_furnace_boat
+atmospheric:laurel_furnace_boat
+atmospheric:morado_furnace_boat
+atmospheric:rosewood_furnace_boat
+atmospheric:yucca_furnace_boat
+environmental:pine_furnace_boat
+environmental:plum_furnace_boat
+environmental:willow_furnace_boat
+environmental:wisteria_furnace_boat
+upgrade_aquatic:driftwood_furnace_boat
+upgrade_aquatic:river_furnace_boat

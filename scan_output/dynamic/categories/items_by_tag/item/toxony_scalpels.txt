@@ -1,0 +1,3 @@
+toxony:copper_scalpel
+toxony:lethal_dose
+toxony:netherite_scalpel

@@ -1,0 +1,9 @@
+archers:aeternium_spear
+archers:aether_spear
+archers:diamond_spear
+archers:flint_spear
+archers:golden_spear
+archers:iron_spear
+archers:netherite_spear
+archers:ruby_spear
+lne_archers:spears

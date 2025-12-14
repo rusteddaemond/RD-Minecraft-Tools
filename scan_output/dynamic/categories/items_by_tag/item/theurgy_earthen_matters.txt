@@ -1,0 +1,4 @@
+theurgy:alchemical_sulfurs/earthen_matters/abundant
+theurgy:alchemical_sulfurs/earthen_matters/common
+theurgy:alchemical_sulfurs/earthen_matters/precious
+theurgy:alchemical_sulfurs/earthen_matters/rare

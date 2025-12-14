@@ -1,0 +1,5 @@
+archers_expansion:choking_gas
+archers_expansion:disabling_shot
+archers_expansion:fast_shot
+archers_expansion:infiltrators_arrow
+archers_expansion:trick_shot

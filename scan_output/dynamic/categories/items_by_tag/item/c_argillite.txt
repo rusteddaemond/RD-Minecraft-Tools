@@ -1,0 +1,2 @@
+regions_unexplored:argillite
+regions_unexplored:argillite_grass_block

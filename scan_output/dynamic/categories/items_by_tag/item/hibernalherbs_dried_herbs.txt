@@ -1,0 +1,17 @@
+hibernalherbs:dried_calendula
+hibernalherbs:dried_ceillis
+hibernalherbs:dried_chamomile
+hibernalherbs:dried_chervil
+hibernalherbs:dried_chives
+hibernalherbs:dried_essitte
+hibernalherbs:dried_fennel
+hibernalherbs:dried_fennkystral
+hibernalherbs:dried_marjoram
+hibernalherbs:dried_punuel
+hibernalherbs:dried_rosemary
+hibernalherbs:dried_sage
+hibernalherbs:dried_sorrel
+hibernalherbs:dried_tarragon
+hibernalherbs:dried_thyme
+hibernalherbs:dried_thyocielle
+hibernalherbs:dried_verbena

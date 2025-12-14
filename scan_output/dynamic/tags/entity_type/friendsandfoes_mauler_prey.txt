@@ -1,0 +1,5 @@
+minecraft:chicken
+minecraft:frog
+minecraft:rabbit
+minecraft:slime
+minecraft:zombie

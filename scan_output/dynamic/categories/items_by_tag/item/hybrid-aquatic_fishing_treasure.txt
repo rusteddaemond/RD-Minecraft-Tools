@@ -1,0 +1,6 @@
+minecraft:bow
+minecraft:enchanted_book
+minecraft:fishing_rod
+minecraft:name_tag
+minecraft:nautilus_shell
+minecraft:saddle

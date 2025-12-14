@@ -1,0 +1,16 @@
+elemental_wizards_rpg:wand_aqua
+elemental_wizards_rpg:wand_clay
+elemental_wizards_rpg:wand_feather
+elemental_wizards_rpg:wand_kelp
+elemental_wizards_rpg:wand_netherite_aqua
+elemental_wizards_rpg:wand_netherite_terra
+elemental_wizards_rpg:wand_netherite_wind
+elemental_wizards_rpg:wand_terra
+elemental_wizards_rpg:wand_wind
+wizards:wand_arcane
+wizards:wand_fire
+wizards:wand_frost
+wizards:wand_netherite_arcane
+wizards:wand_netherite_fire
+wizards:wand_netherite_frost
+wizards:wand_novice

@@ -1,0 +1,11 @@
+c:ropes
+create:haunted_bell
+create:peculiar_bell
+decorative_blocks:seats
+druidcraft:rope
+farmersdelight:rope
+inspirations:rope
+inspirations:vine
+minecraft:bell
+minecraft:grindstone
+xercamod:rope

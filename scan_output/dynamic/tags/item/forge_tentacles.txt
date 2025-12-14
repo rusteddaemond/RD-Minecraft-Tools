@@ -1,0 +1,4 @@
+rusticdelight:calamari
+rusticdelight:calamari_slice
+rusticdelight:cooked_calamari
+rusticdelight:cooked_calamari_slice

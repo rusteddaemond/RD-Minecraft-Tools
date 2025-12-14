@@ -1,0 +1,14 @@
+archers:composite_longbow
+archers:iron_spear
+elemental_wizards_rpg:staff_elemental
+paladins:holy_staff
+paladins:holy_wand
+paladins:iron_claymore
+paladins:iron_great_hammer
+paladins:iron_kite_shield
+paladins:iron_mace
+rogues:iron_dagger
+rogues:iron_double_axe
+rogues:iron_glaive
+rogues:iron_sickle
+wizards:staff_wizard

@@ -1,0 +1,3 @@
+#paladins:shields
+#rpg_series:weapon_type/shield
+oreganized:electrum_shield

@@ -1,0 +1,2 @@
+#minecraft:has_structure/mineshaft
+#minecraft:has_structure/mineshaft_mesa

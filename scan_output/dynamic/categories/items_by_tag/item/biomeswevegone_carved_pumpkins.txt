@@ -1,0 +1,2 @@
+c:pumpkins/carved
+minecraft:carved_pumpkin

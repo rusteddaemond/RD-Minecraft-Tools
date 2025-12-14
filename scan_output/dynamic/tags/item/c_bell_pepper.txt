@@ -1,0 +1,8 @@
+#c:crops/bell_pepper
+rusticdelight:bell_pepper_green
+rusticdelight:bell_pepper_red
+rusticdelight:bell_pepper_seeds
+rusticdelight:bell_pepper_slice_green
+rusticdelight:bell_pepper_slice_red
+rusticdelight:bell_pepper_slice_yellow
+rusticdelight:bell_pepper_yellow

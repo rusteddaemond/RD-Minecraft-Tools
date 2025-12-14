@@ -1,0 +1,12 @@
+aether:gravitite_hoe
+aether:holystone_hoe
+aether:skyroot_hoe
+aether:valkyrie_hoe
+aether:zanite_hoe
+cataclysm:black_steel_hoe
+hybrid-aquatic:coral_hoe
+hybrid-aquatic:seashell_hoe
+oreganized:electrum_hoe
+pastel:hoes
+twilightforest:ironwood_hoe
+twilightforest:steeleaf_hoe

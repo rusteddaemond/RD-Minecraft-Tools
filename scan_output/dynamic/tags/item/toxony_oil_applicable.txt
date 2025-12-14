@@ -1,0 +1,2 @@
+#minecraft:enchantable/weapon
+#toxony:enchantable/flail

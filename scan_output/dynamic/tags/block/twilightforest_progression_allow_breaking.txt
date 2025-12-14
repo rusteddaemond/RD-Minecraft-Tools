@@ -1,0 +1,3 @@
+gravestone:gravestone
+twilightforest:keepsake_casket
+twilightforest:skull_chest

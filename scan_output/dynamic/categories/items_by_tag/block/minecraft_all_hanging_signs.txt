@@ -1,0 +1,8 @@
+arts_and_crafts:cork_hanging_sign
+arts_and_crafts:cork_wall_hanging_sign
+hexalia:cottonwood_hanging_sign
+hexalia:cottonwood_hanging_wall_sign
+hexalia:willow_hanging_sign
+hexalia:willow_hanging_wall_sign
+yeastnfeast:maple_hanging_sign
+yeastnfeast:maple_hanging_wall_sign

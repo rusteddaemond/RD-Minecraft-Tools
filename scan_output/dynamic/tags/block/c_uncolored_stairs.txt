@@ -1,0 +1,2 @@
+atmospheric:arid_sandstone_stairs
+atmospheric:smooth_arid_sandstone_stairs

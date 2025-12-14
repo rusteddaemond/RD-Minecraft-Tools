@@ -1,0 +1,5 @@
+c:snowy
+c:snowy_plains
+friendsandfoes:collections/snowy_forest
+friendsandfoes:collections/snowy_mountains
+friendsandfoes:collections/snowy_plains

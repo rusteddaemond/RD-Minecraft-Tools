@@ -1,0 +1,5 @@
+atmospheric:passion_fruit
+atmospheric:shimmering_passion_fruit
+caverns_and_chasms:bejeweled_apple
+endergetic:bolloom_fruit
+minecraft:chorus_fruit

@@ -1,0 +1,16 @@
+#minecraft:undead
+minecraft:allay
+minecraft:axolotl
+minecraft:cow
+minecraft:fox
+minecraft:frog
+minecraft:goat
+minecraft:hoglin
+minecraft:pig
+minecraft:ravager
+minecraft:sheep
+minecraft:strider
+minecraft:vex
+minecraft:warden
+minecraft:wolf
+pastel:egg_laying_wooly_pig

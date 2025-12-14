@@ -1,0 +1,5 @@
+aether:holystone
+pastel:basal_marble
+pastel:blackslag
+pastel:pyrite
+pastel:shale_clay

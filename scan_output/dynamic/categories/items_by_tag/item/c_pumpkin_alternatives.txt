@@ -1,0 +1,2 @@
+farmersdelight:pumpkin_slice
+minecraft:pumpkin

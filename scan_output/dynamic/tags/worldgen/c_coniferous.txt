@@ -1,0 +1,12 @@
+#biomeswevegone:coniferous
+environmental:old_growth_pine_barrens
+environmental:pine_barrens
+environmental:pine_slopes
+environmental:snowy_old_growth_pine_barrens
+environmental:snowy_pine_barrens
+regions_unexplored:blackwood_taiga
+regions_unexplored:boreal_taiga
+regions_unexplored:golden_boreal_taiga
+regions_unexplored:pine_taiga
+regions_unexplored:redwoods
+regions_unexplored:sparse_redwoods

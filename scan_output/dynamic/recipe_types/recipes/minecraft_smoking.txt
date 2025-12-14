@@ -1,0 +1,24 @@
+Recipe Type: minecraft:smoking
+Total Recipes: 5
+============================================================
+
+wildernature:cooked_bison_meat_from_smoking
+  Inputs: wildernature:bison_meat
+  Outputs: wildernature:cooked_bison_meat
+
+wildernature:cooked_cassowary_meat_from_smoking
+  Inputs: wildernature:cassowary_meat
+  Outputs: wildernature:cooked_cassowary_meat
+
+wildernature:cooked_pelican_from_smoking
+  Inputs: wildernature:pelican_meat
+  Outputs: wildernature:cooked_pelican_meat
+
+wildernature:cooked_turkey_from_smoking
+  Inputs: wildernature:turkey_meat
+  Outputs: wildernature:cooked_turkey_meat
+
+wildernature:cooked_venison_from_smoking
+  Inputs: wildernature:venison
+  Outputs: wildernature:cooked_venison
+

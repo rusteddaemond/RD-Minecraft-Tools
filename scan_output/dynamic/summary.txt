@@ -1,0 +1,247 @@
+Dynamic Recipe and Tag Scanning Summary
+============================================================
+
+Total mods scanned: 256
+Total recipes found: 13566
+Total recipe types discovered: 11
+Total tag groups discovered: 4707
+
+
+Recipe Types:
+  botanypots:crop                                   :     6 recipes
+  farmersdelight:cutting                            :     2 recipes
+  farmersrespite:brewing                            :     1 recipes
+  lilis_lucky_lures:fish_trap                       :     6 recipes
+  minecraft:campfire_cooking                        :     5 recipes
+  minecraft:crafting_shaped                         :     3 recipes
+  minecraft:crafting_shapeless                      :     5 recipes
+  minecraft:smelting                                :     5 recipes
+  minecraft:smoking                                 :     5 recipes
+  neoforge:conditional                              :     3 recipes
+  wildernature:truffling                            :     1 recipes
+
+Tag Groups by Type:
+  attribute      :    2 tag groups,      6 total items
+    - pastel:inexorable_armor_effective               :     4 items
+    - pastel:inexorable_handheld_effective            :     2 items
+  banner_pattern :   23 tag groups,     23 total items
+    - atmospheric:cochineal                           :     1 items
+    - buzzier_bees:honeycomb                          :     1 items
+    - environmental:helper                            :     1 items
+    - environmental:lumberer                          :     1 items
+    - neapolitan:chimpanzee                           :     1 items
+    - nirvana:peace_banner_patterns                   :     1 items
+    - pastel:amethyst_cluster                         :     1 items
+    - pastel:amethyst_shard                           :     1 items
+    - pastel:astrologer                               :     1 items
+    - pastel:deep_light                               :     1 items
+    ... and 13 more tag groups
+  biome          :    1 tag groups,      4 total items
+    - companions:golden_allay_spawn_biomes            :     4 items
+  block          : 1201 tag groups,  21792 total items
+    - abnormals_delight:drops_adzuki_cake_slice       :    18 items
+    - abnormals_delight:drops_banana_cake_slice       :    18 items
+    - abnormals_delight:drops_chocolate_cake_slice    :    18 items
+    - abnormals_delight:drops_flavored_cake_slice     :     6 items
+    - abnormals_delight:drops_mint_cake_slice         :    18 items
+    - abnormals_delight:drops_strawberry_cake_slice   :    18 items
+    - abnormals_delight:drops_vanilla_cake_slice      :    18 items
+    - abnormals_delight:drops_yucca_gateau_slice      :    18 items
+    - ae2:annihilation_plane                          :     1 items
+    - ae2:growth_acceleratable                        :     1 items
+    ... and 1191 more tag groups
+  block_entity_type:    2 tag groups,     22 total items
+    - c:immovable                                     :    11 items
+    - c:relocation_not_supported                      :    11 items
+  blocks         :   12 tag groups,     61 total items
+    - carryon:block_blacklist                         :     6 items
+    - minecraft:axe                                   :     6 items
+    - minecraft:dirt                                  :     1 items
+    - minecraft:flowers                               :    14 items
+    - minecraft:hoe                                   :     9 items
+    - minecraft:impermeable                           :     1 items
+    - minecraft:inside_step_sound_blocks              :     4 items
+    - minecraft:replaceable_by_trees                  :     3 items
+    - minecraft:shovel                                :     1 items
+    - minecraft:small_flowers                         :     8 items
+    ... and 2 more tag groups
+  create         :    4 tag groups,      4 total items
+    - create:fuel_blacklist                           :     1 items
+    - create:internal                                 :     1 items
+    - create:opens_controls                           :     1 items
+    - create:requires_vehicle_for_render              :     1 items
+  damage_type    :   53 tag groups,    332 total items
+    - aether:is_cold                                  :     1 items
+    - c:is_magic                                      :     1 items
+    - cataclysm:block_self_regen                      :     3 items
+    - cataclysm:bypasses_hurt_time                    :     6 items
+    - dummmmmmy:is_cold                               :     3 items
+    - dummmmmmy:is_explosion                          :     3 items
+    - dummmmmmy:is_fire                               :     3 items
+    - dummmmmmy:is_thorn                              :     4 items
+    - dummmmmmy:is_wither                             :     2 items
+    - malum:can_soul_shatter                          :     2 items
+    ... and 43 more tag groups
+  dimension_type :    3 tag groups,      3 total items
+    - terrablender:nether_regions                     :     1 items
+    - terrablender:overworld_regions                  :     1 items
+    - twilightforest:allows_magic_map_charting        :     1 items
+  enchantment    :   59 tag groups,    150 total items
+    - accessories:valid_for_redirection               :     1 items
+    - biomeswevegone:prevents_pumpkin_warden_when_mining:     1 items
+    - c:entity_auxiliary_movement_enhancements        :     1 items
+    - c:entity_speed_enhancements                     :     1 items
+    - c:increase_entity_drops                         :     1 items
+    - c:weapon_damage_enhancement                     :     5 items
+    - c:weapon_damage_enhancements                    :     2 items
+    - create_enchantment_industry:enchanting          :     1 items
+    - create_enchantment_industry:super_enchanting    :     2 items
+    - create_enchantment_industry:super_enchanting_exclusive:     1 items
+    ... and 49 more tag groups
+  entity_type    :  251 tag groups,   1898 total items
+    - abnormals_delight:scavenges_feather             :     3 items
+    - abnormals_delight:scavenges_leather             :     7 items
+    - accessories:defaulted_targets                   :     2 items
+    - accessories:equipment_manageable                :     1 items
+    - accessories:modifiable_entity_accessories_whitelist:     6 items
+    - ad_astra:can_survive_extreme_cold               :     2 items
+    - ad_astra:can_survive_extreme_heat               :     3 items
+    - ad_astra:can_survive_in_acid_rain               :     3 items
+    - ad_astra:can_survive_in_space                   :     2 items
+    - ad_astra:ignores_air_vortex                     :     1 items
+    ... and 241 more tag groups
+  entity_types   :    4 tag groups,     26 total items
+    - automobility:dash_panel_boostables              :    18 items
+    - minecraft:illager                               :     3 items
+    - minecraft:impact_projectiles                    :     2 items
+    - minecraft:raiders                               :     3 items
+  environmental  :    7 tag groups,     60 total items
+    - environmental:common                            :     3 items
+    - environmental:epic                              :    18 items
+    - environmental:legendary                         :     5 items
+    - environmental:not_sold_by_wandering_trader      :     1 items
+    - environmental:rare                              :    20 items
+    - environmental:translucent                       :     1 items
+    - environmental:uncommon                          :    12 items
+  fluid          :   51 tag groups,    131 total items
+    - aether:allowed_bucket_pickup                    :     2 items
+    - c:almond_extract                                :     2 items
+    - c:beetroot_soup                                 :     2 items
+    - c:birch_syrup                                   :     2 items
+    - c:black                                         :     2 items
+    - c:blue                                          :     2 items
+    - c:brown                                         :     2 items
+    - c:chocolate                                     :     2 items
+    - c:corn_syrup                                    :     2 items
+    - c:cyan                                          :     2 items
+    ... and 41 more tag groups
+  function       :    1 tag groups,      3 total items
+    - minecraft:load                                  :     3 items
+  instrument     :    2 tag groups,      2 total items
+    - illagerinvasion:horn_of_sight                   :     1 items
+    - takesapillage:ravager_horns                     :     1 items
+  item           : 1807 tag groups,  17539 total items
+    - abnormals_delight:slabdish_ingredients          :     4 items
+    - accessories:any                                 :     1 items
+    - accessories:arrow                               :     1 items
+    - accessories:back                                :     2 items
+    - accessories:belt                                :    44 items
+    - accessories:calendar                            :     2 items
+    - accessories:cape                                :     3 items
+    - accessories:charm                               :     6 items
+    - accessories:clock                               :     1 items
+    - accessories:compass                             :     1 items
+    ... and 1797 more tag groups
+  items          :   29 tag groups,    117 total items
+    - c:berries                                       :     1 items
+    - c:grapes                                        :     8 items
+    - c:milk                                          :     1 items
+    - c:seeds                                         :     8 items
+    - c:stripped_logs                                 :     1 items
+    - c:stripped_wood                                 :     1 items
+    - candlelight:red_effect                          :     1 items
+    - candlelight:white_effect                        :     1 items
+    - create:upright_on_belt                          :     5 items
+    - curios:belt                                     :     7 items
+    ... and 19 more tag groups
+  mob_effect     :   13 tag groups,    144 total items
+    - cataclysm:effective_for_bosses                  :    31 items
+    - creategarnished:candy_effect_blacklist          :    89 items
+    - neapolitan:unaffected_by_vanilla_scent          :     4 items
+    - nirvana:stacking                                :     1 items
+    - pastel:bypasses_immunity                        :     3 items
+    - pastel:bypasses_nectar_gloves                   :     1 items
+    - pastel:bypasses_whispy_circlet                  :     1 items
+    - pastel:cannot_be_incurable                      :     3 items
+    - pastel:night_alchemy                            :     2 items
+    - pastel:no_duration_extension                    :     2 items
+    ... and 3 more tag groups
+  moonlight      :    5 tag groups,     12 total items
+    - amendments:can_glow                             :     1 items
+    - amendments:cant_boil                            :     3 items
+    - amendments:cant_extinguish                      :     2 items
+    - amendments:cant_go_in_liquid_cauldron           :     2 items
+    - amendments:no_tint_in_cauldron                  :     4 items
+  painting_variant:    3 tag groups,    139 total items
+    - minecraft:placeable                             :    46 items
+    - twilightforest:tower_boss_paintings             :    44 items
+    - twilightforest:tower_paintings                  :    49 items
+  pastel         :    3 tag groups,     25 total items
+    - pastel:compounds                                :    11 items
+    - pastel:elementals                               :     5 items
+    - pastel:natural                                  :     9 items
+  point_of_interest_type:    7 tag groups,     38 total items
+    - c:lightning_rods                                :     2 items
+    - friendsandfoes:beekeeper_acquirable_job_site    :    11 items
+    - friendsandfoes:lightning_rods                   :     7 items
+    - minecraft:acquirable_job_site                   :    14 items
+    - minecraft:bee_home                              :     2 items
+    - minecraft:village                               :     1 items
+    - pastel:lizard_dens                              :     1 items
+  potion         :    3 tag groups,      5 total items
+    - supplementaries:quiver_blacklist                :     1 items
+    - supplementaries:tipped_spikes_blacklist         :     3 items
+    - supplementaries:tipped_spikes_finite_blacklist  :     1 items
+  recipe_serializer:    1 tag groups,      2 total items
+    - create:automation_ignore                        :     2 items
+  recipe_type    :    1 tag groups,      3 total items
+    - sawmill:whitelist                               :     3 items
+  sound_event    :    5 tag groups,     13 total items
+    - aether:achievement_sounds                       :     4 items
+    - aether:activated_portal_sounds                  :     2 items
+    - aether:ambient_portal_sounds                    :     1 items
+    - aether:boss_music                               :     3 items
+    - aether:portal_sounds                            :     3 items
+  spell          :   24 tag groups,    130 total items
+    - archers:archer                                  :     5 items
+    - archers_expansion:deadeye                       :     5 items
+    - archers_expansion:tundra_hunter                 :     5 items
+    - archers_expansion:war_archer                    :     5 items
+    - armory_rpgs:heal                                :     2 items
+    - armory_rpgs:melee                               :     4 items
+    - armory_rpgs:ranged                              :     1 items
+    - armory_rpgs:spell                               :     3 items
+    - arsenal:heal                                    :     6 items
+    - arsenal:melee                                   :    13 items
+    ... and 14 more tag groups
+  trim_material  :    1 tag groups,      2 total items
+    - blueprint:generates_overrides                   :     2 items
+  twilight       :    6 tag groups,     16 total items
+    - twilightforest:common                           :     2 items
+    - twilightforest:druid_hut_swizzle_mask           :     3 items
+    - twilightforest:rare                             :     3 items
+    - twilightforest:treasure                         :     4 items
+    - twilightforest:uncommon                         :     3 items
+    - twilightforest:well_swizzle_mask                :     1 items
+  worldgen       : 1123 tag groups,   6058 total items
+    - aether:aether_music                             :     1 items
+    - aether:crimson_nylium_conversion                :     1 items
+    - aether:display_travel_text                      :     3 items
+    - aether:dungeons                                 :     3 items
+    - aether:fall_to_overworld                        :     1 items
+    - aether:has_bronze_dungeon                       :     1 items
+    - aether:has_gold_dungeon                         :     1 items
+    - aether:has_large_aercloud                       :     1 items
+    - aether:has_ruined_portal_aether                 :     1 items
+    - aether:has_ruined_portal_desert                 :     1 items
+    ... and 1113 more tag groups

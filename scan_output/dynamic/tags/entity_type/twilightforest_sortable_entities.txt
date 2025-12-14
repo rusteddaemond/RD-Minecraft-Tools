@@ -1,0 +1,6 @@
+minecraft:chest_minecart
+minecraft:donkey
+minecraft:hopper_minecart
+minecraft:llama
+minecraft:mule
+minecraft:trader_llama

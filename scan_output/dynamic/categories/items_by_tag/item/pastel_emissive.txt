@@ -1,0 +1,17 @@
+pastel:aether_vestiges
+pastel:blazing_crystal
+pastel:frostbite_crystal
+pastel:frostbite_essence
+pastel:incandescent_amalgam
+pastel:incandescent_essence
+pastel:jadeite_lotus_flower
+pastel:jadeite_petals
+pastel:knowledge_gem
+pastel:moonstone_powder
+pastel:moonstone_shard
+pastel:nectar_lance
+pastel:shimmerstone_block
+pastel:shimmerstone_gem
+pastel:star_fragment
+pastel:stardust
+pastel:stardust_block

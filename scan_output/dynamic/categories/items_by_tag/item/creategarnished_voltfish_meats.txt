@@ -1,0 +1,2 @@
+creategarnished:cooked_voltfish_meat
+creategarnished:voltfish_meat

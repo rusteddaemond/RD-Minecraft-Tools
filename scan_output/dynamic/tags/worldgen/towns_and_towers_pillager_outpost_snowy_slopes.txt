@@ -1,0 +1,5 @@
+biomeswevegone:zelkova_forest
+minecraft:grove
+minecraft:snowy_slopes
+regions_unexplored:icy_heights
+terralith:rocky_shrubland

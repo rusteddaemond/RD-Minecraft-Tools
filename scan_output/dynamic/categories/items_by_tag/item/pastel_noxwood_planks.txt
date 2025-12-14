@@ -1,0 +1,4 @@
+pastel:chestnut_noxwood_planks
+pastel:ebony_noxwood_planks
+pastel:ivory_noxwood_planks
+pastel:slate_noxwood_planks

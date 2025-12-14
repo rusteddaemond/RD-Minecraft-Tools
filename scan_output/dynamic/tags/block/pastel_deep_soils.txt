@@ -1,0 +1,5 @@
+#pastel:ash
+#pastel:slushes
+pastel:black_materia
+pastel:hornslake
+pastel:shale_clay

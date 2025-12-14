@@ -1,0 +1,9 @@
+pastel:bedrock_pickaxe
+pastel:dragonrending_pickaxe
+pastel:glass_crest_workstaff
+pastel:lucky_pickaxe
+pastel:malachite_workstaff
+pastel:multitool
+pastel:oblivion_pickaxe
+pastel:resonant_pickaxe
+pastel:tender_pickaxe

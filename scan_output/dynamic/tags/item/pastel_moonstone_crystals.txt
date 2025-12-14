@@ -1,0 +1,8 @@
+pastel:budding_moonstone
+pastel:large_moonstone_bud
+pastel:medium_moonstone_bud
+pastel:moonstone_block
+pastel:moonstone_cluster
+pastel:moonstone_shard
+pastel:polished_moonstone_block
+pastel:small_moonstone_bud

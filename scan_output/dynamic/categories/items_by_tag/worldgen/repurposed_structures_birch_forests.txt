@@ -1,0 +1,14 @@
+byg:aspen_forest
+byg:temperate_grove
+c:is_birch_forest
+minecraft:birch_forest
+minecraft:old_growth_birch_forest
+projectvibrantjourneys:aspen_grove
+regions_unexplored:silver_birch_forest
+terralith:birch_taiga
+terralith:temperate_highlands
+terralith:white_cliffs
+wythers:autumnal_birch_forest
+wythers:birch_swamp
+wythers:birch_taiga
+wythers:warm_birch_forest

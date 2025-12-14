@@ -1,0 +1,16 @@
+arts_and_crafts:finale_pottery_sherd
+arts_and_crafts:gateway_pottery_sherd
+arts_and_crafts:pottery_sherd
+arts_and_crafts:roll_pottery_sherd
+arts_and_crafts:ruined_pottery_sherd
+arts_and_crafts:sus_pottery_sherd
+atmospheric:scythe_pottery_sherd
+atmospheric:succulent_pottery_sherd
+atmospheric:sun_pottery_sherd
+galosphere:thirst_pottery_sherd
+galosphere:wave_pottery_sherd
+neapolitan:reflection_pottery_sherd
+neapolitan:scream_pottery_sherd
+neapolitan:snack_pottery_sherd
+neapolitan:spider_pottery_sherd
+upgrade_aquatic:predator_pottery_sherd

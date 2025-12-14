@@ -1,0 +1,2 @@
+cataclysm:burning_arena
+cataclysm:soul_black_smith

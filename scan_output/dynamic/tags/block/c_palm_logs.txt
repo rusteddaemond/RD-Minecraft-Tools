@@ -1,0 +1,4 @@
+beachparty:palm_log
+beachparty:palm_wood
+beachparty:stripped_palm_log
+beachparty:stripped_palm_wood

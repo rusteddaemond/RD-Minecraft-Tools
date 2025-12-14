@@ -1,0 +1,3 @@
+#c:allows_cooking
+#candlelight:stoves
+farmersdelight:stove

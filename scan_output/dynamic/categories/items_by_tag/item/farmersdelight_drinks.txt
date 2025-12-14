@@ -1,0 +1,7 @@
+abnormals_delight:cherry_cream_soda
+abnormals_delight:passion_aloe_nectar
+abnormals_delight:pickerelweed_juice
+farmersdelight:apple_cider
+farmersdelight:hot_cocoa
+farmersdelight:melon_juice
+farmersdelight:milk_bottle

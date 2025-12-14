@@ -1,0 +1,3 @@
+minecraft:phantom
+minecraft:vex
+toxony:guided_spirit

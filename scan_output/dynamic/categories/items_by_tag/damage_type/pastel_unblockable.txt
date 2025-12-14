@@ -1,0 +1,3 @@
+pastel:primordial_fire
+pastel:set_health
+pastel:sleep

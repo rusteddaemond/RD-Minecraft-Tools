@@ -1,0 +1,10 @@
+betternether:nether_grasslands
+betternether:poor_nether_grasslands
+betternether:soul_plain
+betternether:wart_forest
+betternether:wart_forest_edge
+byg:wailing_garth
+cinderscapes:blackstone_shales
+gardens_of_the_dead:soulblight_forest
+incendium:weeping_valley
+minecraft:soul_sand_valley

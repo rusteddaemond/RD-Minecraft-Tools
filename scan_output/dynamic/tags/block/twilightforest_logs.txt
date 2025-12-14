@@ -1,0 +1,8 @@
+#twilightforest:canopy_logs
+#twilightforest:darkwood_logs
+#twilightforest:mangrove_logs
+#twilightforest:mining_logs
+#twilightforest:sortwood_logs
+#twilightforest:timewood_logs
+#twilightforest:transwood_logs
+#twilightforest:twilight_oak_logs

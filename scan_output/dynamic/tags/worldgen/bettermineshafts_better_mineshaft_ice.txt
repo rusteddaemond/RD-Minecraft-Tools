@@ -1,0 +1,5 @@
+#byg:is_icy
+#c:icy
+#forge:is_icy
+minecraft:frozen_peaks
+minecraft:ice_spikes

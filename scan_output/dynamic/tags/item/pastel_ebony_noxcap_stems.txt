@@ -1,0 +1,4 @@
+pastel:ebony_noxcap_hyphae
+pastel:ebony_noxcap_stem
+pastel:stripped_ebony_noxcap_hyphae
+pastel:stripped_ebony_noxcap_stem

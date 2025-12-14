@@ -1,0 +1,2 @@
+minecraft:melon_seeds
+minecraft:pumpkin_seeds

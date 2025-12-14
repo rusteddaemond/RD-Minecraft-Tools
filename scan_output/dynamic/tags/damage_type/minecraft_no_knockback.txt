@@ -1,0 +1,17 @@
+aether:inebriation
+cataclysm:abyssal_burn
+cataclysm:flame_strike
+cataclysm:lightning
+cataclysm:penetrate
+cataclysm:shredder
+farmersdelight:stove_burn
+oreganized:molten_lead
+pastel:bristle_sprouts
+pastel:deadly_poison
+pastel:decay
+pastel:dike_gate
+pastel:midnight_solution
+pastel:ripping
+pastel:sleep
+pastel:snapping_ivy
+twilightforest:ominous_fire

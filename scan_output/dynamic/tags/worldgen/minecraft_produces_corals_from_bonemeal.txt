@@ -1,0 +1,2 @@
+regions_unexplored:rocky_reef
+regions_unexplored:tropics

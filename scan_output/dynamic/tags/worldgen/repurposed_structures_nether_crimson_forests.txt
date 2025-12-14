@@ -1,0 +1,10 @@
+#c:primary_wood_type/crimson
+betternether:crimson_glowing_woods
+betternether:crimson_pinewood
+betternether:nether_swampland
+betternether:old_swampland
+byg:crimson_gardens
+byg:weeping_mire
+gardens_of_the_dead:whistling_woods
+minecraft:crimson_forest
+pyromancer:flaming_grove

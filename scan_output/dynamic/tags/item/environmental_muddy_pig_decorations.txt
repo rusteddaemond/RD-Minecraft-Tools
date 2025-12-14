@@ -1,0 +1,8 @@
+#c:mushrooms
+#minecraft:saplings
+#minecraft:small_flowers
+environmental:cattail
+minecraft:big_dripleaf
+minecraft:dead_bush
+minecraft:fern
+minecraft:lily_pad

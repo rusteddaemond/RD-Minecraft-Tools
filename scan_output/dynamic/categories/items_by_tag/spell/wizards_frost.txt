@@ -1,0 +1,5 @@
+lne_wizards:frost_ray
+wizards:frost_blizzard
+wizards:frost_nova
+wizards:frost_shield
+wizards:frostbolt

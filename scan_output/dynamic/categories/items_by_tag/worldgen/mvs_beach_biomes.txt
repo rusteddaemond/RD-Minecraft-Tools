@@ -1,0 +1,3 @@
+byg:dacite_shore
+byg:rainbow_beach
+minecraft:is_beach

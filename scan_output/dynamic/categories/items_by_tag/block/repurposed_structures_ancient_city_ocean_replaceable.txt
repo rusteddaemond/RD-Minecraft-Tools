@@ -1,0 +1,6 @@
+minecraft:clay
+minecraft:dark_prismarine_slab
+minecraft:dark_prismarine_stairs
+minecraft:gray_wool
+minecraft:prismarine_slab
+minecraft:prismarine_stairs

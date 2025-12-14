@@ -1,0 +1,2 @@
+hibernalherbs:unbound_herbal_padlocks
+hibernalherbs:usable_herbal_sigils

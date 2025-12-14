@@ -1,0 +1,16 @@
+bakery:baguette
+bakery:braided_bread
+bakery:bread
+bakery:bun
+bakery:crusty_bread
+bakery:toast
+buzzier_bees:honey_bread
+farm_and_charm:farmers_bread
+minecraft:bread
+neapolitan:adzuki_bun
+neapolitan:banana_bread
+upgrade_aquatic:mulberry_bread
+yeastnfeast:barley_bread
+yeastnfeast:berry_roll
+yeastnfeast:molasses_bread
+yeastnfeast:rye_bread

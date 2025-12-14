@@ -1,0 +1,5 @@
+wildernature:cooked_bison_meat
+wildernature:cooked_cassowary_meat
+wildernature:cooked_pelican_meat
+wildernature:cooked_turkey_meat
+wildernature:cooked_venison

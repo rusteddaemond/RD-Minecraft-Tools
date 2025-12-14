@@ -1,0 +1,6 @@
+brewery:pork_knuckle
+c:foods/cooked_bacon
+candlelight:pork_ribs
+farm_and_charm:bacon_with_eggs
+farm_and_charm:chicken_wrapped_in_bacon
+minecraft:cooked_porkchop

@@ -1,0 +1,4 @@
+pastel:ferocious_chestplate
+pastel:fetchling_helmet
+pastel:oread_boots
+pastel:sylph_leggings

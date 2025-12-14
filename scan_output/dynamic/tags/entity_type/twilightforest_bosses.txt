@@ -1,0 +1,9 @@
+twilightforest:alpha_yeti
+twilightforest:hydra
+twilightforest:knight_phantom
+twilightforest:lich
+twilightforest:minoshroom
+twilightforest:naga
+twilightforest:plateau_boss
+twilightforest:snow_queen
+twilightforest:ur_ghast

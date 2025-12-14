@@ -1,0 +1,4 @@
+c:allows_cooking
+farmersdelight:stove
+forge:allows_cooking
+herbalbrews:stove

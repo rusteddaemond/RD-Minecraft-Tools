@@ -1,0 +1,4 @@
+pastel:amaranth_bushel
+pastel:blood_orchid
+pastel:doombloom
+pastel:resonant_lily

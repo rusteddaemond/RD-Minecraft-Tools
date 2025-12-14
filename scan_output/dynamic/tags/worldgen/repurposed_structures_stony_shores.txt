@@ -1,0 +1,5 @@
+#c:is_stony_shores
+biomesoplenty:cold_desert
+minecraft:stony_shore
+regions_unexplored:chalk_cliffs
+terralith:gravel_desert

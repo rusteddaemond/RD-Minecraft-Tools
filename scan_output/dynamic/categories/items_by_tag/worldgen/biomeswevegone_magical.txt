@@ -1,0 +1,4 @@
+biomeswevegone:enchanted_tangle
+biomeswevegone:forgotten_forest
+biomeswevegone:skyris_vale
+biomeswevegone:weeping_witch_forest

@@ -1,0 +1,2 @@
+minecraft:name_tag
+pastel:bismuth_flake

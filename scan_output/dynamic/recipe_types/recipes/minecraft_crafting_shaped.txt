@@ -1,0 +1,16 @@
+Recipe Type: minecraft:crafting_shaped
+Total Recipes: 3
+============================================================
+
+minecraft:crimson_kelp_block
+  Inputs: netherdepthsupgrade:crimson_kelp
+  Outputs: netherdepthsupgrade:crimson_kelp_block
+
+minecraft:warped_kelp_block
+  Inputs: netherdepthsupgrade:warped_kelp
+  Outputs: netherdepthsupgrade:warped_kelp_block
+
+wildernature:bounty_board
+  Inputs: #minecraft:planks, minecraft:stick
+  Outputs: wildernature:bounty_board
+

@@ -1,0 +1,5 @@
+lne_wizards:arcane_starfall
+wizards:arcane_beam
+wizards:arcane_blast
+wizards:arcane_blink
+wizards:arcane_missile

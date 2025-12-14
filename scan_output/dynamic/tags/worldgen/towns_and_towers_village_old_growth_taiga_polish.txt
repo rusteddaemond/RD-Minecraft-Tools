@@ -1,0 +1,12 @@
+biomeswevegone:black_forest
+biomeswevegone:dacite_ridges
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+regions_unexplored:redwoods
+regions_unexplored:sparse_redwoods
+tectonic:old_growth_snowy_taiga
+terralith:siberian_taiga
+terralith:valley_clearing
+wythers:ancient_taiga
+wythers:old_growth_taiga_swamp
+wythers:temperate_rainforest

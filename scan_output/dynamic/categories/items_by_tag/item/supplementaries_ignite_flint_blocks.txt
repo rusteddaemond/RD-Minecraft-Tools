@@ -1,0 +1,2 @@
+minecraft:chainmail_boots
+minecraft:iron_boots

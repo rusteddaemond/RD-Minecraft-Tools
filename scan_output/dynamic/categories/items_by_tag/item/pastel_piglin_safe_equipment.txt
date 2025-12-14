@@ -1,0 +1,4 @@
+pastel:bedrock_boots
+pastel:bedrock_chestplate
+pastel:bedrock_helmet
+pastel:bedrock_leggings

@@ -1,0 +1,2 @@
+pastel:magma_cube_head
+pastel:slime_head

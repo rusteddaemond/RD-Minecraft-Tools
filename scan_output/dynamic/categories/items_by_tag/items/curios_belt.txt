@@ -1,0 +1,7 @@
+beachparty:bikini
+beachparty:rubber_ring_axolotl
+beachparty:rubber_ring_blue
+beachparty:rubber_ring_pelican
+beachparty:rubber_ring_pink
+beachparty:rubber_ring_stripped
+beachparty:trunks

@@ -1,0 +1,6 @@
+pastel:buffer_node
+pastel:connection_node
+pastel:gather_node
+pastel:provider_node
+pastel:sender_node
+pastel:storage_node

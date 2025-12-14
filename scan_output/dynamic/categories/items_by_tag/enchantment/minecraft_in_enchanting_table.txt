@@ -1,0 +1,7 @@
+create:capacity
+create:potato_recovery
+hibernalherbs:rapid
+hibernalherbs:slashing
+toxony:acidshot
+toxony:impact
+toxony:refill

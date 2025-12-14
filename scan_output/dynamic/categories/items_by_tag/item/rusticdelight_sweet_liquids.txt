@@ -1,0 +1,2 @@
+minecraft:honey_bottle
+rusticdelight:syrup

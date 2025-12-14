@@ -1,0 +1,3 @@
+minecraft:blackstone
+minecraft:crying_obsidian
+minecraft:obsidian

@@ -1,0 +1,4 @@
+c:ores
+c:stones
+minecraft:dirt
+minecraft:logs

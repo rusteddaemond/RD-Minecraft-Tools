@@ -1,0 +1,3 @@
+cataclysm:cursed_pyramid
+cataclysm:sunken_city
+minecraft:ocean_monuments

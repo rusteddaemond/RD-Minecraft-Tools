@@ -1,0 +1,3 @@
+pastel:deep_barrens
+pastel:deep_dripstone_caves
+pastel:noxshroom_forest

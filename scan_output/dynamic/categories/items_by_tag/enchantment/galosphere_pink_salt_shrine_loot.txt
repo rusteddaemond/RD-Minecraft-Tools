@@ -1,0 +1,4 @@
+galosphere:enfeeble
+galosphere:rupture
+galosphere:sustain
+minecraft:unbreaking

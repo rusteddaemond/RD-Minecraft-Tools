@@ -1,0 +1,7 @@
+byg:alps
+byg:frosted_coniferous_forest
+byg:frosted_taiga
+byg:snowy_deciduous_forest
+byg:snowy_evergreen_taiga
+c:is_snowy
+minecraft:snowy_taiga

@@ -1,0 +1,7 @@
+#c:dyes/white
+#c:gems/quartz
+#c:white_dyes
+chalk:chalk
+chalk:white_chalk
+minecraft:quartz
+minecraft:white_dye

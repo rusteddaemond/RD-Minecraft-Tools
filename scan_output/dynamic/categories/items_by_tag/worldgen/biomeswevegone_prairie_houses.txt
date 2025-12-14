@@ -1,0 +1,2 @@
+biomeswevegone:abandoned_prairie_house
+biomeswevegone:prairie_house

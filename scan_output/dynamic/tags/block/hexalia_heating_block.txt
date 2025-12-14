@@ -1,0 +1,7 @@
+hexalia:rustic_oven
+minecraft:campfire
+minecraft:fire
+minecraft:lava
+minecraft:magma_block
+minecraft:soul_campfire
+minecraft:soul_fire

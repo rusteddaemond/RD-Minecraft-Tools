@@ -1,0 +1,6 @@
+waystones:blackstone_waystone
+waystones:deepslate_waystone
+waystones:end_stone_waystone
+waystones:mossy_waystone
+waystones:sandy_waystone
+waystones:waystone

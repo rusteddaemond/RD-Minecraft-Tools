@@ -1,0 +1,2 @@
+rpg_series:weapon_type/healing_staff
+rpg_series:weapon_type/healing_wand

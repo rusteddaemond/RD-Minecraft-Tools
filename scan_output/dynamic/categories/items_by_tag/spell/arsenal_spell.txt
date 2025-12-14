@@ -1,0 +1,8 @@
+arsenal:chain_reaction_spell
+arsenal:cooldown_shot_spell
+arsenal:flame_cloud_spell
+arsenal:frost_cloud_spell
+arsenal:leeching_spell
+arsenal:radiance_spell
+arsenal:rampaging_spell
+arsenal:shockwave_area_spell

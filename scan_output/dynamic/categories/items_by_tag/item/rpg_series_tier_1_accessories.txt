@@ -1,0 +1,5 @@
+additional_rpg_jewelry:cactea_ring
+additional_rpg_jewelry:dripstone_necklace
+jewelry:diamond_necklace
+jewelry:diamond_ring
+jewelry:emerald_necklace

@@ -1,0 +1,3 @@
+#repurposed_structures:collections/jungles
+#repurposed_structures:collections/spooky_forests
+#repurposed_structures:collections/swamps

@@ -1,0 +1,9 @@
+biomeswevegone:mojave_desert
+biomeswevegone:rugged_badlands
+byg:mojave_desert
+minecraft:desert
+minecraft:desert_pyramid
+regions_unexplored:joshua_desert
+regions_unexplored:outback
+regions_unexplored:saguaro_desert
+terralith:desert_oasis

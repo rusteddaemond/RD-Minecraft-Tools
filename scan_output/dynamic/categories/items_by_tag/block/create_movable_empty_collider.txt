@@ -1,0 +1,14 @@
+create:corals
+minecraft:bamboo_sapling
+minecraft:banners
+minecraft:cave_vines
+minecraft:cobweb
+minecraft:fence_gates
+minecraft:powder_snow
+minecraft:tripwire
+minecraft:tripwire_hook
+minecraft:twisting_vines
+minecraft:twisting_vines_plant
+minecraft:vine
+minecraft:weeping_vines
+minecraft:weeping_vines_plant

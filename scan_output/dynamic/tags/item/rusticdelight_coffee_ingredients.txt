@@ -1,0 +1,4 @@
+#c:crops/coffee
+#c:crops/coffee_beans
+farmersrespite:coffee_beans
+rusticdelight:roasted_coffee_beans

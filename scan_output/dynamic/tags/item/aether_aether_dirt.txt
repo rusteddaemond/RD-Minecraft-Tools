@@ -1,0 +1,3 @@
+aether:aether_dirt
+aether:aether_grass_block
+aether:enchanted_aether_grass_block

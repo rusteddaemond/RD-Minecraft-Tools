@@ -1,0 +1,2 @@
+bloomingnature:small_cactus
+minecraft:cactus

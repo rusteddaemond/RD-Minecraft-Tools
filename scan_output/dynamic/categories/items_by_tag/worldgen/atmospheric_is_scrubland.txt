@@ -1,0 +1,2 @@
+atmospheric:scrubland
+atmospheric:snowy_scrubland

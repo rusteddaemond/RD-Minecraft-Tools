@@ -1,0 +1,7 @@
+c:black_dyes
+c:dyes/black
+chalk:black_chalk
+minecraft:black_dye
+minecraft:charcoal
+minecraft:coal
+minecraft:coals

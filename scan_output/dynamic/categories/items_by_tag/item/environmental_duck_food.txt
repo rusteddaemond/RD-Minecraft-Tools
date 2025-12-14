@@ -1,0 +1,3 @@
+c:crops/rice
+environmental:duckweed
+minecraft:seagrass

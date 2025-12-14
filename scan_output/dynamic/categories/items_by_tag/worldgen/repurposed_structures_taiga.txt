@@ -1,0 +1,3 @@
+repurposed_structures:collections/any_taiga
+repurposed_structures:collections/giant_taigas
+repurposed_structures:collections/taigas

@@ -1,0 +1,2 @@
+c:eggs
+minecraft:egg

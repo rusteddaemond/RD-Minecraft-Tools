@@ -1,0 +1,15 @@
+toxony:bloodroot
+toxony:coldsnap
+toxony:moonlight_hemlock
+toxony:nightshade
+toxony:ocelot_mint
+toxony:snow_mint
+toxony:sunspot
+toxony:warproot
+toxony:water_hemlock
+toxony:whirlsnap
+toxony:wild_bloodroot
+toxony:wild_coldsnap
+toxony:wild_nightshade
+toxony:wild_ocelot_mint
+toxony:wild_water_hemlock

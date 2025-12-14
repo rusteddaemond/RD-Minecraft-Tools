@@ -1,0 +1,3 @@
+#biomeswevegone:snowy
+environmental:snowy_old_growth_pine_barrens
+environmental:snowy_pine_barrens

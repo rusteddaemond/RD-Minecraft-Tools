@@ -1,0 +1,2 @@
+hibernalherbs:agglomeration_duration/long
+hibernalherbs:agglomeration_duration/short

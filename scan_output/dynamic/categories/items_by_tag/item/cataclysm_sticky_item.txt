@@ -1,0 +1,4 @@
+cataclysm:sticky_gloves
+minecraft:honey_block
+minecraft:slime_ball
+minecraft:slime_block

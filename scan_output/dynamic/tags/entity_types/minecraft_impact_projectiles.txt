@@ -1,0 +1,2 @@
+amendments:medium_dragon_fireball
+amendments:medium_fireball

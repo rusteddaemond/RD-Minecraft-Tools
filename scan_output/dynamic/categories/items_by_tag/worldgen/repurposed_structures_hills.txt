@@ -1,0 +1,2 @@
+c:is_hills
+minecraft:is_hill

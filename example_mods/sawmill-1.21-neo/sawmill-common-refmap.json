@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/mehvahdjukaar/sawmill/mixins/TagManagerHackMixin": {
+      "method_40098": "Lnet/minecraft/class_3505;method_40098(Ljava/util/List;Ljava/lang/Void;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/mehvahdjukaar/sawmill/mixins/TagManagerHackMixin": {
+        "method_40098": "Lnet/minecraft/class_3505;method_40098(Ljava/util/List;Ljava/lang/Void;)V"
+      }
+    }
+  }
+}

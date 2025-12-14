@@ -1,0 +1,2 @@
+minecraft:gray_bundle
+minecraft:gray_harness

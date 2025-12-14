@@ -1,0 +1,4 @@
+byg:canadian_shield
+byg:snowy_deciduous_forest
+byg:snowy_evergreen_taiga
+minecraft:is_taiga

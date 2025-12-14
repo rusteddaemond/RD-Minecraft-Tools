@@ -1,0 +1,8 @@
+twilightforest:dense_forest
+twilightforest:dense_mushroom_forest
+twilightforest:enchanted_forest
+twilightforest:fire_swamp
+twilightforest:firefly_forest
+twilightforest:forest
+twilightforest:mushroom_forest
+twilightforest:oak_savannah

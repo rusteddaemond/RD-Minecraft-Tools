@@ -1,0 +1,7 @@
+Recipe Type: wildernature:truffling
+Total Recipes: 1
+============================================================
+
+wildernature:truffling
+  Inputs: #wildernature:truffles
+

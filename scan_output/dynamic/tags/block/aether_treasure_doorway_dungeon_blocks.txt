@@ -1,0 +1,6 @@
+aether:treasure_doorway_angelic_stone
+aether:treasure_doorway_carved_stone
+aether:treasure_doorway_hellfire_stone
+aether:treasure_doorway_light_angelic_stone
+aether:treasure_doorway_light_hellfire_stone
+aether:treasure_doorway_sentry_stone

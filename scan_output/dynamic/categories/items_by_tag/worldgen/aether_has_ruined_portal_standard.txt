@@ -1,0 +1,5 @@
+minecraft:forest
+minecraft:mushroom_fields
+minecraft:plains
+minecraft:snowy_plains
+minecraft:snowy_taiga

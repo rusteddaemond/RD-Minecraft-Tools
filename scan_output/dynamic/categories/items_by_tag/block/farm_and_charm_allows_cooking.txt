@@ -1,0 +1,7 @@
+candlelight:stoves
+farm_and_charm:stove
+farmersdelight:stove
+meadow:stove_tiles_wood
+minecraft:campfires
+minecraft:magma_block
+minecraft:redstone_block

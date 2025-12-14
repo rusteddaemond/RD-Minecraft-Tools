@@ -1,0 +1,14 @@
+c:gravels
+c:ores
+c:ores_in_ground/root
+c:sands
+c:sandstone/blocks
+minecraft:base_stone_nether
+minecraft:base_stone_overworld
+minecraft:budding_amethyst
+minecraft:calcite
+minecraft:dirt
+minecraft:nylium
+minecraft:soul_sand
+minecraft:soul_soil
+minecraft:terracotta

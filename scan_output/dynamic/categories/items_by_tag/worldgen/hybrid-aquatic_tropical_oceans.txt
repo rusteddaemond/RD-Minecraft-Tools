@@ -1,0 +1,6 @@
+minecraft:deep_lukewarm_ocean
+minecraft:lukewarm_ocean
+still_life:subtropical_deep_ocean
+still_life:subtropical_shallow_ocean
+still_life:tropical_deep_ocean
+still_life:tropical_shallow_ocean

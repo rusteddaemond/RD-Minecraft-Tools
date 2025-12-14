@@ -1,0 +1,15 @@
+aether:is_aether
+atmospheric:kousa_jungle
+atmospheric:snowy_scrubland
+environmental:snowy_old_growth_pine_barrens
+environmental:snowy_pine_barrens
+pastel:crystal_gardens
+pastel:howling_spires
+regions_unexplored:cold_boreal_taiga
+regions_unexplored:cold_deciduous_forest
+regions_unexplored:frozen_pine_taiga
+regions_unexplored:frozen_tundra
+regions_unexplored:icy_heights
+regions_unexplored:spires
+twilightforest:glacier
+twilightforest:snowy_forest

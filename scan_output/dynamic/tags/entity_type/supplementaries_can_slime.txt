@@ -1,0 +1,3 @@
+#tinkers-construct:slimes
+c:slimes
+minecraft:slime

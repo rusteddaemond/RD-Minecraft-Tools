@@ -1,0 +1,3 @@
+create:deepslate_zinc_ore
+create:zinc_block
+create:zinc_ore

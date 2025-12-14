@@ -1,0 +1,3 @@
+biomesoplenty:fungal_jungle
+c:is_mushroom
+minecraft:mushroom_fields

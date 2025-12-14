@@ -1,0 +1,10 @@
+farmersdelight:stove_burn
+pastel:bristle_sprouts
+pastel:decay
+pastel:dike_gate
+pastel:dragonrot
+pastel:midnight_solution
+pastel:primordial_fire
+pastel:ripping
+pastel:snapping_ivy
+twilightforest:ominous_fire

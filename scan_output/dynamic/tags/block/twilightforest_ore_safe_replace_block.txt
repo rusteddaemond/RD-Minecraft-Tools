@@ -1,0 +1,10 @@
+#c:end_stones
+#c:gravels
+#c:ore_bearing_ground/root
+#c:sands
+#minecraft:base_stone_nether
+#minecraft:base_stone_overworld
+#minecraft:deepslate_ore_replaceables
+#minecraft:dirt
+#minecraft:nylium
+#minecraft:stone_ore_replaceables

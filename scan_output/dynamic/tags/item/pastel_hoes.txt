@@ -1,0 +1,4 @@
+pastel:bedrock_hoe
+pastel:glass_crest_workstaff
+pastel:malachite_workstaff
+pastel:multitool

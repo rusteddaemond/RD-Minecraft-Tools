@@ -1,0 +1,5 @@
+#atmospheric:is_dunes
+#biomeswevegone:desert
+atmospheric:scrubland
+atmospheric:snowy_scrubland
+atmospheric:spiny_thicket

@@ -1,0 +1,3 @@
+galosphere:deepslate_palladium_ore
+galosphere:palladium_block
+galosphere:palladium_ore

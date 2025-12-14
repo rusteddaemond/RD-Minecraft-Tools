@@ -1,0 +1,10 @@
+create:asurine
+create:crimsite
+create:limestone
+create:ochrum
+create:scorchia
+create:scoria
+create:veridium
+minecraft:netherrack
+regions_unexplored:overgrown_bone_block
+regions_unexplored:raw_redstone_block

@@ -1,0 +1,3 @@
+c:is_plains
+minecraft:is_savanna
+minecraft:meadow

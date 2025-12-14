@@ -1,0 +1,2 @@
+minecraft:forest
+minecraft:windswept_forest

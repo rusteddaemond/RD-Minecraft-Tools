@@ -1,0 +1,4 @@
+aether:hellfire_blocks
+aether:infiniburn
+minecraft:soul_sand
+minecraft:soul_soil

@@ -1,0 +1,4 @@
+bloomingnature:stripped_swamp_cypress_log
+bloomingnature:stripped_swamp_cypress_wood
+bloomingnature:swamp_cypress_log
+bloomingnature:swamp_cypress_wood

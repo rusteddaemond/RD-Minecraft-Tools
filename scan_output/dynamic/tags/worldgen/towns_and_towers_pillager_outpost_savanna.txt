@@ -1,0 +1,11 @@
+biomesoplenty:wooded_scrubland
+biomeswevegone:araucaria_savanna
+biomeswevegone:baobab_savanna
+biomeswevegone:firecracker_shrubland
+minecraft:savanna
+terralith:savanna_slopes
+terralith:shrubland
+wythers:eucalyptus_salubris_woodland
+wythers:eucalyptus_woodland
+wythers:sparse_eucalyptus_woodland
+wythers:wooded_savanna

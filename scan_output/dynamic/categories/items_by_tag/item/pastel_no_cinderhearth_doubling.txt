@@ -1,0 +1,12 @@
+c:dusts
+c:small_dusts
+minecraft:fences
+minecraft:slabs
+minecraft:stairs
+minecraft:walls
+minecraft:wet_sponge
+pastel:basalts
+pastel:blackslags
+pastel:calcites
+pastel:dragonbone_blocks
+pastel:shale_clays

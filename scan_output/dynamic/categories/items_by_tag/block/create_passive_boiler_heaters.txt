@@ -1,0 +1,9 @@
+c:storage_blocks/fiery
+create:blaze_burner
+create:lit_blaze_burner
+farm_and_charm:stove
+farmersdelight:stove
+minecraft:campfires
+minecraft:fire
+minecraft:lava
+minecraft:magma_block

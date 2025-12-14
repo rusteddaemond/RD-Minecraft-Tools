@@ -1,0 +1,4 @@
+pastel:chestnut_noxshroom
+pastel:ebony_noxshroom
+pastel:ivory_noxshroom
+pastel:slate_noxshroom

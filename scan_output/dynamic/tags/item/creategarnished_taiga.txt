@@ -1,0 +1,9 @@
+creategarnished:crystalline_garlic_bulb
+creategarnished:elven_sweet_berries
+creategarnished:elven_tea
+creategarnished:garlic_bread
+creategarnished:garlic_bulb
+creategarnished:pine_nut
+creategarnished:sweet_tea
+creategarnished:vegetable_stew
+minecraft:sweet_berries

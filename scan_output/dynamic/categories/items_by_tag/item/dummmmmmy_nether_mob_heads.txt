@@ -1,0 +1,5 @@
+minecraft:piglin_head
+moremobheads:magma_cube_head
+piglinproliferation:piglin_alchemist_head
+piglinproliferation:piglin_brute_head
+piglinproliferation:piglin_traveler_head

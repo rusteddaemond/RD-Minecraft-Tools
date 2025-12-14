@@ -1,0 +1,4 @@
+elixirum:witch_totem_of_undying
+friendsandfoes:totem_of_freezing
+friendsandfoes:totem_of_illusion
+minecraft:totem_of_undying

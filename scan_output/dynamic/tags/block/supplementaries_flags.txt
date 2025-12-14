@@ -1,0 +1,16 @@
+supplementaries:flag_black
+supplementaries:flag_blue
+supplementaries:flag_brown
+supplementaries:flag_cyan
+supplementaries:flag_gray
+supplementaries:flag_green
+supplementaries:flag_light_blue
+supplementaries:flag_light_gray
+supplementaries:flag_lime
+supplementaries:flag_magenta
+supplementaries:flag_orange
+supplementaries:flag_pink
+supplementaries:flag_purple
+supplementaries:flag_red
+supplementaries:flag_white
+supplementaries:flag_yellow

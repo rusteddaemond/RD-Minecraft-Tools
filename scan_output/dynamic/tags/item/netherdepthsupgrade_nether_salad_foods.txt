@@ -1,0 +1,4 @@
+minecraft:crimson_fungus
+minecraft:warped_fungus
+netherdepthsupgrade:warped_kelp
+netherdepthsupgrade:warped_seagrass

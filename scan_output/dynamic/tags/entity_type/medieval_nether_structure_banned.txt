@@ -1,0 +1,2 @@
+minecraft:hoglin
+minecraft:zombified_piglin

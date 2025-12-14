@@ -1,0 +1,7 @@
+amendments:carpet_slab
+amendments:carpet_stairs
+environmental:yak_hair_block
+environmental:yak_hair_rug
+supplementaries:feather_block
+twilightforest:arctic_fur_block
+twilightforest:clouds

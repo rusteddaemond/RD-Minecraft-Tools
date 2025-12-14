@@ -1,0 +1,3 @@
+biomesoplenty:lush_desert
+c:desert
+forge:is_desert

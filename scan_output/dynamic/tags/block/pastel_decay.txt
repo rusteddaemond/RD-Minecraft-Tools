@@ -1,0 +1,4 @@
+pastel:fading
+pastel:failing
+pastel:forfeiture
+pastel:ruin

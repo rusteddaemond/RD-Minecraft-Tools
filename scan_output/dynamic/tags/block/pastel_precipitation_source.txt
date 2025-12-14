@@ -1,0 +1,12 @@
+#c:farmlands
+#c:ores
+#c:stones
+#minecraft:dirt
+#pastel:base_stone_deeper_down
+minecraft:andesite
+minecraft:basalt
+minecraft:calcite
+minecraft:diorite
+minecraft:granite
+minecraft:tuff
+pastel:shale_clay

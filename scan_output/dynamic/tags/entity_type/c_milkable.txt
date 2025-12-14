@@ -1,0 +1,5 @@
+buzzier_bees:moobloom
+environmental:yak
+minecraft:cow
+minecraft:goat
+minecraft:mooshroom

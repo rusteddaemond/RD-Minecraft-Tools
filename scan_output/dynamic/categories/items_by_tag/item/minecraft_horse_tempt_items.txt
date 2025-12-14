@@ -1,0 +1,3 @@
+farmersdelight:horse_feed
+pastel:enchanted_golden_carrot
+supplementaries:sugar_cube

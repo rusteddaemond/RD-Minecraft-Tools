@@ -1,0 +1,8 @@
+biomesoplenty:dune_beach
+biomeswevegone:rainbow_beach
+minecraft:beach
+mysticsbiomes:lagoon
+still_life:mediterranean_beach
+still_life:tropical_beach
+terrestria:volcanic_island_beach
+wythers:tropical_beach

@@ -1,0 +1,2 @@
+arsenal:unique_dagger_1
+arsenal:unique_staff_damage_6

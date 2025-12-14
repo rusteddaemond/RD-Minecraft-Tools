@@ -1,0 +1,6 @@
+cataclysm:maledictio_sagitta
+cataclysm:penetrate
+cataclysm:shredder
+cataclysm:sword_dance
+pastel:evisceration
+pastel:irradiance

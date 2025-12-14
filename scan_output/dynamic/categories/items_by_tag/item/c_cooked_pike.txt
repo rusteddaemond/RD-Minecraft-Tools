@@ -1,0 +1,2 @@
+abnormals_delight:cooked_pike_slice
+upgrade_aquatic:cooked_pike

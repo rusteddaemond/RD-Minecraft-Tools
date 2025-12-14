@@ -1,0 +1,3 @@
+c:slimes
+minecraft:slime
+tinkers-construct:slimes

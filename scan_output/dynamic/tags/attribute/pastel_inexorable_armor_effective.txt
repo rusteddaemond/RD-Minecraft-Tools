@@ -1,0 +1,4 @@
+additionalentityattributes:generic.lava_speed
+additionalentityattributes:generic.water_speed
+minecraft:generic.flying_speed
+minecraft:generic.movement_speed

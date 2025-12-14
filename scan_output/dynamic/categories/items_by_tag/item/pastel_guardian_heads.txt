@@ -1,0 +1,2 @@
+pastel:elder_guardian_head
+pastel:guardian_head

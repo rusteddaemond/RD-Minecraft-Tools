@@ -1,0 +1,16 @@
+#c:ingots/fiery
+#c:ingots/ironwood
+#c:ingots/knightmetal
+#c:ingots/steeleaf
+#create:create_ingots
+#pastel:pure_resources
+aether:enchanted_gravitite
+aether:zanite_gemstone
+minecraft:amethyst_shard
+oreganized:electrum_ingot
+oreganized:silver_ingot
+pastel:citrine_shard
+pastel:moonstone_shard
+pastel:onyx_shard
+pastel:spectral_shard
+pastel:topaz_shard

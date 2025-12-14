@@ -1,0 +1,3 @@
+pastel:azurite_cluster
+pastel:large_azurite_bud
+pastel:small_azurite_bud

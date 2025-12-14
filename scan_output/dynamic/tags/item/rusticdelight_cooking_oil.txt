@@ -1,0 +1,2 @@
+frycooks_delight:canola_oil
+rusticdelight:cooking_oil

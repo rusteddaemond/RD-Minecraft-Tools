@@ -1,0 +1,2 @@
+aether:golden_ring
+aether:iron_ring

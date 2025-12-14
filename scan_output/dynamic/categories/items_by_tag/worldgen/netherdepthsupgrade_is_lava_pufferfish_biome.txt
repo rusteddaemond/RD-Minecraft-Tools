@@ -1,0 +1,4 @@
+byg:crimson_gardens
+byg:sythian_torrids
+minecraft:crimson_forest
+minecraft:warped_forest

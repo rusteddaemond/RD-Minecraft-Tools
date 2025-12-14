@@ -1,0 +1,2 @@
+bewitchment:toad
+minecraft:rabbit

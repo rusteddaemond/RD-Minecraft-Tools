@@ -1,0 +1,2 @@
+pastel:cotton_cloud_boots
+pastel:seven_league_boots

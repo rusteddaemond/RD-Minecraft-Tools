@@ -1,0 +1,2 @@
+#c:bones
+minecraft:bone

@@ -1,0 +1,13 @@
+#c:glass
+#c:glass_blocks
+#c:glass_panes
+#clayworks:glass_doors
+#clayworks:glass_trapdoors
+#clayworks:stained_glass_doors
+#clayworks:stained_glass_trapdoors
+clayworks:glass_door
+clayworks:glass_trapdoor
+minecraft:glass
+minecraft:glass_pane
+minecraft:ice
+oreganized:grooved_ice

@@ -1,0 +1,3 @@
+#c:is_swamp
+#minecraft:is_jungle
+minecraft:river

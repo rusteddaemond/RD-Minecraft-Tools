@@ -1,0 +1,2 @@
+regions_unexplored:fungal_fen
+regions_unexplored:marsh

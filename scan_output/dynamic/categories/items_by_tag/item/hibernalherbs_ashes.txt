@@ -1,0 +1,7 @@
+hibernalherbs:envy_ashes
+hibernalherbs:gluttony_ashes
+hibernalherbs:greed_ashes
+hibernalherbs:lust_ashes
+hibernalherbs:pride_ashes
+hibernalherbs:sloth_ashes
+hibernalherbs:wrath_ashes

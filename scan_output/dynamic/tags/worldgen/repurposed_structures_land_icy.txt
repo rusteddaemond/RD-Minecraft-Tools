@@ -1,0 +1,4 @@
+#repurposed_structures:collections/icy
+#repurposed_structures:collections/snowy_forests
+#repurposed_structures:collections/snowy_mountains
+#repurposed_structures:collections/snowy_plains

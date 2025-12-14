@@ -1,0 +1,4 @@
+relics_rpgs:greater_perk_heal_danger
+relics_rpgs:greater_proc_defense_danger
+relics_rpgs:greater_proc_physical_trance
+relics_rpgs:greater_proc_spell_trance

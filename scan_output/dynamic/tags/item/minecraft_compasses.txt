@@ -1,0 +1,2 @@
+occultism:vitality_compass
+pastel:mysterious_compass

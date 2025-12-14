@@ -1,0 +1,10 @@
+caverns_and_chasms:tmt
+minecraft:dragon_fireball
+minecraft:evoker_fangs
+minecraft:fireball
+minecraft:firework_rocket
+minecraft:lightning_bolt
+minecraft:small_fireball
+minecraft:tnt
+minecraft:wither_skull
+savage_and_ravage:spore_bomb

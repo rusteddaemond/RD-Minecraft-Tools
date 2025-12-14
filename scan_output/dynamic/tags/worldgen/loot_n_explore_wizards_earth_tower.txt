@@ -1,0 +1,7 @@
+#c:extreme_hills
+#c:is_mountain
+#c:mountain_peak
+#minecraft:is_hill
+minecraft:jagged_peaks
+minecraft:stony_peaks
+minecraft:windswept_hills

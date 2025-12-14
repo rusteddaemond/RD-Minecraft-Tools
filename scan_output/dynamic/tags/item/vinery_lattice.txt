@@ -1,0 +1,9 @@
+vinery:acacia_lattice
+vinery:bamboo_lattice
+vinery:birch_lattice
+vinery:cherry_lattice
+vinery:dark_oak_lattice
+vinery:jungle_lattice
+vinery:mangrove_lattice
+vinery:oak_lattice
+vinery:spruce_lattice

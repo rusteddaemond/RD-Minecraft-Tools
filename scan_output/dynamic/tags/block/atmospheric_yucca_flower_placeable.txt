@@ -1,0 +1,3 @@
+#atmospheric:desert_plant_placeable
+atmospheric:yucca_leaves
+minecraft:cactus

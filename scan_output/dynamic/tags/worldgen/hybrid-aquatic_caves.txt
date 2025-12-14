@@ -1,0 +1,11 @@
+minecraft:deep_dark
+minecraft:dripstone_caves
+minecraft:lush_caves
+regions_unexplored:ancient_delta
+regions_unexplored:bioshroom_caves
+regions_unexplored:prismachasm
+regions_unexplored:redstone_caves
+regions_unexplored:scorching_caves
+still_life:barren_caves
+still_life:glowing_caves
+still_life:mushroom_caves

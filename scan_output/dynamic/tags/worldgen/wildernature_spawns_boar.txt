@@ -1,0 +1,2 @@
+#minecraft:is_forest
+#minecraft:is_savanna

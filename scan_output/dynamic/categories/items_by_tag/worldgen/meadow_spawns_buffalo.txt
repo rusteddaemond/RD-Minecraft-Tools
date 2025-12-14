@@ -1,0 +1,3 @@
+minecraft:has_structure/woodland_mansion
+minecraft:is_forest
+minecraft:is_taiga

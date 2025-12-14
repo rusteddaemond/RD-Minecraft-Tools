@@ -1,0 +1,8 @@
+#c:storage_blocks/fiery
+#candlelight:stoves
+#farmersdelight:tray_heat_sources
+#meadow:allows_cooking
+farmersdelight:stove
+herbalbrews:stove
+minecraft:lava_cauldron
+minecraft:magma_block

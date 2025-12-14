@@ -1,0 +1,9 @@
+#pastel:colored_pressure_plates
+#supplementaries:candle_holders
+#supplementaries:sconces
+aether:ambrosium_torch
+minecraft:cactus_flower
+pastel:primordial_torch
+pastel:weeping_gala_lantern
+regions_unexplored:green_bioshroom_block
+supplementaries:crank

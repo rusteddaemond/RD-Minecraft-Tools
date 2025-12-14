@@ -1,0 +1,11 @@
+berry_good:sweet_berry_mince
+c:foods/raw_beef
+c:foods/raw_chicken
+c:foods/raw_duck
+c:foods/raw_mutton
+c:foods/raw_pork
+c:foods/raw_venison
+neapolitan:mint_chops
+pastel:lizard_meat
+twilightforest:raw_meef
+twilightforest:raw_venison

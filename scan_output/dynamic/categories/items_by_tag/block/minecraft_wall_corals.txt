@@ -1,0 +1,16 @@
+hybrid-aquatic:button_coral_wall_fan
+hybrid-aquatic:leaf_coral_wall_fan
+hybrid-aquatic:lophelia_coral_wall_fan
+hybrid-aquatic:rose_coral_wall_fan
+hybrid-aquatic:sun_coral_wall_fan
+hybrid-aquatic:thorn_coral_wall_fan
+upgrade_aquatic:acan_coral_wall_fan
+upgrade_aquatic:branch_coral_wall_fan
+upgrade_aquatic:chrome_coral_wall_fan
+upgrade_aquatic:finger_coral_wall_fan
+upgrade_aquatic:moss_coral_wall_fan
+upgrade_aquatic:petal_coral_wall_fan
+upgrade_aquatic:pillow_coral_wall_fan
+upgrade_aquatic:rock_coral_wall_fan
+upgrade_aquatic:silk_coral_wall_fan
+upgrade_aquatic:star_coral_wall_fan

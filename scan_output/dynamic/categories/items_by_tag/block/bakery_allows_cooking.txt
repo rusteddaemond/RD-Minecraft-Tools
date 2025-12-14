@@ -1,0 +1,3 @@
+c:allows_cooking
+minecraft:lava_cauldron
+minecraft:magma_block

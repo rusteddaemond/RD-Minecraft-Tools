@@ -1,0 +1,5 @@
+minecraft:kelp
+minecraft:lily_pad
+minecraft:mangrove_propagule
+minecraft:sea_pickle
+minecraft:seagrass

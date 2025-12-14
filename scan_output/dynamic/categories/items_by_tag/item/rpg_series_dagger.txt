@@ -1,0 +1,15 @@
+arsenal:unique_dagger_1
+arsenal:unique_dagger_2
+arsenal:unique_dagger_sw
+lne_rogues:elder_guardian_dagger
+lne_rogues:ender_dragon_dagger
+lne_rogues:glacial_dagger
+lne_rogues:wither_dagger
+rogues:aeternium_dagger
+rogues:aether_dagger
+rogues:diamond_dagger
+rogues:flint_dagger
+rogues:golden_dagger
+rogues:iron_dagger
+rogues:netherite_dagger
+rogues:ruby_dagger

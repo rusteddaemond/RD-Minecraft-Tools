@@ -1,0 +1,2 @@
+c:orange_dye
+minecraft:orange_dye

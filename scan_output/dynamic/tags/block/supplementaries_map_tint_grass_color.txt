@@ -1,0 +1,6 @@
+minecraft:fern
+minecraft:grass
+minecraft:grass_block
+minecraft:large_fern
+minecraft:short_grass
+minecraft:tall_grass

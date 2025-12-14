@@ -1,0 +1,3 @@
+atmospheric:snowy_bamboo
+atmospheric:snowy_bamboo_sapling
+minecraft:snow_block

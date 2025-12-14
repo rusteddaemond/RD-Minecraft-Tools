@@ -1,0 +1,4 @@
+theurgy:alchemical_sulfurs/crops/abundant
+theurgy:alchemical_sulfurs/crops/common
+theurgy:alchemical_sulfurs/crops/precious
+theurgy:alchemical_sulfurs/crops/rare

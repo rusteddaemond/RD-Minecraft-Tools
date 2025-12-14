@@ -1,0 +1,4 @@
+#malum:blighted_plants
+minecraft:sculk_sensor
+minecraft:sculk_shrieker
+minecraft:sculk_vein

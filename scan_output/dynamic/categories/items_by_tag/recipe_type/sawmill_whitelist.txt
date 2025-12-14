@@ -1,0 +1,3 @@
+chipped:carpenters_table
+minecraft:crafting
+minecraft:stonecutting

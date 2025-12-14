@@ -1,0 +1,3 @@
+takesapillage:archer
+takesapillage:legioner
+takesapillage:skirmisher

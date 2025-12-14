@@ -1,0 +1,2 @@
+hybrid-aquatic:bull_kelp
+hybrid-aquatic:sargassum

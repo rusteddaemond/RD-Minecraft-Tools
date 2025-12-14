@@ -1,0 +1,17 @@
+biomesoplenty:grassland
+biomesoplenty:prairie
+biomeswevegone:orchard
+biomeswevegone:overgrowth_woodlands
+biomeswevegone:temperate_grove
+byg:allium_fields
+byg:temperate_rainforest
+minecraft:plains
+regions_unexplored:deciduous_forest
+regions_unexplored:eucalyptus_forest
+regions_unexplored:grassland
+regions_unexplored:highland_fields
+regions_unexplored:prairie
+regions_unexplored:rocky_meadow
+regions_unexplored:temperate_grove
+regions_unexplored:willow_forest
+wythers:cool_plains

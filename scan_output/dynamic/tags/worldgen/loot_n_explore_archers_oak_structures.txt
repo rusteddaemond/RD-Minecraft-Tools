@@ -1,0 +1,3 @@
+minecraft:flower_forest
+minecraft:forest
+minecraft:windswept_forest

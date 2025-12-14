@@ -1,0 +1,3 @@
+minecraft:villages
+repurposed_structures:villages_mushroom
+repurposed_structures:villages_overworld

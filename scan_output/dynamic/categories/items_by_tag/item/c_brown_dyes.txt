@@ -1,0 +1,2 @@
+c:brown_dye
+minecraft:brown_dye

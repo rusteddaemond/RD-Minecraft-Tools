@@ -1,0 +1,4 @@
+#byg:is_icy
+#c:snowy
+#forge:is_snowy
+#minecraft:has_structure/village_snowy

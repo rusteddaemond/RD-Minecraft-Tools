@@ -1,0 +1,5 @@
+occultism:possessed_elder_guardian
+occultism:possessed_guardian
+occultism:wild_horde_drowned
+upgrade_aquatic:great_thrasher
+upgrade_aquatic:thrasher

@@ -1,0 +1,7 @@
+cataclysm:blazing_grips
+cataclysm:chitin_claw
+cataclysm:sticky_gloves
+occultism:storage_remote
+occultism:true_sight_staff
+pastel:aether_graced_nectar_gloves
+pastel:gloves_of_dawns_grasp

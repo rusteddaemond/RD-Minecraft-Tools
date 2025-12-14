@@ -1,0 +1,8 @@
+pastel:budding_topaz
+pastel:large_topaz_bud
+pastel:medium_topaz_bud
+pastel:polished_topaz_block
+pastel:small_topaz_bud
+pastel:topaz_block
+pastel:topaz_cluster
+pastel:topaz_shard

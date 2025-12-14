@@ -1,0 +1,17 @@
+aether:skyroot_axolotl_bucket
+aether:skyroot_cod_bucket
+aether:skyroot_pufferfish_bucket
+aether:skyroot_salmon_bucket
+aether:skyroot_tadpole_bucket
+aether:skyroot_tropical_fish_bucket
+atmospheric:tetra_bucket
+biomeswevegone:man_o_war_bucket
+environmental:koi_bucket
+environmental:slabfish_bucket
+upgrade_aquatic:glow_squid_bucket
+upgrade_aquatic:jellyfish_bucket
+upgrade_aquatic:lionfish_bucket
+upgrade_aquatic:nautilus_bucket
+upgrade_aquatic:perch_bucket
+upgrade_aquatic:pike_bucket
+upgrade_aquatic:squid_bucket

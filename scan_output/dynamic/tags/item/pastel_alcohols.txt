@@ -1,0 +1,3 @@
+#pastel:drinkable_spirits
+pastel:chrysocolla
+pastel:pure_alcohol

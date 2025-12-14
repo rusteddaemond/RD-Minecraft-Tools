@@ -1,0 +1,10 @@
+hibernalherbs:deteriorated_sacrificial_rune_block
+minecraft:cobbled_deepslate
+minecraft:cobblestone
+minecraft:deepslate
+minecraft:deepslate_bricks
+minecraft:polished_deepslate
+minecraft:smooth_stone
+minecraft:stone
+minecraft:stone_bricks
+minecraft:wither_rose

@@ -1,0 +1,2 @@
+minecraft:desert
+minecraft:has_structure/desert_pyramid

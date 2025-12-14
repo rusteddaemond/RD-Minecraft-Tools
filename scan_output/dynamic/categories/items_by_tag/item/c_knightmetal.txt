@@ -1,0 +1,3 @@
+twilightforest:armor_shard_cluster
+twilightforest:knightmetal_block
+twilightforest:knightmetal_ingot

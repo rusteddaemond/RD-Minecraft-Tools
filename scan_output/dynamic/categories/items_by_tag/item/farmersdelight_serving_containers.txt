@@ -1,0 +1,4 @@
+bakery:tray
+minecraft:bowl
+minecraft:bucket
+minecraft:glass_bottle

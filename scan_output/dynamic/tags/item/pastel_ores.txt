@@ -1,0 +1,6 @@
+#pastel:azurite_ores
+#pastel:gemstone_ores
+#pastel:malachite_ores
+#pastel:shimmerstone_ores
+pastel:paltaeria_ore
+pastel:stratine_ore

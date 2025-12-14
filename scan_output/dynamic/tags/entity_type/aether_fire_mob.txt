@@ -1,0 +1,3 @@
+aether:fire_minion
+minecraft:blaze
+twilightforest:fire_beetle

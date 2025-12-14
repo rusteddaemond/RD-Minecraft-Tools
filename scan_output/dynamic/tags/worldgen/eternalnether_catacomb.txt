@@ -1,0 +1,5 @@
+#biomesoplenty:withered_abyss
+#byg:wailing_garth
+#incendium:weeping_valley
+#incendium:withered_forest
+minecraft:soul_sand_valley

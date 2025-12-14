@@ -1,0 +1,4 @@
+cataclysm:ender_golem
+cataclysm:ender_guardian
+cataclysm:endermaptera
+minecraft:shulker

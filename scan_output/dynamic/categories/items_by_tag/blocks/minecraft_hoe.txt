@@ -1,0 +1,9 @@
+netherdepthsupgrade:crimson_kelp_block
+netherdepthsupgrade:lava_sponge
+netherdepthsupgrade:warped_kelp_block
+netherdepthsupgrade:wet_lava_sponge
+sweety_garden:hepatica
+sweety_garden:passion_flower
+sweety_garden:purple_shamrock
+sweety_garden:wood_anemone
+sweety_garden:wood_sorrel

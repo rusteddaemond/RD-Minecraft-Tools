@@ -1,0 +1,3 @@
+pastel:blackslag_shimmerstone_ore
+pastel:deepslate_shimmerstone_ore
+pastel:shimmerstone_ore

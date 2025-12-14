@@ -1,0 +1,10 @@
+#minecraft:moss_carpets
+#minecraft:wool_carpets
+deep_aether:aether_moss_carpet
+deep_aether:cloudbloom_carpet
+farmersdelight:canvas_rug
+minecraft:moss_carpet
+minecraft:pale_moss_carpet
+quark:bamboo_mat
+vanilla_backport:pale_moss_carpet
+vanillabackport:pale_moss_carpet

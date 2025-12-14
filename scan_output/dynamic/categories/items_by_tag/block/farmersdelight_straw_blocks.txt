@@ -1,0 +1,11 @@
+farmersdelight:canvas_rug
+farmersdelight:full_tatami_mat
+farmersdelight:half_tatami_mat
+farmersdelight:rice_bag
+farmersdelight:rope
+farmersdelight:safety_net
+farmersdelight:tatami
+rusticdelight:bell_pepper_seeds_bag
+rusticdelight:coffee_beans_bag
+rusticdelight:cotton_seeds_bag
+rusticdelight:roasted_coffee_beans_bag

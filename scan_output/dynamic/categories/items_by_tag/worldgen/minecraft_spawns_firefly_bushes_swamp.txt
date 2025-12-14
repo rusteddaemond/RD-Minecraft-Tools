@@ -1,0 +1,6 @@
+biomesoplenty:bayou
+biomesoplenty:bog
+biomeswevegone:cypress_wetlands
+c:swamp
+forge:is_swamp
+terralith:orchid_swamp

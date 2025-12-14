@@ -1,0 +1,4 @@
+c:dyes/red
+c:red_dyes
+chalk:red_chalk
+minecraft:red_dye

@@ -1,0 +1,2 @@
+repurposed_structures:city_nether
+repurposed_structures:city_overworld

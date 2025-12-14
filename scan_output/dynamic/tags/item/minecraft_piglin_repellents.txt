@@ -1,0 +1,4 @@
+biomeswevegone:soul_fruit
+buzzier_bees:soul_candle
+occultism:spirit_campfire
+supplementaries:sconce_soul

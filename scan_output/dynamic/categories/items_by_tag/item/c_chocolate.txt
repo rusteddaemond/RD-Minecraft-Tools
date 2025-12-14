@@ -1,0 +1,5 @@
+bakery:chocolate_truffle
+candlelight:chocolate_mousse
+create:bar_of_chocolate
+create:chocolate_bucket
+pastel:fresh_chocolate

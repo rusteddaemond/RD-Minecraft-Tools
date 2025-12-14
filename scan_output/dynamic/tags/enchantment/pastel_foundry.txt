@@ -1,0 +1,2 @@
+gofish:deepfry
+minecraft:silk_touch

@@ -1,0 +1,7 @@
+hybrid-aquatic:coelacanth
+hybrid-aquatic:golden_dorado
+hybrid-aquatic:mahi
+hybrid-aquatic:oarfish
+hybrid-aquatic:opah
+hybrid-aquatic:sunfish
+hybrid-aquatic:tuna

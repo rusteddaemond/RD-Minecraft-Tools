@@ -1,0 +1,9 @@
+biomesoplenty:lush_desert
+biomeswevegone:windswept_desert
+biomeswevegone:windswept_dunes
+jermsy:desert_hills
+minecraft:desert
+terralith:desert_oasis
+terrestria:lush_desert
+wythers:desert_island
+wythers:desert_lakes

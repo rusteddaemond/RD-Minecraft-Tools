@@ -1,0 +1,2 @@
+bewitchment:death_protection_poppet
+twilightforest:glass_sword

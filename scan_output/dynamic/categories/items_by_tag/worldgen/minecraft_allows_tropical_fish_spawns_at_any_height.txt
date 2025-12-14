@@ -1,0 +1,3 @@
+pastel:crystal_gardens
+regions_unexplored:ancient_delta
+regions_unexplored:bioshroom_caves

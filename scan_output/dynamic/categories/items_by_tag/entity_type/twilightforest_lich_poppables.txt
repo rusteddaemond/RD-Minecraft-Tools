@@ -1,0 +1,6 @@
+minecraft:creeper
+minecraft:enderman
+minecraft:skeletons
+minecraft:spider
+minecraft:zombie
+twilightforest:swarm_spider

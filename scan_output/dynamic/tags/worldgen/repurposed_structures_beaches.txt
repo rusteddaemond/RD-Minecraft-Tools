@@ -1,0 +1,2 @@
+#c:is_beach
+#minecraft:is_beach

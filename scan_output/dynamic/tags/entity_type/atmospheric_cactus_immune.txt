@@ -1,0 +1,3 @@
+atmospheric:cochineal
+minecraft:camel
+minecraft:husk

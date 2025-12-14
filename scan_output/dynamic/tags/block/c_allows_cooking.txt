@@ -1,0 +1,6 @@
+#candlelight:stoves
+farm_and_charm:stove
+herbalbrews:stove
+meadow:stove_tiles
+meadow:stove_tiles_lid
+meadow:stove_tiles_wood

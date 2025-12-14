@@ -1,0 +1,11 @@
+archers:flint_spear
+elemental_wizards_rpg:wand_clay
+elemental_wizards_rpg:wand_feather
+elemental_wizards_rpg:wand_kelp
+paladins:acolyte_wand
+paladins:stone_claymore
+paladins:stone_great_hammer
+paladins:wooden_great_hammer
+rogues:flint_dagger
+rogues:stone_double_axe
+wizards:wand_novice

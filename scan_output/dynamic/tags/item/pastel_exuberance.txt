@@ -1,0 +1,4 @@
+#malum:scythe
+#minecraft:enchantable/mining_loot
+#minecraft:enchantable/weapon
+#pastel:fishing_rods

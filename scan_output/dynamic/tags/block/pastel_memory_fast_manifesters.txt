@@ -1,0 +1,2 @@
+minecraft:magma_block
+pastel:wet_lava_sponge

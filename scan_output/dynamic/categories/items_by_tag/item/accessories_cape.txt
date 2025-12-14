@@ -1,0 +1,3 @@
+aether:accessories_capes
+deeperdarker:soul_elytra
+minecraft:elytra

@@ -1,0 +1,7 @@
+minecraft:campfire
+minecraft:fire
+minecraft:soul_campfire
+minecraft:soul_wall_torch
+minecraft:torch
+minecraft:torchflower
+minecraft:wall_torch

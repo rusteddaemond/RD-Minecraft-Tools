@@ -1,0 +1,2 @@
+furniture:cphs_pride
+furniture:letsdo_theme

@@ -1,0 +1,2 @@
+c:in_nether
+minecraft:is_nether

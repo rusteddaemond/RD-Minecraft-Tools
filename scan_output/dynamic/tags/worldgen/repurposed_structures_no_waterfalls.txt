@@ -1,0 +1,3 @@
+repurposed_structures:mansion_snowy
+repurposed_structures:outpost_snowy
+repurposed_structures:pyramid_snowy

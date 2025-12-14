@@ -1,0 +1,5 @@
+cataclysm:ignis
+cataclysm:ignited_berserker
+cataclysm:ignited_revenant
+minecraft:blaze
+minecraft:magma_cube

@@ -1,0 +1,13 @@
+{
+  "textures": [
+    {
+      "texture": "minecraft:block/oak_planks"
+    },
+    {
+      "texture": "minecraft:block/lectern_bottom"
+      "mask": "mypack:block/lectern_bottom_mask"
+    }
+  ],
+  "merge_palette": true,
+  "planks_block": "minecraft:oak_planks"
+}

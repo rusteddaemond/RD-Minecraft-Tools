@@ -1,0 +1,2 @@
+abnormals_delight:cooked_perch_slice
+upgrade_aquatic:cooked_perch

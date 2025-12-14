@@ -1,0 +1,5 @@
+#biomeswevegone:jungle
+regions_unexplored:bamboo_forest
+regions_unexplored:eucalyptus_forest
+regions_unexplored:rainforest
+regions_unexplored:sparse_rainforest

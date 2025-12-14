@@ -1,0 +1,10 @@
+cataclysm:ignis
+cataclysm:ignited_berserker
+cataclysm:ignited_revenant
+cataclysm:maledictus
+minecraft:allay
+minecraft:blaze
+minecraft:breeze
+minecraft:magma_cube
+minecraft:vex
+minecraft:warden

@@ -1,0 +1,4 @@
+aether:golden_ring
+aether:ice_ring
+aether:iron_ring
+aether:zanite_ring

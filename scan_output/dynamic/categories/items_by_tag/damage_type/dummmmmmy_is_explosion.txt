@@ -1,0 +1,3 @@
+attributeslib:detonation
+attributeslib:explosion
+minecraft:is_explosion

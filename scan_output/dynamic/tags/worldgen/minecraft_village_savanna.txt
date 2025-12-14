@@ -1,0 +1,14 @@
+#biomeswevegone:savanna
+biomesoplenty:dryland
+byg:araucaria_savanna
+byg:baobab_savanna
+byg:firecracker_shrubland
+minecraft:savanna
+regions_unexplored:dry_bushland
+regions_unexplored:outback
+regions_unexplored:steppe
+terralith:savanna_slopes
+wythers:eucalyptus_salubris_woodland
+wythers:eucalyptus_woodland
+wythers:sparse_eucalyptus_woodland
+wythers:wooded_savanna

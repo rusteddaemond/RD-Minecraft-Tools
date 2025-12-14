@@ -1,0 +1,17 @@
+biomesoplenty:dead_forest
+biomesoplenty:jade_cliffs
+biomesoplenty:mediterranean_taiga
+biomesoplenty:old_growth_dead_forest
+byg:autumnal_taiga
+byg:canadian_shield
+byg:maple_taiga
+minecraft:is_taiga
+projectvibrantjourneys:boreal_forest
+projectvibrantjourneys:crystal_lakes
+terralith:cloud_forest
+terralith:forested_highlands
+terralith:lavender_forest
+terralith:lavender_valley
+terralith:moonlight_grove
+terralith:moonlight_valley
+terralith:shrubland

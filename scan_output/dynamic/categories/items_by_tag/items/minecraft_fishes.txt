@@ -1,0 +1,11 @@
+netherdepthsupgrade:blazefish
+netherdepthsupgrade:bonefish
+netherdepthsupgrade:eyeball_fish
+netherdepthsupgrade:fortress_grouper
+netherdepthsupgrade:glowdine
+netherdepthsupgrade:lava_pufferfish
+netherdepthsupgrade:magmacubefish
+netherdepthsupgrade:obsidianfish
+netherdepthsupgrade:searing_cod
+netherdepthsupgrade:soulsucker
+netherdepthsupgrade:wither_bonefish

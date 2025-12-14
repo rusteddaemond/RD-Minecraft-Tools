@@ -1,0 +1,8 @@
+byg:bayou
+byg:cold_swamplands
+byg:cypress_swamplands
+byg:glowshroom_bayou
+byg:vibrant_swamplands
+byg:white_mangrove_marshes
+c:is_swamp
+minecraft:swamp

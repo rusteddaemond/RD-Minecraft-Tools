@@ -1,0 +1,3 @@
+minecraft:barrel
+minecraft:chest
+minecraft:ender_chest

@@ -1,0 +1,2 @@
+theurgy:alchemical_niters
+theurgy:alchemical_sulfurs

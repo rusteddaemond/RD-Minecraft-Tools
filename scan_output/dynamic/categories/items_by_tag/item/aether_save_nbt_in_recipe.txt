@@ -1,0 +1,3 @@
+aether:enchanted_dart_shooter
+aether:ice_pendant
+aether:ice_ring

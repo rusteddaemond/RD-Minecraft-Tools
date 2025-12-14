@@ -1,0 +1,5 @@
+biomeswevegone:howling_peaks
+minecraft:grove
+minecraft:snowy_slopes
+regions_unexplored:icy_heights
+terralith:alpine_grove

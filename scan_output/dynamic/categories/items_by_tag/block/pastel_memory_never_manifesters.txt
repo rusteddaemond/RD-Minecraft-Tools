@@ -1,0 +1,5 @@
+minecraft:blue_ice
+minecraft:ice
+minecraft:packed_ice
+pastel:frostbite_crystal
+powah:dry_ice

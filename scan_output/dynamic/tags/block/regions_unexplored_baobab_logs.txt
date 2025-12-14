@@ -1,0 +1,4 @@
+regions_unexplored:baobab_log
+regions_unexplored:baobab_wood
+regions_unexplored:stripped_baobab_log
+regions_unexplored:stripped_baobab_wood

@@ -1,0 +1,3 @@
+aether:black_moa_egg
+aether:blue_moa_egg
+aether:white_moa_egg

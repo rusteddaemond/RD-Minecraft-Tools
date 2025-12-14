@@ -1,0 +1,11 @@
+spell_power:air
+spell_power:arcane
+spell_power:earth
+spell_power:fire
+spell_power:frost
+spell_power:generic
+spell_power:healing
+spell_power:lightning
+spell_power:nature
+spell_power:soul
+spell_power:water

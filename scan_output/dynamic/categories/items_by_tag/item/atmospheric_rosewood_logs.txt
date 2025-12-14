@@ -1,0 +1,4 @@
+atmospheric:rosewood
+atmospheric:rosewood_log
+atmospheric:stripped_rosewood
+atmospheric:stripped_rosewood_log

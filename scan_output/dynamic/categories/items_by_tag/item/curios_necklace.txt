@@ -1,0 +1,8 @@
+crittersandcompanions:pearl_necklace_1
+crittersandcompanions:pearl_necklace_2
+crittersandcompanions:pearl_necklace_3
+pastel:greater_potion_pendant
+pastel:laurels_of_serenity
+pastel:lesser_potion_pendant
+pastel:shieldgrasp_amulet
+pastel:totem_pendant

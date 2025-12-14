@@ -1,0 +1,17 @@
+cataclysm:chiseled_end_stone_bricks
+cataclysm:chiseled_obsidian_bricks
+cataclysm:chiseled_purpur_block
+cataclysm:cursed_tombstone
+cataclysm:obsidian_brick_slab
+cataclysm:obsidian_brick_stairs
+cataclysm:obsidian_explosion_trap_bricks
+cataclysm:polished_end_stone
+cataclysm:polished_end_stone_stairs
+cataclysm:void_infused_end_stone_bricks
+cataclysm:void_lantern_block
+cataclysm:void_stone
+minecraft:crying_obsidian
+minecraft:end_stone_brick_stairs
+minecraft:end_stone_bricks
+minecraft:purpur_block
+minecraft:purpur_stairs

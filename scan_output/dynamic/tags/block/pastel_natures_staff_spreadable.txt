@@ -1,0 +1,2 @@
+#pastel:colored_spore_blossoms
+minecraft:spore_blossom

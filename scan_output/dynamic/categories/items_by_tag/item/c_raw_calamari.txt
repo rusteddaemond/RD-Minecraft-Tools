@@ -1,0 +1,8 @@
+culturaldelights:glow_squid
+culturaldelights:raw_calamari
+culturaldelights:squid
+miners_delight:glow_squid
+miners_delight:squid
+miners_delight:tentacles
+rusticdelight:calamari
+rusticdelight:calamari_slice

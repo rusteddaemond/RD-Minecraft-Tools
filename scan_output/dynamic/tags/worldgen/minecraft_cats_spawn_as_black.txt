@@ -1,0 +1,3 @@
+#repurposed_structures:collections/witch_huts
+betterwitchhuts:witch_circle
+betterwitchhuts:witch_hut

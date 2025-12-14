@@ -1,0 +1,8 @@
+minecraft:arthropod
+minecraft:blaze
+minecraft:elder_guardian
+minecraft:evoker
+minecraft:guardian
+minecraft:piglin_brute
+minecraft:shulker
+minecraft:sniffer

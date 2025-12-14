@@ -1,0 +1,5 @@
+atmospheric:apostle_armor_trim_smithing_template
+atmospheric:druid_armor_trim_smithing_template
+atmospheric:petrified_armor_trim_smithing_template
+galosphere:faith_armor_trim_smithing_template
+neapolitan:primal_armor_trim_smithing_template

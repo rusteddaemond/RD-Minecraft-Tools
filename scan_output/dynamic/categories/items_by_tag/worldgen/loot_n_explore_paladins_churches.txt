@@ -1,0 +1,4 @@
+c:is_plains
+minecraft:meadow
+minecraft:plains
+minecraft:sunflower_plains

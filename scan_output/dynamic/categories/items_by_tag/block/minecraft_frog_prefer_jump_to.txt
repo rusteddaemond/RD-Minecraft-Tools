@@ -1,0 +1,8 @@
+amendments:water_lily_pad
+biomeswevegone:flowering_tiny_lily_pads
+biomeswevegone:tiny_lily_pads
+hexalia:lotus_flower
+regions_unexplored:flowering_lily_pad
+regions_unexplored:giant_lily_pad
+ribbits:giant_lilypad
+twilightforest:huge_lily_pad

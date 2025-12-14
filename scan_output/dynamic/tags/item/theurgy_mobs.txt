@@ -1,0 +1,4 @@
+#theurgy:alchemical_sulfurs/mobs/abundant
+#theurgy:alchemical_sulfurs/mobs/common
+#theurgy:alchemical_sulfurs/mobs/precious
+#theurgy:alchemical_sulfurs/mobs/rare

@@ -1,0 +1,4 @@
+minecraft:glow_ink_sac
+minecraft:nautilus_shell
+minecraft:prismarine_crystals
+minecraft:prismarine_shard

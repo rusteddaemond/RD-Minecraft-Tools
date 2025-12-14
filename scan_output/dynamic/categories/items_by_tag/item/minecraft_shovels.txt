@@ -1,0 +1,12 @@
+aether:gravitite_shovel
+aether:holystone_shovel
+aether:skyroot_shovel
+aether:valkyrie_shovel
+aether:zanite_shovel
+cataclysm:black_steel_shovel
+hybrid-aquatic:coral_shovel
+hybrid-aquatic:seashell_shovel
+oreganized:electrum_shovel
+pastel:shovels
+twilightforest:ironwood_shovel
+twilightforest:steeleaf_shovel

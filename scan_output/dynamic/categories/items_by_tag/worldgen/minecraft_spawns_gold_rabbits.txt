@@ -1,0 +1,6 @@
+atmospheric:is_dunes
+atmospheric:scrubland
+atmospheric:spiny_thicket
+regions_unexplored:joshua_desert
+regions_unexplored:outback
+regions_unexplored:saguaro_desert

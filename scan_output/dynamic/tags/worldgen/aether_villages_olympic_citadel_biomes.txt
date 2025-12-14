@@ -1,0 +1,5 @@
+#aether_villages:collections/aether_redux_biomes
+#aether_villages:collections/ancient_aether_biomes
+#aether_villages:collections/deep_aether_biomes
+aether:skyroot_forest
+aether:skyroot_meadow

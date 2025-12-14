@@ -1,0 +1,7 @@
+#c:red_sand
+#c:red_sandstone
+#c:sand
+#c:sand/red
+#c:sandstone
+#c:sandstone/red
+#minecraft:sand

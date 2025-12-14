@@ -1,0 +1,3 @@
+aether:enchanted_dart
+aether:golden_dart
+aether:poison_dart

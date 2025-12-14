@@ -1,0 +1,4 @@
+buzzier_bees:cupric_candle
+buzzier_bees:ender_candle
+buzzier_bees:soul_candle
+occultism:candles

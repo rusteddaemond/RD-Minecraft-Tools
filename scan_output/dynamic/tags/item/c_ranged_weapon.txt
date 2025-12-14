@@ -1,0 +1,9 @@
+#pastel:bidents
+#pastel:crossbows
+aether:enchanted_dart_shooter
+aether:golden_dart_shooter
+aether:hammer_of_kingbdogz
+aether:lightning_knife
+aether:phoenix_bow
+aether:poison_dart_shooter
+pastel:bedrock_bow

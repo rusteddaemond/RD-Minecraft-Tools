@@ -1,0 +1,3 @@
+#c:palm_planks
+beachparty:palm_floorboard
+beachparty:palm_planks

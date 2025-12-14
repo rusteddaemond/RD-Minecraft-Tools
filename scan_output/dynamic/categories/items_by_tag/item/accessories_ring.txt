@@ -1,0 +1,2 @@
+aether:accessories_rings
+jewelry:rings

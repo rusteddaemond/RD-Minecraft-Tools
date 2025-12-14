@@ -1,0 +1,5 @@
+archers_expansion:dual_shot
+archers_expansion:fan_of_fire
+archers_expansion:pin_down
+archers_expansion:point_blank_shot
+archers_expansion:smoldering_arrow

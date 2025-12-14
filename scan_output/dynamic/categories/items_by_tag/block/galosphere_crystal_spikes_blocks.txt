@@ -1,0 +1,2 @@
+galosphere:allurite_block
+galosphere:lumiere_block

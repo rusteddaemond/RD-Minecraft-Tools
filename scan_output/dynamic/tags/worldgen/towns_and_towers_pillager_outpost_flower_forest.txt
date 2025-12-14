@@ -1,0 +1,17 @@
+biomesoplenty:bamboo_grove
+biomesoplenty:cherry_blossom_grove
+biomeswevegone:cherry_blossom_forest
+blooming_biosphere:snowy_cherry_grove
+jermsy:flower_fields
+minecraft:bamboo_jungle
+minecraft:cherry_grove
+minecraft:flower_forest
+promenade:pink_cherry_oak_forest
+promenade:white_cherry_oak_forest
+regions_unexplored:cherry_hills
+terralith:cloud_forest
+terralith:sakura_grove
+terrestria:japanese_maple_forest
+terrestria:sakura_forest
+wythers:jade_highlands
+wythers:sakura_forest

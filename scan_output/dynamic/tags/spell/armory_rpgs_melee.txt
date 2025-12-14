@@ -1,0 +1,4 @@
+armory_rpgs:improved_charge
+armory_rpgs:improved_judgement
+armory_rpgs:improved_shadow_step
+armory_rpgs:improved_whirlwind

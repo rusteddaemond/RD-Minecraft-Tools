@@ -1,0 +1,3 @@
+atmospheric:arid_sandstone_slab
+atmospheric:cut_arid_sandstone_slab
+atmospheric:smooth_arid_sandstone_slab

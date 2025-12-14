@@ -1,0 +1,8 @@
+pastel:bedrock_sword
+pastel:draconic_twinsword
+pastel:dragon_talon
+pastel:dreamflayer
+pastel:greatswords
+pastel:light_greatswords
+pastel:nightfalls_blade
+pastel:razor_falchion

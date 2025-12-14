@@ -1,0 +1,6 @@
+c:dusts/redstone
+minecraft:coals
+theurgy:alchemical_sulfurs/other_minerals/abundant
+theurgy:alchemical_sulfurs/other_minerals/common
+theurgy:alchemical_sulfurs/other_minerals/precious
+theurgy:alchemical_sulfurs/other_minerals/rare

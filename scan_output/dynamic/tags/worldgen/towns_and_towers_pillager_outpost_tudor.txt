@@ -1,0 +1,8 @@
+biomesoplenty:highland
+biomesoplenty:highland_moor
+hybrid_beta:temperate_rainforest
+minecraft:forest
+tectonic:cold_plains
+terralith:highlands
+wythers:cold_plains
+wythers:temperate_island

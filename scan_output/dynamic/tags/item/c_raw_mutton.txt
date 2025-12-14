@@ -1,0 +1,3 @@
+farm_and_charm:lamb_ham
+farmersdelight:mutton_chops
+minecraft:mutton

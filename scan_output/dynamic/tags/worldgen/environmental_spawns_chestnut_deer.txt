@@ -1,0 +1,2 @@
+environmental:blossom_valleys
+environmental:blossom_woods

@@ -1,0 +1,3 @@
+#minecraft:has_structure/mineshaft
+pastel:pedestal_ruins_deepslate
+pastel:pedestal_ruins_stone

@@ -1,0 +1,3 @@
+supplementaries:rope
+supplementaries:rope_buntings
+supplementaries:rope_tomato

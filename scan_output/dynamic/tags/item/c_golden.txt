@@ -1,0 +1,2 @@
+atmospheric:golden_dragon_fruit
+atmospheric:shimmering_passion_fruit

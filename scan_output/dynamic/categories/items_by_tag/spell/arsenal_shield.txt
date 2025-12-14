@@ -1,0 +1,3 @@
+arsenal:guarding_shield
+arsenal:spiked_shield
+arsenal:unyielding_shield

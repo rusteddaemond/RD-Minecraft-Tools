@@ -1,0 +1,5 @@
+creategarnished:chocolate_truffle
+creategarnished:hazelnut
+creategarnished:pancakes
+creategarnished:praline
+creategarnished:syrup_covered_pancakes

@@ -1,0 +1,10 @@
+minecraft:base_stone_overworld
+minecraft:calcite
+minecraft:clay
+minecraft:dirt
+minecraft:dripstone_block
+minecraft:gravel
+minecraft:red_sandstone
+minecraft:sand
+minecraft:sandstone
+minecraft:smooth_basalt

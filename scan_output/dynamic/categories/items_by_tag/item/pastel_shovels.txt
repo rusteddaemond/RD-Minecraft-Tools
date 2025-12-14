@@ -1,0 +1,4 @@
+pastel:bedrock_shovel
+pastel:ferocious_glass_crest_bident
+pastel:fractal_glass_crest_bident
+pastel:multitool

@@ -1,0 +1,5 @@
+more_rpg_classes:stonebloom
+more_rpg_classes:typhoon
+spell_power:energize
+spell_power:soulfrost
+spell_power:sunfire

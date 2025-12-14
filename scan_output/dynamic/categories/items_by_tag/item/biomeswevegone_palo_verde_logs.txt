@@ -1,0 +1,4 @@
+biomeswevegone:palo_verde_log
+biomeswevegone:palo_verde_wood
+biomeswevegone:stripped_palo_verde_log
+biomeswevegone:stripped_palo_verde_wood

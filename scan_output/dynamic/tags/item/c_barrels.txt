@@ -1,0 +1,6 @@
+sophisticatedstorage:barrel
+sophisticatedstorage:copper_barrel
+sophisticatedstorage:diamond_barrel
+sophisticatedstorage:gold_barrel
+sophisticatedstorage:iron_barrel
+sophisticatedstorage:netherite_barrel

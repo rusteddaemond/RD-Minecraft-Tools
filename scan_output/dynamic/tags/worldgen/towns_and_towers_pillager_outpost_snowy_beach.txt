@@ -1,0 +1,3 @@
+biomeswevegone:glacial_chasm
+biomeswevegone:shattered_glacier
+minecraft:snowy_beach

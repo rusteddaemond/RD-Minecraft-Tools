@@ -1,0 +1,2 @@
+meadow:alpine_redstone_ore
+pastel:blackslag_redstone_ore

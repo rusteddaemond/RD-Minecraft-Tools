@@ -1,0 +1,11 @@
+#c:primary_wood_type/warped
+betternether:bone_reef
+betternether:nether_jungle
+betternether:old_warped_woods
+betternether:upside_down_forest
+betternether:upside_down_forest_cleared
+byg:glowstone_gardens
+byg:warped_desert
+cinderscapes:luminous_grove
+incendium:inverted_forest
+minecraft:warped_forest

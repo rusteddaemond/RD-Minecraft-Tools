@@ -1,0 +1,4 @@
+pastel:lizard_den/basal_marble
+pastel:lizard_den/blackslag
+pastel:lizard_den/dripstone
+pastel:lizard_den/shalerite

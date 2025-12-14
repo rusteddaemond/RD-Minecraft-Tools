@@ -1,0 +1,83 @@
+
+modLoader = "javafml"
+loaderVersion = "[4,)"
+
+license = "Supplementaries Team License v.1.1"
+issueTrackerURL = "https://github.com/MehVahdJukaar/WoodGood/issues"
+
+
+[[mixins]]
+config = "everycomp-common.mixins.json"
+
+[[mods]]
+modId = "everycomp"
+version = "1.21-2.11.20"
+displayName = "Every Compat"
+logoFile = "icon.png"
+authors = "MehVahdJukaar, Xel'Bayria, WenXin2"
+credits = "Plantkillable, Frogbirdd, Pau_1eal"
+description = '''Ultimate Wood Compat Mod'''
+modUrl = "https://www.curseforge.com/minecraft/mc-mods/every-compat"
+itemIcon = "everycomp:all_woods" #catalogue icon
+
+[[dependencies.everycomp]]
+modId = "neoforge"
+type = "required"
+versionRange = "[4,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.everycomp]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,1.21.2)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.everycomp]]
+modId = "moonlight"
+type = "required"
+referralUrl = "https://www.curseforge.com/minecraft/mc-mods/selene"
+versionRange = "[1.21-2.23.2,]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.everycomp]]
+modId = "create"
+type = "optional"
+referralUrl = "https://www.curseforge.com/minecraft/mc-mods/create"
+versionRange = "[1.21.1-6.0.2,]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.everycomp]]
+modId = "woodster"
+type = "optional"
+referralUrl = "https://www.curseforge.com/minecraft/mc-mods/woodster"
+versionRange = "[2.0.1,]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.everycomp]]
+modId = "mcwdoors"
+type = "optional"
+referralUrl = "https://www.curseforge.com/minecraft/mc-mods/macaws-doors"
+versionRange = "[1.1.2,]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.everycomp]]
+modId = "mcwtrpdoors"
+type = "optional"
+referralUrl = "https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors"
+versionRange = "[1.1.4,]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.everycomp]]
+modId = "blockus"
+type = "optional"
+referralUrl = "https://www.curseforge.com/minecraft/mc-mods/blockus"
+versionRange = "[2.9.11,]"
+ordering = "AFTER"
+side = "BOTH"

@@ -1,0 +1,5 @@
+evilcraft:dark_block
+evilcraft:dark_gem
+evilcraft:dark_gem_crushed
+evilcraft:dark_ores
+evilcraft:ores/dark_gem

@@ -1,0 +1,15 @@
+biomesoplenty:dune_beach
+biomeswevegone:rainbow_beach
+biomeswevegone:windswept_beach
+jermsy:gravelly_beach
+minecraft:beach
+regions_unexplored:grassy_beach
+regions_unexplored:gravel_beach
+tectonic:cold_beach
+tectonic:lukewarm_beach
+terralith:gravel_beach
+wythers:black_beach
+wythers:desert_beach
+wythers:gravelly_beach
+wythers:sand_dunes
+wythers:tropical_beach

@@ -1,0 +1,17 @@
+biomesoplenty:old_growth_woodland
+biomesoplenty:woodland
+biomeswevegone:ebony_woods
+biomeswevegone:red_oak_forest
+blooming_biosphere:autumnal_forest
+blooming_biosphere:oak_woodland
+hybrid_beta:seasonal_forest
+jermsy:sparse_forest
+minecraft:forest
+regions_unexplored:deciduous_forest
+regions_unexplored:willow_forest
+terrestria:dense_woodlands
+wythers:ancient_copper_beech_forest
+wythers:ancient_emerald_beech_forest
+wythers:ancient_golden_beech_forest
+wythers:ancient_moss_forest
+wythers:forest_edge

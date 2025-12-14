@@ -1,0 +1,4 @@
+minecraft:ink_sac
+minecraft:kelp
+minecraft:sea_pickle
+minecraft:seagrass

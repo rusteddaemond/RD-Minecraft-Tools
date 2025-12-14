@@ -1,0 +1,2 @@
+aether:golden_pendant
+aether:iron_pendant

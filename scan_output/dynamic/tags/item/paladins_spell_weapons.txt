@@ -1,0 +1,2 @@
+#paladins:staves
+#paladins:wands

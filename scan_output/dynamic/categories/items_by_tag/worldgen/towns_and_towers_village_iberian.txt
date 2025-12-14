@@ -1,0 +1,15 @@
+biomesoplenty:lush_savanna
+biomeswevegone:rose_fields
+jermsy:shrubland
+minecraft:sunflower_plains
+regions_unexplored:shrubland
+tectonic:grasslands
+traverse:grasslands
+wythers:flowering_pantanal
+wythers:humid_tropical_grassland
+wythers:jacaranda_savanna
+wythers:lapacho_plains
+wythers:subtropical_forest
+wythers:subtropical_forest_edge
+wythers:subtropical_grassland
+wythers:tropical_grassland

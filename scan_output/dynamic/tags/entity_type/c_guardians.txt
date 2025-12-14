@@ -1,0 +1,2 @@
+minecraft:elder_guardian
+minecraft:guardian

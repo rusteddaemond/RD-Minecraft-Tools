@@ -1,0 +1,2 @@
+pastel:knotted_sword
+pastel:nectar_lance

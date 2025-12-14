@@ -1,0 +1,9 @@
+aether:iron_bubble
+aether:life_shard
+aether:phoenix_boots
+aether:phoenix_chestplate
+aether:phoenix_gloves
+aether:phoenix_helmet
+aether:phoenix_leggings
+aether:pig_slayer
+aether:vampire_blade

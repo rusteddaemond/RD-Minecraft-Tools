@@ -1,0 +1,4 @@
+biomeswevegone:spirit_log
+biomeswevegone:spirit_wood
+biomeswevegone:stripped_spirit_log
+biomeswevegone:stripped_spirit_wood

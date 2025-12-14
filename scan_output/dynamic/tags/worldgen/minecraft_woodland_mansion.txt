@@ -1,0 +1,5 @@
+biomeswevegone:forgotten_forest
+biomeswevegone:weeping_witch_forest
+minecraft:pale_garden
+regions_unexplored:blackwood_taiga
+regions_unexplored:redwoods

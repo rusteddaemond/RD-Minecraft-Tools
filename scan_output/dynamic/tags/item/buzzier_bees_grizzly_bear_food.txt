@@ -1,0 +1,3 @@
+minecraft:cooked_salmon
+minecraft:salmon
+minecraft:salmon_bucket

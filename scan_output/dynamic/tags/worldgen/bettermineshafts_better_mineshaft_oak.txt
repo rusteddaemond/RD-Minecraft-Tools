@@ -1,0 +1,7 @@
+#c:plains
+minecraft:meadow
+minecraft:plains
+minecraft:sunflower_plains
+minecraft:swamp
+projectvibrantjourneys:prairie
+terralith:brushland

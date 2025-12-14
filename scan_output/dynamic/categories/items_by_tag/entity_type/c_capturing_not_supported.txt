@@ -1,0 +1,3 @@
+aether:slider
+aether:sun_spirit
+aether:valkyrie_queen

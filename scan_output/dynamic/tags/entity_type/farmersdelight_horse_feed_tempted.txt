@@ -1,0 +1,5 @@
+#environmental:zebroids
+environmental:zebra
+minecraft:donkey
+minecraft:horse
+minecraft:mule

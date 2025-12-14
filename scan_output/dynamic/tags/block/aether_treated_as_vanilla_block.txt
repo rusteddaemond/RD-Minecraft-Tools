@@ -1,0 +1,3 @@
+aether:chest_mimic
+aether:frosted_ice
+aether:unstable_obsidian

@@ -1,0 +1,5 @@
+pastel:first_strike
+pastel:improved_critical
+pastel:sniping
+pastel:steadfast
+pastel:tight_grip

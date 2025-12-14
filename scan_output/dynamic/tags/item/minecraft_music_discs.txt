@@ -1,0 +1,16 @@
+beachparty:music_disc_beachparty
+beachparty:music_disc_caribbean_beach
+beachparty:music_disc_pridelands
+beachparty:music_disc_vocalista
+beachparty:music_disc_wild_veins
+beachparty:overgrown_disc
+cataclysm:music_disc_ancient_remnant
+cataclysm:music_disc_ender_guardian
+cataclysm:music_disc_ignis
+cataclysm:music_disc_netherite_monstrosity
+cataclysm:music_disc_scylla
+cataclysm:music_disc_the_cataclysmfarer
+cataclysm:music_disc_the_harbinger
+cataclysm:music_disc_the_leviathan
+furniture:cphs_pride
+furniture:letsdo_theme

@@ -1,0 +1,6 @@
+#c:gems/carminite
+#c:gems/sal_ammoniac
+#regions_unexplored:prismarite_crystals
+aether:ambrosium_shard
+aether:zanite_gemstone
+occultism:spirit_attuned_gem

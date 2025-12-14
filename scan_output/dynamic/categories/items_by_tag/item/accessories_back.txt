@@ -1,0 +1,2 @@
+aether:accessories_shields
+minecraft:ender_chest

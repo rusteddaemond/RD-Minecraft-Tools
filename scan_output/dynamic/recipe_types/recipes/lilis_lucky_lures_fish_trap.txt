@@ -1,0 +1,16 @@
+Recipe Type: lilis_lucky_lures:fish_trap
+Total Recipes: 6
+============================================================
+
+lilis_lucky_lures:carp
+
+lilis_lucky_lures:lionfish
+
+lilis_lucky_lures:moray_eel
+
+lilis_lucky_lures:needlefish
+
+lilis_lucky_lures:parrotfish
+
+lilis_lucky_lures:triggerfish
+

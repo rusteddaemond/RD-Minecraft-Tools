@@ -1,0 +1,11 @@
+hybrid-aquatic:blue_spotted_stingray
+hybrid-aquatic:lionfish
+hybrid-aquatic:moray_eel
+hybrid-aquatic:needlefish
+hybrid-aquatic:parrotfish
+hybrid-aquatic:ratfish
+hybrid-aquatic:rockfish
+hybrid-aquatic:sea_bass
+hybrid-aquatic:sheepshead_wrasse
+hybrid-aquatic:spotted_eagle_ray
+hybrid-aquatic:triggerfish

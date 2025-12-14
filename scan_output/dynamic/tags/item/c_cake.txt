@@ -1,0 +1,6 @@
+neapolitan:adzuki_cake
+neapolitan:banana_cake
+neapolitan:chocolate_cake
+neapolitan:mint_cake
+neapolitan:strawberry_cake
+neapolitan:vanilla_cake

@@ -1,0 +1,7 @@
+minecraft:jagged_peaks
+minecraft:snowy_plains
+minecraft:snowy_slopes
+minecraft:snowy_taiga
+terralith:cold_shrubland
+terralith:rocky_shrubland
+terralith:wintry_forest

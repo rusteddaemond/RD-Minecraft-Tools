@@ -1,0 +1,4 @@
+#c:mushroom
+#forge:is_mushroom
+biomesoplenty:fungal_jungle
+minecraft:mushroom_fields

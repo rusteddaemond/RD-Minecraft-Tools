@@ -1,0 +1,2 @@
+minecraft:ochre_froglight
+minecraft:verdant_froglight

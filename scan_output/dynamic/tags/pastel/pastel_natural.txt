@@ -1,0 +1,9 @@
+pastel:fancy
+pastel:flexible
+pastel:horny
+pastel:none
+pastel:poly
+pastel:queer
+pastel:ruffled
+pastel:simple
+pastel:straight

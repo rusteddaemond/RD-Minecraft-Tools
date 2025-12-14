@@ -1,0 +1,6 @@
+#minecraft:bypasses_effects
+#minecraft:bypasses_invulnerability
+#minecraft:is_drowning
+#minecraft:no_impact
+minecraft:generic_kill
+minecraft:out_of_world

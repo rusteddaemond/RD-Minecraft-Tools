@@ -1,0 +1,3 @@
+pastel:spirit_sallow_heart
+pastel:spirit_sallow_log
+pastel:spirit_sallow_roots

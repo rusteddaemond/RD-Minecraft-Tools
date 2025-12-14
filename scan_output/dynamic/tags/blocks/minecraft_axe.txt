@@ -1,0 +1,6 @@
+sweety_garden:bloody_dogwood
+sweety_garden:pampas
+wildernature:bison_trophy
+wildernature:bounty_board
+wildernature:deer_trophy
+wildernature:red_wolf_trophy

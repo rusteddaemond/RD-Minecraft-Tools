@@ -1,0 +1,4 @@
+#c:dyes/yellow
+#c:yellow_dyes
+chalk:yellow_chalk
+minecraft:yellow_dye

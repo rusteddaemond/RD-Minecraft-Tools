@@ -1,0 +1,4 @@
+#minecraft:is_savanna
+minecraft:plains
+minecraft:river
+minecraft:sunflower_plains

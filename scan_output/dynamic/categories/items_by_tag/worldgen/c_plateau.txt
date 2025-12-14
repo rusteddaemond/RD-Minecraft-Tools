@@ -1,0 +1,4 @@
+regions_unexplored:highland_fields
+regions_unexplored:icy_heights
+regions_unexplored:magnolia_woodland
+regions_unexplored:steppe

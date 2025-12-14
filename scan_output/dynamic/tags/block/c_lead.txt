@@ -1,0 +1,3 @@
+oreganized:deepslate_lead_ore
+oreganized:lead_block
+oreganized:lead_ore

@@ -1,0 +1,3 @@
+hybrid-aquatic:anemone
+hybrid-aquatic:giant_green_anemone
+hybrid-aquatic:strawberry_anemone

@@ -1,0 +1,9 @@
+minecraft:azalea
+minecraft:big_dripleaf
+minecraft:clay
+minecraft:flowering_azalea
+minecraft:moss_block
+minecraft:moss_carpet
+minecraft:short_grass
+minecraft:small_dripleaf
+minecraft:tall_grass

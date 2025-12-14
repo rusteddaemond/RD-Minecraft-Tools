@@ -1,0 +1,17 @@
+c:is_badlands
+c:is_beach
+c:is_birch_forest
+c:is_dark_forest
+c:is_desert
+c:is_hill
+c:is_jungle
+c:is_mountain
+c:is_mushroom
+c:is_savanna
+c:is_snowy
+c:is_swamp
+c:is_taiga
+creeperoverhaul:is_cave
+minecraft:deep_lukewarm_ocean
+minecraft:lukewarm_ocean
+minecraft:warm_ocean

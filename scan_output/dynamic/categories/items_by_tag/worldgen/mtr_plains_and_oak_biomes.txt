@@ -1,0 +1,8 @@
+biomesoplenty:bamboo_grove
+biomesoplenty:boreal_forest
+biomesoplenty:cherry_blossom_grove
+biomesoplenty:lavender_forest
+biomesoplenty:maple_woods
+biomesoplenty:orchard
+biomesoplenty:seasonal_forest
+minecraft:forest

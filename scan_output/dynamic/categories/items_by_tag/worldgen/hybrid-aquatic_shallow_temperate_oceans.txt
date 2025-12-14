@@ -1,0 +1,2 @@
+minecraft:ocean
+still_life:temperate_shallow_ocean

@@ -1,0 +1,2 @@
+minecraft:exclusive_set/mining
+pastel:pest_control

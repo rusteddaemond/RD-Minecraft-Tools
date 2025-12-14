@@ -1,0 +1,8 @@
+c:tools/hatchets
+cataclysm:black_steel_axe
+cataclysm:meat_shredder
+cataclysm:soul_render
+minecraft:diamond_axe
+minecraft:golden_axe
+minecraft:iron_axe
+minecraft:netherite_axe

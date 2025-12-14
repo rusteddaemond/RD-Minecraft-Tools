@@ -1,0 +1,6 @@
+aether:angelic_stone
+aether:carved_stone
+aether:hellfire_stone
+aether:light_angelic_stone
+aether:light_hellfire_stone
+aether:sentry_stone

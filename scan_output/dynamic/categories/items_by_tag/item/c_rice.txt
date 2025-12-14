@@ -1,0 +1,2 @@
+farmersdelight:rice
+farmersdelight:rice_bag

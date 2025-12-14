@@ -1,0 +1,3 @@
+pastel:fresh_chocolate
+pastel:hot_chocolate
+pastel:le_fishe_au_chocolat

@@ -1,0 +1,14 @@
+arsenal:unique_glaive_1
+arsenal:unique_glaive_2
+arsenal:unique_glaive_sw
+lne_rogues:elder_guardian_glaive
+lne_rogues:ender_dragon_glaive
+lne_rogues:glacial_glaive
+lne_rogues:wither_glaive
+rogues:aeternium_glaive
+rogues:aether_glaive
+rogues:diamond_glaive
+rogues:golden_glaive
+rogues:iron_glaive
+rogues:netherite_glaive
+rogues:ruby_glaive

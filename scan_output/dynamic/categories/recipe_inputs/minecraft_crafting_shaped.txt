@@ -1,0 +1,4 @@
+#minecraft:planks
+minecraft:stick
+netherdepthsupgrade:crimson_kelp
+netherdepthsupgrade:warped_kelp

@@ -1,0 +1,2 @@
+#c:salt
+hexalia:hex_focus

@@ -1,0 +1,6 @@
+arsenal:chain_reaction_spell
+arsenal:cooldown_heal
+arsenal:cooldown_shot_spell
+arsenal:guardian_heal
+arsenal:radiance_spell
+arsenal:shockwave_area_spell

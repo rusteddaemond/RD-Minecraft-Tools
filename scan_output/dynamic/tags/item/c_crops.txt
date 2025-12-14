@@ -1,0 +1,16 @@
+#c:crops/bell_pepper
+#c:crops/cabbage
+#c:crops/coffee
+#c:crops/coffee_beans
+#c:crops/corn
+#c:crops/cotton
+#c:crops/datura
+#c:crops/grain
+#c:crops/onion
+#c:crops/rice
+#c:crops/tomato
+biomeswevegone:oddion_bulb
+hexalia:saltsprout
+supplementaries:flax
+yeastnfeast:garlic
+yeastnfeast:ginger

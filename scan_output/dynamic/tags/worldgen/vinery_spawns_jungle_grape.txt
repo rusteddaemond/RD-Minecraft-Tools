@@ -1,0 +1,2 @@
+#minecraft:is_jungle
+minecraft:wooded_badlands

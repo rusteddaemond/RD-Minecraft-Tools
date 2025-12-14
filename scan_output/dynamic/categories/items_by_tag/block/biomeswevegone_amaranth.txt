@@ -1,0 +1,5 @@
+biomeswevegone:amaranth
+biomeswevegone:cyan_amaranth
+biomeswevegone:magenta_amaranth
+biomeswevegone:orange_amaranth
+biomeswevegone:purple_amaranth

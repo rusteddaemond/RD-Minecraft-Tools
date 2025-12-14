@@ -1,0 +1,5 @@
+byg:glowstone_gardens
+infernalexp:glowstone_canyon
+minecraft:basalt_deltas
+minecraft:nether_wastes
+minecraft:soul_sand_valley

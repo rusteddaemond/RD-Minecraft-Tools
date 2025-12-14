@@ -1,0 +1,15 @@
+biomeswevegone:allium_oddion_soup
+biomeswevegone:white_puffball_stew
+farmersdelight:baked_cod_stew
+farmersdelight:beef_stew
+farmersdelight:bone_broth
+farmersdelight:chicken_soup
+farmersdelight:fish_stew
+farmersdelight:noodle_soup
+farmersdelight:pumpkin_soup
+farmersdelight:vegetable_soup
+hexalia:mandrake_stew
+neapolitan:adzuki_stew
+twilightforest:meef_stroganoff
+yeastnfeast:barley_and_beef_stew
+yeastnfeast:salmon_chowder

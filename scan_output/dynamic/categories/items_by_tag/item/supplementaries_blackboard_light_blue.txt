@@ -1,0 +1,4 @@
+c:dyes/light_blue
+c:light_blue_dyes
+chalk:light_blue_chalk
+minecraft:light_blue_dye

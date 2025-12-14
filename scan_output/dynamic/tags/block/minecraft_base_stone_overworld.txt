@@ -1,0 +1,2 @@
+pastel:blackslag
+regions_unexplored:chalk

@@ -1,0 +1,6 @@
+minecraft:potion
+neapolitan:banana
+neapolitan:banana_bread
+neapolitan:banana_bunch
+neapolitan:bananarrow
+neapolitan:dried_banana

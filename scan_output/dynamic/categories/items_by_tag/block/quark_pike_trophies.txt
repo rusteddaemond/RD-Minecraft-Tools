@@ -1,0 +1,4 @@
+amendments:skull_candle
+amendments:skull_candle_soul
+amendments:skull_pile
+supplementaries:enderman_head

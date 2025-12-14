@@ -1,0 +1,13 @@
+supplementaries:sconce
+supplementaries:sconce_ender
+supplementaries:sconce_glow
+supplementaries:sconce_green
+supplementaries:sconce_lever
+supplementaries:sconce_nether_brass
+supplementaries:sconce_soul
+supplementaries:sconce_wall
+supplementaries:sconce_wall_ender
+supplementaries:sconce_wall_glow
+supplementaries:sconce_wall_green
+supplementaries:sconce_wall_nether_brass
+supplementaries:sconce_wall_soul

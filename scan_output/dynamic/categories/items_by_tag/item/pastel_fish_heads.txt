@@ -1,0 +1,3 @@
+pastel:pufferfish_head
+pastel:salmon_head
+pastel:tropical_fish_head

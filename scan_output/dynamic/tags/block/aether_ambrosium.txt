@@ -1,0 +1,2 @@
+aether:ambrosium_block
+aether:ambrosium_ore

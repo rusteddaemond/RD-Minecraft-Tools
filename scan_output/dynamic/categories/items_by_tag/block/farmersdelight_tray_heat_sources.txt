@@ -1,0 +1,7 @@
+caverns_and_chasms:braziers
+caverns_and_chasms:lava_lamp
+minecraft:campfires
+minecraft:fire
+minecraft:lava
+supplementaries:blaze_rod_block
+supplementaries:fire_pit

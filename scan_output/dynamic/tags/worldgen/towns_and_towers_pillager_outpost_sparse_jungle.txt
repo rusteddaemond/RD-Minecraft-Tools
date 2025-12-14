@@ -1,0 +1,15 @@
+biomesoplenty:floodplain
+biomesoplenty:tropics
+biomeswevegone:jacaranda_forest
+hybrid_beta:rainforest
+minecraft:sparse_jungle
+regions_unexplored:eucalyptus_forest
+regions_unexplored:tropics
+terralith:tropical_jungle
+terrestria:volcanic_island
+traverse:flatlands
+wythers:sandy_jungle
+wythers:sparse_bamboo_jungle
+wythers:sparse_eucalyptus_jungle
+wythers:tropical_forest
+wythers:tropical_island

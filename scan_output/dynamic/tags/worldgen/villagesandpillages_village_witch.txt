@@ -1,0 +1,5 @@
+#c:swamp
+#forge:is_swamp
+minecraft:mangrove_swamp
+minecraft:swamp
+villagesandpillages:village_witch

@@ -1,0 +1,4 @@
+atmospheric:crustose
+atmospheric:crustose_log
+atmospheric:crustose_wood
+minecraft:dirt

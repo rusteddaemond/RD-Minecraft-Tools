@@ -1,0 +1,5 @@
+#c:ores
+#galosphere:pink_salt_blocks
+#minecraft:base_stone_overworld
+#minecraft:dirt
+#minecraft:flowers

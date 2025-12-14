@@ -1,0 +1,4 @@
+repurposed_structures:monument_desert
+repurposed_structures:monument_icy
+repurposed_structures:monument_jungle
+repurposed_structures:monument_nether

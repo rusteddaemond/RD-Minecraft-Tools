@@ -1,0 +1,2 @@
+minecraft:cyan_bundle
+minecraft:cyan_harness

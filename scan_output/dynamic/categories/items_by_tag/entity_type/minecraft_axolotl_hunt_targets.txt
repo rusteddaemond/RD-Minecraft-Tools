@@ -1,0 +1,13 @@
+atmospheric:tetra
+crittersandcompanions:dumbo_octopus
+crittersandcompanions:koi_fish
+crittersandcompanions:sea_bunny
+hybrid-aquatic:betta
+hybrid-aquatic:danio
+hybrid-aquatic:discus
+hybrid-aquatic:oscar
+hybrid-aquatic:tetra
+hybrid-aquatic:tiger_barb
+upgrade_aquatic:lionfish
+upgrade_aquatic:perch
+upgrade_aquatic:pike

@@ -1,0 +1,2 @@
+meadow:alpine_iron_ore
+pastel:blackslag_iron_ore

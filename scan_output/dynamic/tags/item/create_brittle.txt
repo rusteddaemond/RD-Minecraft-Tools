@@ -1,0 +1,3 @@
+#supplementaries:candle_holders
+#supplementaries:sconces
+supplementaries:sconce_lever

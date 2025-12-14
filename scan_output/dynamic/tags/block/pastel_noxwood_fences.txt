@@ -1,0 +1,4 @@
+pastel:chestnut_noxwood_fence
+pastel:ebony_noxwood_fence
+pastel:ivory_noxwood_fence
+pastel:slate_noxwood_fence

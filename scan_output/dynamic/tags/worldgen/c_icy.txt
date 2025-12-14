@@ -1,0 +1,4 @@
+regions_unexplored:frozen_pine_taiga
+regions_unexplored:frozen_tundra
+regions_unexplored:icy_heights
+regions_unexplored:spires

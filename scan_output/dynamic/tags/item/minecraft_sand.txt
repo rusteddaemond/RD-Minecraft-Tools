@@ -1,0 +1,15 @@
+atmospheric:arid_sand
+atmospheric:red_arid_sand
+atmospheric:suspicious_arid_sand
+atmospheric:suspicious_red_arid_sand
+biomeswevegone:black_sand
+biomeswevegone:blue_sand
+biomeswevegone:cracked_red_sand
+biomeswevegone:cracked_sand
+biomeswevegone:pink_sand
+biomeswevegone:purple_sand
+biomeswevegone:quicksand
+biomeswevegone:red_quicksand
+biomeswevegone:sandy_dirt
+biomeswevegone:white_sand
+biomeswevegone:windswept_sand

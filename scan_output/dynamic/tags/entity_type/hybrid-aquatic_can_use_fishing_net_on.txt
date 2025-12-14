@@ -1,0 +1,6 @@
+#hybrid-aquatic:cephalopod
+#hybrid-aquatic:critter
+#hybrid-aquatic:crustacean
+#hybrid-aquatic:fish
+#hybrid-aquatic:jellyfish
+#hybrid-aquatic:sharks

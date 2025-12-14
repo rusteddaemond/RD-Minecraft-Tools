@@ -1,0 +1,3 @@
+minecraft:clay
+minecraft:dirt
+minecraft:farmland

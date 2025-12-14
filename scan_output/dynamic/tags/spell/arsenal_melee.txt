@@ -1,0 +1,13 @@
+arsenal:exploding_melee
+arsenal:flame_cloud_melee
+arsenal:guarding_strike_melee
+arsenal:leeching_melee
+arsenal:poison_cloud_melee
+arsenal:radiance_melee
+arsenal:rampaging_melee
+arsenal:shockwave_melee
+arsenal:slowing_melee
+arsenal:stunning_melee
+arsenal:sundering_melee
+arsenal:swirling_melee
+arsenal:wither_melee

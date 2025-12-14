@@ -1,0 +1,3 @@
+attributeslib:fire
+attributeslib:fire_damage
+minecraft:is_fire

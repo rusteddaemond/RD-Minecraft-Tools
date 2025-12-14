@@ -1,0 +1,4 @@
+aether:aerogel
+aether:aerogel_slab
+aether:aerogel_stairs
+aether:aerogel_wall

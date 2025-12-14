@@ -1,0 +1,5 @@
+immersive_weathering:icicle
+minecraft:tnt
+oreganized:shrapnel_bomb
+supplementaries:gravel_bricks
+supplementaries:urn

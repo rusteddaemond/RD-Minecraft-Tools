@@ -1,0 +1,2 @@
+farmersdelight:cooked_cod_slice
+minecraft:cooked_cod

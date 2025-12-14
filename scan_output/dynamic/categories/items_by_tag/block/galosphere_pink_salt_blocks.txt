@@ -1,0 +1,3 @@
+galosphere:pastel_pink_salt
+galosphere:pink_salt
+galosphere:rose_pink_salt

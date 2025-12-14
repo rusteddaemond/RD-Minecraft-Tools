@@ -1,0 +1,2 @@
+meadow:alpine_copper_ore
+pastel:blackslag_copper_ore

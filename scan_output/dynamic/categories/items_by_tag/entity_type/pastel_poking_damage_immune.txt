@@ -1,0 +1,10 @@
+ants:ant
+minecraft:bee
+minecraft:cat
+minecraft:fox
+minecraft:ocelot
+minecraft:skeleton
+minecraft:stray
+minecraft:wolf
+pastel:eraser
+pastel:lizard

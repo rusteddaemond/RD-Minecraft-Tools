@@ -1,0 +1,6 @@
+occultism:iesnium_block
+occultism:iesnium_dust
+occultism:iesnium_ingot
+occultism:iesnium_nugget
+occultism:iesnium_ore
+occultism:raw_iesnium

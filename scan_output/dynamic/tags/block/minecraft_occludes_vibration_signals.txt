@@ -1,0 +1,3 @@
+environmental:yak_hair_block
+supplementaries:feather_block
+twilightforest:arctic_fur_block

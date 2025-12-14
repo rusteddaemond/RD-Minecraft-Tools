@@ -1,0 +1,2 @@
+rusticdelight:calamari
+rusticdelight:calamari_slice

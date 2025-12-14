@@ -1,0 +1,4 @@
+theurgy:alchemical_sulfurs/metals/abundant
+theurgy:alchemical_sulfurs/metals/common
+theurgy:alchemical_sulfurs/metals/precious
+theurgy:alchemical_sulfurs/metals/rare

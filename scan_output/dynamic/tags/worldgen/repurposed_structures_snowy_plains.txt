@@ -1,0 +1,11 @@
+#c:is_snowy_plains
+biomesoplenty:snowy_fir_clearing
+minecraft:snowy_plains
+regions_unexplored:frozen_tundra
+terralith:alpine_grove
+terralith:cold_shrubland
+terralith:snowy_badlands
+terralith:snowy_shield
+wythers:ice_cap
+wythers:snowy_bog
+wythers:snowy_tundra

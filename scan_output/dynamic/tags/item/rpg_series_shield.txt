@@ -1,0 +1,10 @@
+arsenal:unique_shield_1
+arsenal:unique_shield_2
+arsenal:unique_shield_sw
+paladins:aeternium_kite_shield
+paladins:aether_kite_shield
+paladins:diamond_kite_shield
+paladins:golden_kite_shield
+paladins:iron_kite_shield
+paladins:netherite_kite_shield
+paladins:ruby_kite_shield

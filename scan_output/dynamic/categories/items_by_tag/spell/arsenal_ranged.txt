@@ -1,0 +1,6 @@
+arsenal:bonus_shot_ranged
+arsenal:flame_cloud_ranged
+arsenal:poison_cloud_ranged
+arsenal:radiance_ranged
+arsenal:rampaging_ranged
+arsenal:wither_ranged

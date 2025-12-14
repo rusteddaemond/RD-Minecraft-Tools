@@ -1,0 +1,12 @@
+environmental:beach
+environmental:cave
+environmental:desert
+environmental:forest
+environmental:hill
+environmental:ocean
+environmental:plains
+environmental:river
+environmental:savanna
+environmental:snake_block
+environmental:snowy
+environmental:taiga

@@ -1,0 +1,5 @@
+pastel:amethyst_pylon
+pastel:citrine_pylon
+pastel:moonstone_pylon
+pastel:onyx_pylon
+pastel:topaz_pylon

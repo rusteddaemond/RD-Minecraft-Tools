@@ -1,0 +1,17 @@
+amendments:hanging_flower_pot
+c:lanterns
+druidcraft:rope
+farmersdelight:rope
+farmersdelight:tomatoes
+inspirations:rope
+inspirations:vine
+minecraft:ceiling_hanging_signs
+minecraft:lantern
+minecraft:lanterns
+minecraft:leaves
+minecraft:soul_lantern
+supplementaries:rope
+supplementaries:rope_chandelier
+supplementaries:rope_soul_chandelier
+supplementaries:sack
+xercamod:rope

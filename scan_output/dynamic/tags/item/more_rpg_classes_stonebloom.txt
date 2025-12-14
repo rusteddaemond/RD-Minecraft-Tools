@@ -1,0 +1,1 @@
+#spell_power:enchantable/spell_power_specialized

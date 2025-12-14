@@ -1,0 +1,2 @@
+byg:crimson_gardens
+minecraft:crimson_forest

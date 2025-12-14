@@ -1,0 +1,10 @@
+biomesoplenty:pasture
+biomesoplenty:pumpkin_patch
+biomeswevegone:autumnal_valley
+biomeswevegone:prairie
+minecraft:birch_forest
+minecraft:sunflower_plains
+regions_unexplored:barley_fields
+regions_unexplored:flower_field
+regions_unexplored:pumpkin_fields
+terralith:steppe

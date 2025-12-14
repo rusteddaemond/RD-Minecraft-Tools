@@ -1,0 +1,6 @@
+galosphere:allurite_block
+galosphere:allurite_bricks
+galosphere:allurite_cluster
+galosphere:allurite_lamp
+galosphere:glinted_allurite_cluster
+galosphere:smooth_allurite

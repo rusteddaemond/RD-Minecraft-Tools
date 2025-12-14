@@ -1,0 +1,11 @@
+climaterivers:lukewarm_river
+climaterivers:warm_river
+regions_unexplored:tropical_river
+riverredux:tropical_river
+still_life:desert_river
+still_life:savanna_river
+still_life:tropical_rainforest_river
+still_life:warm_temperate_river
+terralith:warm_river
+wythers:jungle_river
+wythers:tropical_forest_river

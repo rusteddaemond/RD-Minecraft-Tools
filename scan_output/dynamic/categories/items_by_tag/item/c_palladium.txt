@@ -1,0 +1,6 @@
+galosphere:deepslate_palladium_ore
+galosphere:palladium_block
+galosphere:palladium_ingot
+galosphere:palladium_nugget
+galosphere:palladium_ore
+galosphere:raw_palladium

@@ -1,0 +1,11 @@
+aether:incineration
+amendments:boiling
+create:fan_fire
+create:fan_lava
+farmersdelight:stove_burn
+pastel:kindling_cough
+twilightforest:fiery
+twilightforest:fire_jet
+twilightforest:hydra_fire
+twilightforest:hydra_mortar
+twilightforest:scorched

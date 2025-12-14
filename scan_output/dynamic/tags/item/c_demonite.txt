@@ -1,0 +1,2 @@
+bloodmagic:ingot_hellforged
+bloodmagic:rawdemonite

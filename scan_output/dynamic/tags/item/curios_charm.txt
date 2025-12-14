@@ -1,0 +1,13 @@
+#friendsandfoes:totems
+#voidtotem:additional_totems
+biomemakeover:enchanted_totem
+fwaystones:void_totem
+minecraft:totem_of_undying
+netheriteextras:totem_of_neverdying
+toxony:tox_gauge
+twilightforest:charm_of_keeping_1
+twilightforest:charm_of_keeping_2
+twilightforest:charm_of_keeping_3
+twilightforest:charm_of_life_1
+twilightforest:charm_of_life_2
+voidtotem:totem_of_void_undying

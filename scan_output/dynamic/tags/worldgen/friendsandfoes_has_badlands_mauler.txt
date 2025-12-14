@@ -1,0 +1,2 @@
+#c:badlands
+#minecraft:is_badlands

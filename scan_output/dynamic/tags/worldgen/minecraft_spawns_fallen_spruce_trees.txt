@@ -1,0 +1,7 @@
+#minecraft:is_taiga
+biomesoplenty:seasonal_forest
+terralith:cloud_forest
+terralith:siberian_grove
+terralith:siberian_taiga
+terralith:windswept_spires
+terralith:wintry_forest

@@ -1,0 +1,5 @@
+minecraft:budding_amethyst
+pastel:budding_citrine
+pastel:budding_moonstone
+pastel:budding_onyx
+pastel:budding_topaz

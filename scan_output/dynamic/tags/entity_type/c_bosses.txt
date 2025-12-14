@@ -1,0 +1,12 @@
+#twilightforest:bosses
+aether:slider
+aether:sun_spirit
+aether:valkyrie_queen
+cataclysm:ancient_remnant
+cataclysm:ender_guardian
+cataclysm:ignis
+cataclysm:maledictus
+cataclysm:netherite_monstrosity
+cataclysm:scylla
+cataclysm:the_harbinger
+cataclysm:the_leviathan

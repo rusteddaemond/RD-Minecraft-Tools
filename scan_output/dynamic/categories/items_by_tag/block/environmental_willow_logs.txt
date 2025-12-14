@@ -1,0 +1,4 @@
+environmental:stripped_willow_log
+environmental:stripped_willow_wood
+environmental:willow_log
+environmental:willow_wood

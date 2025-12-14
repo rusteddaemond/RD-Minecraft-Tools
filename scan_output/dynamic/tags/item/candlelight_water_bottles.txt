@@ -1,0 +1,2 @@
+#c:water_bottles
+minecraft:water_bucket

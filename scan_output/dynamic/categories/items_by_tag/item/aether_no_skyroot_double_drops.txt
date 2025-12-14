@@ -1,0 +1,14 @@
+aether:dungeon_keys
+aether:golden_amber
+aether:holystone_pickaxe
+aether:iron_ring
+aether:skyroot_pickaxe
+aether:victory_medal
+aether:zanite_gemstone
+minecraft:creeper_head
+minecraft:dragon_head
+minecraft:nether_star
+minecraft:player_head
+minecraft:skeleton_skull
+minecraft:wither_skeleton_skull
+minecraft:zombie_head

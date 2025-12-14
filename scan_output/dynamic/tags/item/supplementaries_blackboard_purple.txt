@@ -1,0 +1,4 @@
+#c:dyes/purple
+#c:purple_dyes
+chalk:purple_chalk
+minecraft:purple_dye

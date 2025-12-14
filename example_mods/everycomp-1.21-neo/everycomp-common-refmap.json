@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "net/mehvahdjukaar/every_compat/mixins/LootTablesHackMixin": {
+      "Lnet/minecraft/world/level/storage/loot/LootTable;getRandomItems(Lnet/minecraft/world/level/storage/loot/LootParams;)Lit/unimi/dsi/fastutil/objects/ObjectArrayList;": "Lnet/minecraft/class_52;method_51878(Lnet/minecraft/class_8567;)Lit/unimi/dsi/fastutil/objects/ObjectArrayList;",
+      "getDrops": "Lnet/minecraft/class_4970;method_9560(Lnet/minecraft/class_2680;Lnet/minecraft/class_8567$class_8568;)Ljava/util/List;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/mehvahdjukaar/every_compat/mixins/LootTablesHackMixin": {
+        "Lnet/minecraft/world/level/storage/loot/LootTable;getRandomItems(Lnet/minecraft/world/level/storage/loot/LootParams;)Lit/unimi/dsi/fastutil/objects/ObjectArrayList;": "Lnet/minecraft/class_52;method_51878(Lnet/minecraft/class_8567;)Lit/unimi/dsi/fastutil/objects/ObjectArrayList;",
+        "getDrops": "Lnet/minecraft/class_4970;method_9560(Lnet/minecraft/class_2680;Lnet/minecraft/class_8567$class_8568;)Ljava/util/List;"
+      }
+    }
+  }
+}

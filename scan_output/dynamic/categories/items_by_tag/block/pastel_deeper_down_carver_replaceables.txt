@@ -1,0 +1,6 @@
+minecraft:coal_block
+minecraft:lapis_block
+minecraft:overworld_carver_replaceables
+minecraft:raw_gold_block
+minecraft:redstone_block
+pastel:blackslag_ores

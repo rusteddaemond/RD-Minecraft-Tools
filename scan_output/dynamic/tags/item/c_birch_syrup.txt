@@ -1,0 +1,2 @@
+creategarnished:birch_syrup_bottle
+creategarnished:birch_syrup_bucket

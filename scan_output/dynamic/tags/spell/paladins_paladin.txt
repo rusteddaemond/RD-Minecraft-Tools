@@ -1,0 +1,5 @@
+lne_paladins:holy_weapon
+paladins:battle_banner
+paladins:divine_protection
+paladins:flash_heal
+paladins:judgement

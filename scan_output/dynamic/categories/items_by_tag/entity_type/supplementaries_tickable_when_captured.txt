@@ -1,0 +1,9 @@
+alexsmobs:mimicube
+druidcraft:dreadfish
+druidcraft:lunar_moth
+feywild:autumn_pixie
+feywild:spring_pixie
+feywild:summer_pixie
+feywild:winter_pixie
+iceandfire:pixie
+minecraft:endermite

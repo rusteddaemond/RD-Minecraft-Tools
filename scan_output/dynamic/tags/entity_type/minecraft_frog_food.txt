@@ -1,0 +1,6 @@
+aether:blue_swet
+aether:golden_swet
+aether:sentry
+galosphere:specterpillar
+occultism:wild_slime
+twilightforest:maze_slime

@@ -1,0 +1,4 @@
+atmospheric:dunes
+atmospheric:flourishing_dunes
+atmospheric:petrified_dunes
+atmospheric:rocky_dunes

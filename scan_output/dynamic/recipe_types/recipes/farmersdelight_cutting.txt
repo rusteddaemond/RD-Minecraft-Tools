@@ -1,0 +1,10 @@
+Recipe Type: farmersdelight:cutting
+Total Recipes: 2
+============================================================
+
+supplementaries:ash_bricks_fd
+  Inputs: supplementaries:ash_bricks
+
+supplementaries:lapis_bricks_fd
+  Inputs: supplementaries:lapis_bricks
+

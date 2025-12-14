@@ -1,0 +1,2 @@
+minecraft:brain_coral
+minecraft:brain_coral_fan

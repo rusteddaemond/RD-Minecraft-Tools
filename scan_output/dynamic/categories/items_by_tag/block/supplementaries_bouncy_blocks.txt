@@ -1,0 +1,2 @@
+minecraft:slime_block
+supplementaries:awnings

@@ -1,0 +1,13 @@
+occultism:raw_silver
+occultism:silver_block
+occultism:silver_dust
+occultism:silver_ingot
+occultism:silver_nugget
+occultism:silver_ore
+occultism:silver_ore_deepslate
+oreganized:deepslate_silver_ore
+oreganized:raw_silver
+oreganized:silver_block
+oreganized:silver_ingot
+oreganized:silver_nugget
+oreganized:silver_ore

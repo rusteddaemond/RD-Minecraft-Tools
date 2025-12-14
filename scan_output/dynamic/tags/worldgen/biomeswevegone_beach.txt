@@ -1,0 +1,3 @@
+biomeswevegone:basalt_barrera
+biomeswevegone:dacite_shore
+biomeswevegone:rainbow_beach

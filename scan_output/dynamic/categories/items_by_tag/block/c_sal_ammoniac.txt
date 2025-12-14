@@ -1,0 +1,2 @@
+theurgy:deepslate_sal_ammoniac_ore
+theurgy:sal_ammoniac_ore

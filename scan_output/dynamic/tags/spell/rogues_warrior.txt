@@ -1,0 +1,5 @@
+lne_rogues:second_wind
+rogues:charge
+rogues:shout
+rogues:throw
+rogues:whirlwind

@@ -1,0 +1,8 @@
+rogues:aeternium_double_axe
+rogues:aether_double_axe
+rogues:diamond_double_axe
+rogues:golden_double_axe
+rogues:iron_double_axe
+rogues:netherite_double_axe
+rogues:ruby_double_axe
+rogues:stone_double_axe

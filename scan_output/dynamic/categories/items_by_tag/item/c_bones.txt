@@ -1,0 +1,2 @@
+eternalnether:withered_bone
+minecraft:bone

@@ -1,0 +1,15 @@
+biomesoplenty:redwood_forest
+byg:redwood_thicket
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+projectvibrantjourneys:redwoods
+regions_unexplored:redwoods
+regions_unexplored:sparse_redwoods
+wythers:ancient_taiga
+wythers:flooded_temperate_rainforest
+wythers:old_growth_taiga_crags
+wythers:old_growth_taiga_swamp
+wythers:sparse_eucalyptus_jungle
+wythers:sparse_eucalyptus_woodland
+wythers:temperate_rainforest
+wythers:temperate_rainforest_crags

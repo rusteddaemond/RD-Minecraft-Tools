@@ -1,0 +1,14 @@
+arsenal:unique_sickle_1
+arsenal:unique_sickle_2
+arsenal:unique_sickle_sw
+lne_rogues:elder_guardian_sickle
+lne_rogues:ender_dragon_sickle
+lne_rogues:glacial_sickle
+lne_rogues:wither_sickle
+rogues:aeternium_sickle
+rogues:aether_sickle
+rogues:diamond_sickle
+rogues:golden_sickle
+rogues:iron_sickle
+rogues:netherite_sickle
+rogues:ruby_sickle

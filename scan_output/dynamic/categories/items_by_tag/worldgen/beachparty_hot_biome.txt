@@ -1,0 +1,6 @@
+minecraft:badlands
+minecraft:beach
+minecraft:desert
+minecraft:eroded_badlands
+minecraft:is_nether
+minecraft:is_savanna

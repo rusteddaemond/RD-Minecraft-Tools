@@ -1,0 +1,7 @@
+cataclysm:flame_strike
+cataclysm:maledictio_anima
+more_rpg_classes:bleeding
+pastel:dragonrot
+pastel:irradiance
+pastel:set_health
+twilightforest:falling_ice

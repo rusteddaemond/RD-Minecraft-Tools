@@ -1,0 +1,2 @@
+#minecraft:in_enchanting_table
+#minecraft:treasure

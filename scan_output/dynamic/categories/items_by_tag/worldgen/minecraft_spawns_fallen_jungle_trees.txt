@@ -1,0 +1,4 @@
+biomesoplenty:rainforest
+biomesoplenty:rocky_rainforest
+biomesoplenty:tropics
+minecraft:is_jungle

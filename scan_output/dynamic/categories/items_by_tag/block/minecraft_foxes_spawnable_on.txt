@@ -1,0 +1,12 @@
+biomeswevegone:lush_grass_block
+biomeswevegone:podzol_dacite
+biomeswevegone:white_podzol_dacite
+pastel:overgrown_blackslag
+regions_unexplored:peat_coarse_dirt
+regions_unexplored:peat_grass_block
+regions_unexplored:peat_mud
+regions_unexplored:peat_podzol
+regions_unexplored:silt_coarse_dirt
+regions_unexplored:silt_grass_block
+regions_unexplored:silt_mud
+regions_unexplored:silt_podzol

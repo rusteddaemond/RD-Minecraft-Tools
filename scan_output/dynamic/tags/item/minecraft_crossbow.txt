@@ -1,0 +1,5 @@
+#rpg_series:weapon_type/heavy_crossbow
+#rpg_series:weapon_type/rapid_crossbow
+pastel:bedrock_crossbow
+pastel:glass_crest_crossbow
+pastel:malachite_crossbow

@@ -1,0 +1,7 @@
+lotr:match
+minecraft:flint_and_steel
+realistictorches:matchbox
+simply_steel:flint_and_iron
+simply_steel:quartz_and_iron
+simply_steel:quartz_and_steel
+tconstruct:flint_and_bronze

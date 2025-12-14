@@ -1,0 +1,10 @@
+pastel:pyrite
+pastel:pyrite_chunk
+pastel:pyrite_paneling
+pastel:pyrite_pile
+pastel:pyrite_plating
+pastel:pyrite_relief
+pastel:pyrite_stack
+pastel:pyrite_tiles
+pastel:pyrite_tubing
+pastel:pyrite_vent

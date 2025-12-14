@@ -1,0 +1,4 @@
+regions_unexplored:blue_bioshroom_hyphae
+regions_unexplored:blue_bioshroom_stem
+regions_unexplored:stripped_blue_bioshroom_hyphae
+regions_unexplored:stripped_blue_bioshroom_stem

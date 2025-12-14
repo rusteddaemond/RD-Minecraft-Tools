@@ -1,0 +1,2 @@
+c:magenta_dye
+minecraft:magenta_dye

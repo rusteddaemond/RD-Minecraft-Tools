@@ -1,0 +1,3 @@
+c:pumpkin_slices
+minecraft:carved_pumpkin
+minecraft:pumpkin

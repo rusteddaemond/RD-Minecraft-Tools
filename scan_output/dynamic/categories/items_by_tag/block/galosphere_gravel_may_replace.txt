@@ -1,0 +1,3 @@
+minecraft:base_stone_overworld
+minecraft:clay
+minecraft:sand

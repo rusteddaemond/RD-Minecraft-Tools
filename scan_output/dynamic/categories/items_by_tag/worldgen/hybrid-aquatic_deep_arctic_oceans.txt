@@ -1,0 +1,2 @@
+minecraft:deep_frozen_ocean
+still_life:arctic_deep_ocean

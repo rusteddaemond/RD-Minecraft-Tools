@@ -1,0 +1,4 @@
+biomeswevegone:rainbow_eucalyptus_log
+biomeswevegone:rainbow_eucalyptus_wood
+biomeswevegone:stripped_rainbow_eucalyptus_log
+biomeswevegone:stripped_rainbow_eucalyptus_wood

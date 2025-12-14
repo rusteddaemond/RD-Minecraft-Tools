@@ -1,0 +1,4 @@
+cataclysm:ancient_remnant
+cataclysm:kobolediator
+cataclysm:koboleton
+cataclysm:wadjet

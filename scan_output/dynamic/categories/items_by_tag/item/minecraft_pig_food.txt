@@ -1,0 +1,4 @@
+c:crops/bell_pepper
+environmental:pig_truffle_items
+farmersdelight:cabbage
+farmersdelight:tomato

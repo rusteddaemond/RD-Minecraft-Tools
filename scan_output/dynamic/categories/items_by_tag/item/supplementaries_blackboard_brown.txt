@@ -1,0 +1,4 @@
+c:brown_dyes
+c:dyes/brown
+chalk:brown_chalk
+minecraft:brown_dye

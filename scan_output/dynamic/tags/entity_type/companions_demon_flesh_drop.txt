@@ -1,0 +1,3 @@
+companions:hostile_imp
+minecraft:ghast
+minecraft:piglin

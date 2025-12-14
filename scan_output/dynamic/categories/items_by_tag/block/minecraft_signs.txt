@@ -1,0 +1,11 @@
+aether:skyroot_sign
+aether:skyroot_wall_sign
+arts_and_crafts:cork_hanging_sign
+hexalia:cottonwood_sign
+hexalia:cottonwood_wall_sign
+hexalia:willow_sign
+hexalia:willow_wall_sign
+occultism:otherplanks_sign
+vinery:dark_cherry_sign
+yeastnfeast:maple_sign
+yeastnfeast:maple_wall_sign

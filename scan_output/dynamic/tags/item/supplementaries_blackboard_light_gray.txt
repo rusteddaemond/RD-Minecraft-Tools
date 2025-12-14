@@ -1,0 +1,4 @@
+#c:dyes/light_gray
+#c:light_gray_dyes
+chalk:light_gray_chalk
+minecraft:light_gray_dye

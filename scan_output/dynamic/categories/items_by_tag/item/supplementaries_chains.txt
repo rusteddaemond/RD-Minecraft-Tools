@@ -1,0 +1,14 @@
+buildersdelight:chain_1
+buildersdelight:chain_3
+buildersdelight:chain_4
+c:chains
+charm:gold_chain
+decorative_blocks:chain
+decorative_winter:festive_chain
+dustrial_decor:gold_chain
+dustrial_decor:large_chain
+dustrial_decor:large_gold_chain
+forbidden_arcanus:arcane_golden_chain
+forbidden_arcanus:iron_chain
+muchmoremodcompat:gold_chain
+muchmoremodcompat:ice_chain

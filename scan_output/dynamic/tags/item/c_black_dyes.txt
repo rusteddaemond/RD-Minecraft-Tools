@@ -1,0 +1,2 @@
+#c:black_dye
+minecraft:black_dye

@@ -1,0 +1,2 @@
+#c:is_stony_shores
+minecraft:stony_shore

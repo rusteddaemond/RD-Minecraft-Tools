@@ -1,0 +1,2 @@
+pastel:greater_potion_pendant
+pastel:lesser_potion_pendant

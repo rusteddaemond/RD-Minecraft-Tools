@@ -1,0 +1,2 @@
+c:is_plains
+oreganized:rich_in_lead_ore

@@ -1,0 +1,3 @@
+jewelry:copper_ring
+jewelry:gold_ring
+jewelry:iron_ring

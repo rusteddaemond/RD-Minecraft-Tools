@@ -1,0 +1,4 @@
+regions_unexplored:kapok_log
+regions_unexplored:kapok_wood
+regions_unexplored:stripped_kapok_log
+regions_unexplored:stripped_kapok_wood

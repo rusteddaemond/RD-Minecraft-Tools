@@ -1,0 +1,4 @@
+upgrade_aquatic:driftwood
+upgrade_aquatic:driftwood_log
+upgrade_aquatic:stripped_driftwood
+upgrade_aquatic:stripped_driftwood_log

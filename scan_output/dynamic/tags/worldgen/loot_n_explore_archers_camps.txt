@@ -1,0 +1,1 @@
+loot_n_explore:ranger_small_camp

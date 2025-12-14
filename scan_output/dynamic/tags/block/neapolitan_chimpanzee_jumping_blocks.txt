@@ -1,0 +1,2 @@
+#minecraft:beds
+minecraft:slime_block

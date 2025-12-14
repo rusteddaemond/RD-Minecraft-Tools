@@ -1,0 +1,12 @@
+minecraft:is_badlands
+minecraft:is_savanna
+minecraft:plains
+terralith:blooming_plateau
+terralith:blooming_valley
+terralith:cloud_forest
+terralith:forested_highlands
+terralith:highlands
+terralith:shield
+terralith:valley_clearing
+terralith:yosemite_cliffs
+terralith:yosemite_lowlands

@@ -1,0 +1,2 @@
+meadow:wooden_water_bucket
+minecraft:water_bucket

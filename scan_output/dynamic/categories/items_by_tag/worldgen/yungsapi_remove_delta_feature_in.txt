@@ -1,0 +1,2 @@
+betterdungeons:small_nether_dungeon
+betterfortresses:fortress

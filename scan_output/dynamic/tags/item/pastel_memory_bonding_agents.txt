@@ -1,0 +1,3 @@
+#pastel:memory_bonding_agents_concealable
+malum:mnemonic_fragment
+pastel:vegetal

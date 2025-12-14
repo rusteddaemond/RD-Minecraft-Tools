@@ -1,0 +1,9 @@
+bakery:bread_knife
+farmersdelight:tools/knives
+minecraft:diamond_sword
+minecraft:golden_sword
+minecraft:iron_sword
+minecraft:netherite_sword
+minecraft:shears
+minecraft:stone_sword
+minecraft:wooden_sword

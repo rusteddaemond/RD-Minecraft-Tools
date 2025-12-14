@@ -1,0 +1,2 @@
+abnormals_delight:cooked_duck_fillet
+environmental:cooked_duck

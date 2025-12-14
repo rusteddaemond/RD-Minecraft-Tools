@@ -1,0 +1,3 @@
+galosphere:berserker
+galosphere:preserved
+minecraft:armor_stand

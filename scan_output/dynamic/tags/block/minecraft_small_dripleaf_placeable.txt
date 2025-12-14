@@ -1,0 +1,4 @@
+regions_unexplored:ash
+regions_unexplored:volcanic_ash
+supplementaries:planter
+twilightforest:uberous_soil

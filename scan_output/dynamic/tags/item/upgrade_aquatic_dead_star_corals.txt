@@ -1,0 +1,2 @@
+upgrade_aquatic:dead_star_coral
+upgrade_aquatic:dead_star_coral_fan

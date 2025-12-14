@@ -1,0 +1,6 @@
+#minecraft:fishes
+minecraft:diamond
+minecraft:flint
+minecraft:gunpowder
+netherdepthsupgrade:crimson_kelp_block
+netherdepthsupgrade:warped_kelp_block

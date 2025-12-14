@@ -1,0 +1,7 @@
+#oreganized:crystal_glass
+#pastel:gemstone_glass
+#pastel:hummingstones
+#pastel:semi_permeable_glass
+pastel:radiant_glass
+regions_unexplored:prismaglass
+twilightforest:auroralized_glass

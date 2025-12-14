@@ -1,0 +1,9 @@
+biomeswevegone:mojave_desert
+minecraft:desert
+regions_unexplored:joshua_desert
+regions_unexplored:saguaro_desert
+tectonic:desert_dunes
+wythers:cactus_desert
+wythers:deep_desert
+wythers:temperate_rainforest
+wythers:wooded_desert

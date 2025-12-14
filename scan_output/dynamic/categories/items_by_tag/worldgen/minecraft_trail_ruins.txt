@@ -1,0 +1,8 @@
+atmospheric:aspen_parkland
+atmospheric:kousa_jungle
+atmospheric:rainforest
+biomeswevegone:araucaria_savanna
+environmental:old_growth_pine_barrens
+environmental:pine_barrens
+environmental:snowy_old_growth_pine_barrens
+environmental:snowy_pine_barrens

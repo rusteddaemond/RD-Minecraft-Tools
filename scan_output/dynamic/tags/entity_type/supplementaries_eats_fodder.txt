@@ -1,0 +1,16 @@
+alexsmobs:elephant
+alexsmobs:raccoon
+autumnity:snail
+buzzier_bees:moobloom
+creatures_from_the_snow:giraffe
+creatures_from_the_snow:reindeer
+friendsandfoes:moobloom
+goated:geep
+lovely_snails:snail
+minecraft:chicken
+minecraft:cow
+minecraft:goat
+minecraft:mooshroom
+minecraft:pig
+minecraft:sheep
+naturalist:zebra

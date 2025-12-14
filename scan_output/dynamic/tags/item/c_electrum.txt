@@ -1,0 +1,3 @@
+oreganized:electrum_block
+oreganized:electrum_ingot
+oreganized:electrum_nugget

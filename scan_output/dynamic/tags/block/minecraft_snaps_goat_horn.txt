@@ -1,0 +1,10 @@
+#aether:golden_oak_logs
+#aether:skyroot_logs
+aether:ambrosium_ore
+aether:gravitite_ore
+aether:holystone
+aether:icestone
+aether:zanite_ore
+biomeswevegone:packed_black_ice
+biomeswevegone:packed_borealis_ice
+regions_unexplored:chalk

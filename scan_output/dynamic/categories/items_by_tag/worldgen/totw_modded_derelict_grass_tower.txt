@@ -1,0 +1,11 @@
+c:is_hill
+c:is_mountain
+c:is_taiga
+minecraft:forest
+minecraft:is_hill
+minecraft:is_mountain
+minecraft:is_taiga
+minecraft:plains
+minecraft:savanna
+minecraft:sunflower_plains
+minecraft:swamp

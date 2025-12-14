@@ -1,0 +1,8 @@
+biomesoplenty:cold_desert
+biomesoplenty:muskeg
+biomeswevegone:frosted_coniferous_forest
+minecraft:snowy_plains
+wythers:deep_snowy_taiga
+wythers:snowy_bog
+wythers:snowy_fen
+wythers:snowy_tundra

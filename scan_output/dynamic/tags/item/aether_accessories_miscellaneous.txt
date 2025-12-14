@@ -1,0 +1,3 @@
+aether:golden_feather
+aether:iron_bubble
+aether:regeneration_stone

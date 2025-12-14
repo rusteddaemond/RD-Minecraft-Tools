@@ -1,0 +1,2 @@
+c:is_mountain
+minecraft:is_mountain

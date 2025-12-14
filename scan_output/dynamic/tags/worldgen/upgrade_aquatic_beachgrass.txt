@@ -1,0 +1,2 @@
+#minecraft:is_river
+minecraft:beach

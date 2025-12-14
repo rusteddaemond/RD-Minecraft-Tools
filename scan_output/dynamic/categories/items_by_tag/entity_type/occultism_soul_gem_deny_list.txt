@@ -1,0 +1,3 @@
+c:bosses
+c:capturing_not_supported
+occultism:iesnium_golem

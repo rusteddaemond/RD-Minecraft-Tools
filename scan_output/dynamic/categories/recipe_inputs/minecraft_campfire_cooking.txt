@@ -1,0 +1,5 @@
+wildernature:bison_meat
+wildernature:cassowary_meat
+wildernature:pelican_meat
+wildernature:turkey_meat
+wildernature:venison

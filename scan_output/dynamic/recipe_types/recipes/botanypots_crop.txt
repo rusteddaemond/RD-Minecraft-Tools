@@ -1,0 +1,16 @@
+Recipe Type: botanypots:crop
+Total Recipes: 6
+============================================================
+
+botanypots:bell_peppers
+
+botanypots:coffee
+
+botanypots:cotton
+
+botanypots:wild_bell_peppers
+
+botanypots:wild_coffee
+
+botanypots:wild_cotton
+

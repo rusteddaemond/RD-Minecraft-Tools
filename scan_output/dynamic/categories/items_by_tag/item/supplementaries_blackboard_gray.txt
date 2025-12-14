@@ -1,0 +1,4 @@
+c:dyes/gray
+c:gray_dyes
+chalk:gray_chalk
+minecraft:gray_dye

@@ -1,0 +1,17 @@
+c:eggs
+c:foods/bell_pepper
+c:foods/raw_beef
+c:foods/raw_chicken
+c:foods/raw_duck
+c:foods/raw_mutton
+c:foods/raw_pork
+c:foods/raw_venison
+c:foods/safe_raw_fish
+c:mushrooms
+minecraft:beetroot
+minecraft:carrot
+minecraft:potato
+minecraft:rabbit
+rusticdelight:potato_slices
+twilightforest:raw_meef
+twilightforest:raw_venison

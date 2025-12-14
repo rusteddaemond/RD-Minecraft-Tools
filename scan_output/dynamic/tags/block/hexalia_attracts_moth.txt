@@ -1,0 +1,6 @@
+hexalia:salt_lamp
+minecraft:end_rod
+minecraft:lantern
+minecraft:sea_lantern
+minecraft:soul_lantern
+minecraft:torch

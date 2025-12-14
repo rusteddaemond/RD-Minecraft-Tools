@@ -1,0 +1,3 @@
+minecraft:cherry_leaves
+minecraft:cherry_sapling
+minecraft:pink_petals

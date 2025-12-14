@@ -1,0 +1,8 @@
+minecraft:exposed_lightning_rod
+minecraft:lightning_rod
+minecraft:oxidised_lightning_rod
+minecraft:waxed_exposed_lightning_rod
+minecraft:waxed_lightning_rod
+minecraft:waxed_oxidised_lightning_rod
+minecraft:waxed_weathered_lightning_rod
+minecraft:weathered_lightning_rod

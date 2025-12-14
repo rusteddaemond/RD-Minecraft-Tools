@@ -1,0 +1,10 @@
+aether:skyroot_bed
+arts_and_crafts:bleached_bed
+meadow:chambray_bed
+meadow:jacquard_bed
+meadow:linen_bed
+meadow:plaid_bed
+meadow:rustic_bed
+meadow:tweed_bed
+meadow:warped_bed
+pastel:resplendent_bed

@@ -1,0 +1,4 @@
+environmentz:polar_bear_fur
+frostiful:polar_bear_fur_tuft
+more_rpg_classes:polar_bear_fur
+untamedwilds:hide_white

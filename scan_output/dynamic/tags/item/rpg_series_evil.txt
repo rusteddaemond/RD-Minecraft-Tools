@@ -1,0 +1,8 @@
+arsenal:unique_dagger_2
+arsenal:unique_double_axe_1
+arsenal:unique_double_axe_2
+arsenal:unique_heavy_crossbow_2
+arsenal:unique_longbow_2
+arsenal:unique_mace_1
+arsenal:unique_shield_1
+arsenal:unique_staff_damage_4

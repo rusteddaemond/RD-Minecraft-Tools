@@ -1,0 +1,14 @@
+#c:furnaces
+#minecraft:campfires
+atum:kiln
+charm:kiln
+clayworks:kiln
+environmental:kiln
+minecraft:blast_furnace
+minecraft:furnace
+minecraft:smoker
+morecraft:kiln
+quark:blackstone_furnace
+quark:deepslate_furnace
+tconstruct:seared_smelter
+tconstruct:smeltery_controller

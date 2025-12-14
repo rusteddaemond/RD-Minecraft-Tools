@@ -1,0 +1,3 @@
+pastel:bedrock_fishing_rod
+pastel:lagoon_rod
+pastel:molten_rod

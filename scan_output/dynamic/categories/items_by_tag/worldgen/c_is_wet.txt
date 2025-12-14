@@ -1,0 +1,4 @@
+pastel:black_langast
+pastel:crystal_gardens
+pastel:deep_dripstone_caves
+pastel:dragonrot_swamp

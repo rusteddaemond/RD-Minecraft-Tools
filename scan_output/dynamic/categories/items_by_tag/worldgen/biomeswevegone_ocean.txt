@@ -1,0 +1,2 @@
+biomeswevegone:dead_sea
+biomeswevegone:lush_stacks

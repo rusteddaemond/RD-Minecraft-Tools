@@ -1,0 +1,4 @@
+#c:dyes/lime
+#c:lime_dyes
+chalk:lime_chalk
+minecraft:lime_dye

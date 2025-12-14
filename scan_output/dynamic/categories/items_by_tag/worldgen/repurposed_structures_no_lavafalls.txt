@@ -1,0 +1,2 @@
+repurposed_structures:bastion_underground
+repurposed_structures:mineshaft_icy

@@ -1,0 +1,3 @@
+pastel:bedrock_crossbow
+pastel:glass_crest_crossbow
+pastel:malachite_crossbow

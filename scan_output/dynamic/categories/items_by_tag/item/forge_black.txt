@@ -1,0 +1,2 @@
+minecraft:black_bundle
+minecraft:black_harness

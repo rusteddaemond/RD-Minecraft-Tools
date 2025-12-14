@@ -1,0 +1,5 @@
+oreganized:chiseled_glance
+oreganized:glance_brick_stairs
+oreganized:glance_brick_wall
+oreganized:glance_bricks
+oreganized:polished_glance

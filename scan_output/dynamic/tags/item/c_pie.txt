@@ -1,0 +1,7 @@
+biomeswevegone:blueberry_pie
+biomeswevegone:green_apple_pie
+hexalia:chillberry_pie
+upgrade_aquatic:mulberry_pie
+yeastnfeast:apple_pie
+yeastnfeast:elderberry_pie
+yeastnfeast:rose_tart

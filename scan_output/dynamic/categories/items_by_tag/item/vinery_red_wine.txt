@@ -1,0 +1,13 @@
+vinery:bolvar_wine
+vinery:bottle_mojang_noir
+vinery:chenet_wine
+vinery:cherry_wine
+vinery:chorus_wine
+vinery:cristel_wine
+vinery:jo_special_mixture
+vinery:lilitu_wine
+vinery:magnetic_wine
+vinery:noir_wine
+vinery:red_wine
+vinery:stal_wine
+vinery:strad_wine

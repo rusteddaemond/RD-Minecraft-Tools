@@ -1,0 +1,2 @@
+farmers_delight:rich_soil
+minecraft:dirt

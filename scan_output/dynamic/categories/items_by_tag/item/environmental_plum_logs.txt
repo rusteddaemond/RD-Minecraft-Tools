@@ -1,0 +1,4 @@
+environmental:plum_log
+environmental:plum_wood
+environmental:stripped_plum_log
+environmental:stripped_plum_wood

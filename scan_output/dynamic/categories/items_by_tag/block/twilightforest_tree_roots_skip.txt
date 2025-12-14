@@ -1,0 +1,6 @@
+minecraft:features_cannot_replace
+minecraft:logs
+twilightforest:liveroot_block
+twilightforest:mangrove_root
+twilightforest:root
+twilightforest:time_wood

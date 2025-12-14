@@ -1,0 +1,12 @@
+lne_paladins:elder_guardian_claymore
+lne_paladins:ender_dragon_claymore
+lne_paladins:glacial_claymore
+lne_paladins:wither_claymore
+paladins:aeternium_claymore
+paladins:aether_claymore
+paladins:diamond_claymore
+paladins:golden_claymore
+paladins:iron_claymore
+paladins:netherite_claymore
+paladins:ruby_claymore
+paladins:stone_claymore

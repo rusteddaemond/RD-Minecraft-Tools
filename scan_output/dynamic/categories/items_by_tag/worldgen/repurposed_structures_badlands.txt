@@ -1,0 +1,7 @@
+byg:atacama_desert
+c:badlands
+c:in_badlands
+forge:is_badlands
+minecraft:is_badlands
+repurposed_structures:collections/badlands
+terralith:savanna_badlands

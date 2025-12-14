@@ -1,0 +1,6 @@
+minecraft:andesite
+minecraft:cobbled_deepslate
+minecraft:cobblestone
+minecraft:diorite
+minecraft:granite
+minecraft:mossy_cobblestone

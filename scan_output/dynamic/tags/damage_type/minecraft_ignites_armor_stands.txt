@@ -1,0 +1,6 @@
+pastel:kindling_cough
+pastel:primordial_fire
+twilightforest:fire_jet
+twilightforest:hydra_fire
+twilightforest:hydra_mortar
+twilightforest:scorched

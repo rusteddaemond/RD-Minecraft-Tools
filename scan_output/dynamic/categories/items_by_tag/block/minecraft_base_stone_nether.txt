@@ -1,0 +1,2 @@
+regions_unexplored:overgrown_bone_block
+supplementaries:ashen_basalt

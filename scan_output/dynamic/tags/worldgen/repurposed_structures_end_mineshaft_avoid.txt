@@ -1,0 +1,2 @@
+repurposed_structures:ancient_cities_end
+repurposed_structures:strongholds_end

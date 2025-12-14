@@ -1,0 +1,3 @@
+biomesoplenty:mystic_forest
+biomesoplenty:raimbow_hills
+minecraft:mushroom_fields

@@ -1,0 +1,13 @@
+pastel:bedrock_armor
+twilightforest:arctic_boots
+twilightforest:arctic_chestplate
+twilightforest:arctic_helmet
+twilightforest:arctic_leggings
+twilightforest:fiery_boots
+twilightforest:fiery_chestplate
+twilightforest:fiery_helmet
+twilightforest:fiery_leggings
+twilightforest:yeti_boots
+twilightforest:yeti_chestplate
+twilightforest:yeti_helmet
+twilightforest:yeti_leggings

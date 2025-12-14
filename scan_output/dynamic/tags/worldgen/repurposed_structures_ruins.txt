@@ -1,0 +1,5 @@
+repurposed_structures:ruins_land_cold
+repurposed_structures:ruins_land_hot
+repurposed_structures:ruins_land_icy
+repurposed_structures:ruins_land_warm
+repurposed_structures:ruins_nether

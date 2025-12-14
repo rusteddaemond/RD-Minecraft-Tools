@@ -1,0 +1,17 @@
+kaleidoscopic:black_rock
+kaleidoscopic:bleached_rock
+kaleidoscopic:blue_rock
+kaleidoscopic:brown_rock
+kaleidoscopic:cyan_rock
+kaleidoscopic:gray_rock
+kaleidoscopic:green_rock
+kaleidoscopic:light_blue_rock
+kaleidoscopic:light_gray_rock
+kaleidoscopic:lime_rock
+kaleidoscopic:magenta_rock
+kaleidoscopic:orange_rock
+kaleidoscopic:pink_rock
+kaleidoscopic:purple_rock
+kaleidoscopic:red_rock
+kaleidoscopic:white_rock
+kaleidoscopic:yellow_rock

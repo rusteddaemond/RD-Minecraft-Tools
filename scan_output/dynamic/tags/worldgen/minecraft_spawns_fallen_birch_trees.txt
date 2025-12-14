@@ -1,0 +1,5 @@
+#c:birch_forest
+biomesoplenty:seasonal_forest
+minecraft:birch_forest
+minecraft:old_growth_birch_forest
+terralith:birch_taiga

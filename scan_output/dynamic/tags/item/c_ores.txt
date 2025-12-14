@@ -1,0 +1,11 @@
+#c:ores/iesnium
+#c:ores/lead
+#c:ores/palladium
+#c:ores/sal_ammoniac
+#c:ores/silver
+#pastel:ores
+aether:ambrosium_ore
+aether:gravitite_ore
+aether:zanite_ore
+create:deepslate_zinc_ore
+create:zinc_ore

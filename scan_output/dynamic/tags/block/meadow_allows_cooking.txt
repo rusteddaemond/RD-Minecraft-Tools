@@ -1,0 +1,4 @@
+#c:allows_cooking
+meadow:stove_tiles
+meadow:stove_tiles_lid
+meadow:stove_tiles_wood

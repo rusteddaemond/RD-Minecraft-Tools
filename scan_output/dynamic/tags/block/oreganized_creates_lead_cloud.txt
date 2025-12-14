@@ -1,0 +1,2 @@
+#c:ores/lead
+#c:storage_blocks/raw_lead

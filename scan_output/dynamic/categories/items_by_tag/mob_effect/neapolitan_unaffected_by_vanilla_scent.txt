@@ -1,0 +1,4 @@
+autumnity:foul_taste
+minecraft:darkness
+neapolitan:vanilla_scent
+supplementaries:overencumbered

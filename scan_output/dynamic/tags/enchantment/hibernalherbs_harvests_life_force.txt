@@ -1,0 +1,2 @@
+hibernalherbs:slashing
+minecraft:breach

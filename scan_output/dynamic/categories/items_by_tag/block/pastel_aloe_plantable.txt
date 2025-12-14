@@ -1,0 +1,10 @@
+minecraft:base_stone_overworld
+minecraft:sand
+pastel:aloe_converted
+pastel:ashen_blackslag
+pastel:base_stone_deeper_down
+pastel:flayed_earth
+pastel:rock_crystal
+pastel:sawblade_grass
+pastel:shale_clay
+pastel:shimmel

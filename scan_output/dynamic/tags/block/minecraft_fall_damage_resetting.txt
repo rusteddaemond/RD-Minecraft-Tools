@@ -1,0 +1,5 @@
+#aether:aerclouds
+atmospheric:grimweb
+biomeswevegone:blueberry_bush
+pastel:cat_idol
+regions_unexplored:salmonberry_bush

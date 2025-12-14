@@ -1,0 +1,2 @@
+aether:zanite_block
+aether:zanite_ore

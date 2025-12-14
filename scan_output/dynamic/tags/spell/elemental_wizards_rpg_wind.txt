@@ -1,0 +1,5 @@
+elemental_wizards_rpg:wind_aeroblast
+elemental_wizards_rpg:wind_aeroburst
+elemental_wizards_rpg:wind_air_cutter
+elemental_wizards_rpg:wind_tornado
+elemental_wizards_rpg:wind_updraft

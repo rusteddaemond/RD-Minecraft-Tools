@@ -1,0 +1,8 @@
+twilightforest:cracked_mazestone
+twilightforest:cut_mazestone
+twilightforest:decorative_mazestone
+twilightforest:mazestone
+twilightforest:mazestone_border
+twilightforest:mazestone_brick
+twilightforest:mazestone_mosaic
+twilightforest:mossy_mazestone

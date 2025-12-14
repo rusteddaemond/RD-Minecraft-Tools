@@ -1,0 +1,3 @@
+minecraft:wolf
+pet_cemetery:skeleton_wolf
+pet_cemetery:zombie_wolf

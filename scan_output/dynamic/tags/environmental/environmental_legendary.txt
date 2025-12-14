@@ -1,0 +1,5 @@
+environmental:brown_mushroom
+environmental:ghost
+environmental:sky
+environmental:stray
+environmental:wither

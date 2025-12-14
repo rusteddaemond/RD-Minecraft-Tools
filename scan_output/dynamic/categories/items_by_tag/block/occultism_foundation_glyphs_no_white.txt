@@ -1,0 +1,4 @@
+occultism:chalk_glyph_black
+occultism:chalk_glyph_gray
+occultism:chalk_glyph_light_gray
+occultism:chalk_glyph_void

@@ -1,0 +1,3 @@
+rusticdelight:cotton_boll
+rusticdelight:cotton_boll_crate
+rusticdelight:cotton_seeds

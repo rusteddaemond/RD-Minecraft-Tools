@@ -1,0 +1,3 @@
+repurposed_structures:collections/hills
+repurposed_structures:collections/meadows
+repurposed_structures:collections/taigas

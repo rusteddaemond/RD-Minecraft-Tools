@@ -1,0 +1,4 @@
+regions_unexplored:redwood_log
+regions_unexplored:redwood_wood
+regions_unexplored:stripped_redwood_log
+regions_unexplored:stripped_redwood_wood

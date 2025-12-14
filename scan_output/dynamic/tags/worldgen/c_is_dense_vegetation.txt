@@ -1,0 +1,3 @@
+pastel:crystal_gardens
+pastel:dragonrot_swamp
+pastel:noxshroom_forest

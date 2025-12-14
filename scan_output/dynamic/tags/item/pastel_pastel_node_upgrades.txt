@@ -1,0 +1,14 @@
+pastel:pure_azurite
+pastel:pure_bloodstone
+pastel:pure_coal
+pastel:pure_echo
+pastel:pure_glowstone
+pastel:pure_lapis
+pastel:pure_malachite
+pastel:pure_quartz
+pastel:pure_redstone
+pastel:raw_azurite
+pastel:raw_bloodstone
+pastel:raw_malachite
+pastel:resonance_shard
+pastel:shimmerstone_gem

@@ -1,0 +1,6 @@
+arsenal:unique_mace_2
+arsenal:unique_shield_2
+arsenal:unique_sickle_1
+arsenal:unique_spear_1
+arsenal:unique_staff_damage_1
+arsenal:unique_staff_damage_5

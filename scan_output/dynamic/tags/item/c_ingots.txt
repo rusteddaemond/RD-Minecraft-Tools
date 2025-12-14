@@ -1,0 +1,10 @@
+#c:ingots/electrum
+#c:ingots/fiery
+#c:ingots/iesnium
+#c:ingots/ironwood
+#c:ingots/knightmetal
+#c:ingots/lead
+#c:ingots/palladium
+#c:ingots/silver
+#c:ingots/steeleaf
+#create:create_ingots

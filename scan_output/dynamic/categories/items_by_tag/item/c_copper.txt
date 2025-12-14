@@ -1,0 +1,3 @@
+create:copper_nugget
+create:copper_sheet
+occultism:copper_dust

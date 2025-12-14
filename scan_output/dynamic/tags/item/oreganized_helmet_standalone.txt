@@ -1,0 +1,3 @@
+createbigcannons:gas_mask
+scguns:anthralite_respirator
+scguns:netherite_respirator

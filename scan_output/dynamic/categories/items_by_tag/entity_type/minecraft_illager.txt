@@ -1,0 +1,13 @@
+friendsandfoes:iceologer
+friendsandfoes:illusioner
+illagerinvasion:alchemist
+illagerinvasion:archivist
+illagerinvasion:basher
+illagerinvasion:firecaller
+illagerinvasion:inquisitor
+illagerinvasion:invoker
+illagerinvasion:marauder
+illagerinvasion:necromancer
+illagerinvasion:provoker
+illagerinvasion:sorcerer
+occultism:possessed_evoker

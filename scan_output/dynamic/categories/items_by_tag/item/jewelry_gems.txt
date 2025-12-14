@@ -1,0 +1,6 @@
+jewelry:citrine
+jewelry:jade
+jewelry:ruby
+jewelry:sapphire
+jewelry:tanzanite
+jewelry:topaz

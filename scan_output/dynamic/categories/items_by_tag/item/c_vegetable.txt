@@ -1,0 +1,11 @@
+atmospheric:aloe_leaves
+c:foods/bell_pepper
+farmersdelight:onion
+farmersdelight:tomato
+hexalia:sunfire_tomato
+minecraft:carrot
+minecraft:potato
+pastel:enchanted_golden_carrot
+rusticdelight:potato_slices
+yeastnfeast:garlic
+yeastnfeast:ginger

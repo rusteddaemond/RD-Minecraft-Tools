@@ -1,0 +1,3 @@
+minecraft:cherry_grove
+regions_unexplored:magnolia_woodland
+regions_unexplored:mauve_hills

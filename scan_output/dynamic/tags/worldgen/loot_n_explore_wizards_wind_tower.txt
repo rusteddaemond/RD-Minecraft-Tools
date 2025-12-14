@@ -1,0 +1,3 @@
+#c:is_jungle
+#c:is_lush
+#minecraft:is_jungle

@@ -1,0 +1,3 @@
+#minecraft:bypasses_invulnerability
+minecraft:mob_attack
+minecraft:player_attack

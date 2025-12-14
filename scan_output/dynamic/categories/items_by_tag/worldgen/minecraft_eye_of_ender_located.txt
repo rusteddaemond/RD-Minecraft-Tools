@@ -1,0 +1,2 @@
+betterstrongholds:stronghold
+repurposed_structures:collections/strongholds

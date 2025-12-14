@@ -1,0 +1,4 @@
+pastel:orange_log
+pastel:orange_wood
+pastel:stripped_orange_log
+pastel:stripped_orange_wood

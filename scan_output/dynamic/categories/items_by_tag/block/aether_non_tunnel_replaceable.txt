@@ -1,0 +1,8 @@
+aether:boss_doorway_dungeon_blocks
+aether:chest_mimic
+aether:locked_dungeon_blocks
+aether:treasure_chest
+aether:treasure_doorway_dungeon_blocks
+minecraft:air
+minecraft:chest
+minecraft:water

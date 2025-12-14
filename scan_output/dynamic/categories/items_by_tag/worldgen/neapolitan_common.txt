@@ -1,0 +1,4 @@
+atmospheric:rainforest
+atmospheric:rainforest_basin
+minecraft:bamboo_jungle
+minecraft:jungle

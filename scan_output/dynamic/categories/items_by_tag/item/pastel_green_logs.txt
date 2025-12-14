@@ -1,0 +1,4 @@
+pastel:green_log
+pastel:green_wood
+pastel:stripped_green_log
+pastel:stripped_green_wood

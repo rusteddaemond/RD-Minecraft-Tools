@@ -1,0 +1,5 @@
+aether:tools/hammers
+c:tools/knife
+galosphere:echo_bell
+occultism:tools/knife
+oreganized:flint_and_pewter

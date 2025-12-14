@@ -1,0 +1,9 @@
+brewery:fried_chicken
+brewery:half_chicken
+candlelight:chicken_with_vegetables
+farm_and_charm:chicken_wrapped_in_bacon
+farm_and_charm:roasted_chicken
+farm_and_charm:stuffed_chicken
+farmersdelight:cooked_chicken_cuts
+minecraft:cooked_chicken
+minecraft:cooked_mutton

@@ -1,0 +1,2 @@
+#minecraft:is_hill
+minecraft:stony_peaks

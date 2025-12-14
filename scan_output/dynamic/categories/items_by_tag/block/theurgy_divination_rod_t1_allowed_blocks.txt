@@ -1,0 +1,5 @@
+c:ores
+c:sandstone/blocks
+c:stones
+minecraft:logs
+minecraft:sugar_cane

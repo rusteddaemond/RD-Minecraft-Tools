@@ -1,0 +1,2 @@
+#c:is_swamp
+#minecraft:is_forest

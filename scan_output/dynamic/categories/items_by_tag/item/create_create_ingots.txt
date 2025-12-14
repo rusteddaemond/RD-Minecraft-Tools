@@ -1,0 +1,3 @@
+create:andesite_alloy
+create:brass_ingot
+create:zinc_ingot

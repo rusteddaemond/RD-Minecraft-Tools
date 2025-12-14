@@ -1,0 +1,4 @@
+biomeswevegone:red_rock_peaks
+biomeswevegone:red_rock_valley
+biomeswevegone:rugged_badlands
+biomeswevegone:sierra_badlands

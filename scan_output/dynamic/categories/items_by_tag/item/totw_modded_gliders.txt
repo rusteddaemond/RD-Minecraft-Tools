@@ -1,0 +1,3 @@
+hangglider:hang_glider
+paraglider:deku_leaf
+paraglider:paraglider

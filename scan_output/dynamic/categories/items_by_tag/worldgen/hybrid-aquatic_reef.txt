@@ -1,0 +1,5 @@
+biomeswevegone:lush_stacks
+minecraft:warm_ocean
+regions_unexplored:rocky_reef
+still_life:subtropical_shallow_ocean
+still_life:tropical_shallow_ocean

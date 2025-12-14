@@ -1,0 +1,12 @@
+biomesoplenty:lush_desert
+biomeswevegone:mojave_desert
+biomeswevegone:rugged_badlands
+byg:mojave_desert
+byg:windswept_desert
+minecraft:desert
+regions_unexplored:joshua_desert
+regions_unexplored:saguaro_desert
+terralith:desert_oasis
+terralith:sandstone_valley
+wythers:deep_desert
+wythers:wooded_desert

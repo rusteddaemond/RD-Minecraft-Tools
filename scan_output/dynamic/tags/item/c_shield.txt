@@ -1,0 +1,2 @@
+eternalnether:gilded_netherite_shield
+twilightforest:knightmetal_shield

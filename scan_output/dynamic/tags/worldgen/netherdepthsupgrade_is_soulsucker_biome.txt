@@ -1,0 +1,4 @@
+byg:wailing_garth
+byg:warped_desert
+gardens_of_the_dead:soulblight_forest
+minecraft:soul_sand_valley

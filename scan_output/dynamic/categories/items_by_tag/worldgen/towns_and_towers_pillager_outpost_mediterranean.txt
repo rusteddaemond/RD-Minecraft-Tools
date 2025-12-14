@@ -1,0 +1,10 @@
+biomesoplenty:mediterranean_forest
+biomesoplenty:rocky_shrubland
+biomesoplenty:scrubland
+biomesoplenty:shrubland
+biomesoplenty:wooded_scrubland
+minecraft:flower_forest
+terralith:brushland
+terralith:hot_shrubland
+terralith:shrubland
+wythers:mediterranean_island

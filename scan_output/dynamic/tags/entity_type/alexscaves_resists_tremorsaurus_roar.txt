@@ -1,0 +1,9 @@
+cataclysm:ancient_remnant
+cataclysm:ender_guardian
+cataclysm:ignis
+cataclysm:maledictus
+cataclysm:netherite_monstrosity
+cataclysm:the_harbinger
+cataclysm:the_leviathan
+twilightforest:hydra
+twilightforest:ur_ghast

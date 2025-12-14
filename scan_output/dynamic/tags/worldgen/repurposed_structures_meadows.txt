@@ -1,0 +1,15 @@
+biomesoplenty:clover_patch
+biomesoplenty:field
+biomesoplenty:highland
+biomesoplenty:highland_moor
+biomesoplenty:rocky_shrubland
+minecraft:meadow
+projectvibrantjourneys:pine_meadows
+regions_unexplored:highland_fields
+regions_unexplored:meadow
+regions_unexplored:shrubland
+wythers:autumnal_plains
+wythers:cold_plains
+wythers:cool_plains
+wythers:harvest_fields
+wythers:highland_plains

@@ -1,0 +1,17 @@
+atmospheric:grimwoods
+atmospheric:laurel_forest
+biomeswevegone:forest
+environmental:blossom_valleys
+environmental:blossom_woods
+minecraft:pale_garden
+regions_unexplored:alpha_grove
+regions_unexplored:autumnal_maple_forest
+regions_unexplored:bamboo_forest
+regions_unexplored:deciduous_forest
+regions_unexplored:magnolia_woodland
+regions_unexplored:maple_forest
+regions_unexplored:mauve_hills
+regions_unexplored:orchard
+regions_unexplored:silver_birch_forest
+regions_unexplored:temperate_grove
+regions_unexplored:willow_forest

@@ -1,0 +1,8 @@
+create:flowing_tea
+create:tea
+creategarnished:elven_tea
+creategarnished:flowing_elven_tea
+creategarnished:flowing_sprinters_tea
+creategarnished:flowing_sweet_tea
+creategarnished:sprinters_tea
+creategarnished:sweet_tea

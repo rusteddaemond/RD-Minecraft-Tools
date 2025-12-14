@@ -1,0 +1,5 @@
+#hibernalherbs:usable_herbal_sigils
+hibernalherbs:advanced_configuration_herbal_sigil
+hibernalherbs:advanced_mastery_herbal_sigil
+hibernalherbs:configuration_herbal_sigil
+hibernalherbs:mastery_herbal_sigil

@@ -1,0 +1,4 @@
+#minecraft:sand
+minecraft:mangrove_roots
+minecraft:mud
+minecraft:muddy_mangrove_roots

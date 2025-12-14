@@ -1,0 +1,3 @@
+minecraft:decorated_pot
+supplementaries:jar
+supplementaries:urn

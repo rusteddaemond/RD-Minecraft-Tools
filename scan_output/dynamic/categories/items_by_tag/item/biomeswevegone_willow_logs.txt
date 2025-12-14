@@ -1,0 +1,4 @@
+biomeswevegone:stripped_willow_log
+biomeswevegone:stripped_willow_wood
+biomeswevegone:willow_log
+biomeswevegone:willow_wood

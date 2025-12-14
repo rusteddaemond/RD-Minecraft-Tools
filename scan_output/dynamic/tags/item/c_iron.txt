@@ -1,0 +1,3 @@
+create:iron_sheet
+minecraft:iron_nugget
+occultism:iron_dust

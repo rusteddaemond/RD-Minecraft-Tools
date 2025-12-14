@@ -1,0 +1,4 @@
+environmental:stripped_wisteria_log
+environmental:stripped_wisteria_wood
+environmental:wisteria_log
+environmental:wisteria_wood

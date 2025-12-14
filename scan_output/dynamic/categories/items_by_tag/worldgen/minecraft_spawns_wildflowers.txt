@@ -1,0 +1,10 @@
+biomesoplenty:mystic_grove
+biomesoplenty:orchard
+biomesoplenty:pasture
+biomesoplenty:seasonal_forest
+biomesoplenty:woodland
+biomeswevegone:coconino_meadow
+biomeswevegone:orchard
+c:birch_forest
+minecraft:birch_forest
+minecraft:old_growth_birch_forest

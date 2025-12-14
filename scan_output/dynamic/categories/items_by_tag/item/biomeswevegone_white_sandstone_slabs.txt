@@ -1,0 +1,3 @@
+biomeswevegone:cut_white_sandstone_slab
+biomeswevegone:smooth_white_sandstone_slab
+biomeswevegone:white_sandstone_slab

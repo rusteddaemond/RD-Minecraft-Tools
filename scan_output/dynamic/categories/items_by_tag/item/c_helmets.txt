@@ -1,0 +1,2 @@
+cataclysm:ignitium_helmet
+cataclysm:monstrous_helm

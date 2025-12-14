@@ -1,0 +1,8 @@
+minecraft:cod
+minecraft:drowned
+minecraft:elder_guardian
+minecraft:glow_squid
+minecraft:guardian
+minecraft:salmon
+minecraft:squid
+minecraft:tropical_fish

@@ -1,0 +1,4 @@
+#c:blue_dyes
+#c:dyes/blue
+chalk:blue_chalk
+minecraft:blue_dye

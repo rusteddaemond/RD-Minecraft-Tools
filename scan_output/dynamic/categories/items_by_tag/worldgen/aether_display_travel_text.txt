@@ -1,0 +1,3 @@
+aether:is_aether
+minecraft:is_overworld
+minecraft:the_void

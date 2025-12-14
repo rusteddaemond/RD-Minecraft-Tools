@@ -1,0 +1,4 @@
+aether:golden_pendant
+aether:ice_pendant
+aether:iron_pendant
+aether:zanite_pendant

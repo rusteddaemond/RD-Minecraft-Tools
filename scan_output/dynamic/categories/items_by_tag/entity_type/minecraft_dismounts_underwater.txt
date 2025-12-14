@@ -1,0 +1,9 @@
+aether:aerbunny
+aether:blue_swet
+aether:flying_cow
+aether:golden_swet
+aether:moa
+aether:phyg
+minecraft:happy_ghast
+occultism:wild_spider
+pastel:kindling

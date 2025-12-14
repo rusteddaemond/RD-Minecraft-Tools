@@ -1,0 +1,4 @@
+minecraft:end_stone_brick_slab
+minecraft:purpur_slab
+minecraft:purpur_stairs
+minecraft:yellow_wool

@@ -1,0 +1,2 @@
+minecraft:cat
+minecraft:ocelot

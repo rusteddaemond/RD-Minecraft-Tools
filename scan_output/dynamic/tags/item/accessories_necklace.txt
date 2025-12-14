@@ -1,0 +1,3 @@
+#aether:accessories_pendants
+#hibernalherbs:bound_herbal_padlocks
+#jewelry:necklaces

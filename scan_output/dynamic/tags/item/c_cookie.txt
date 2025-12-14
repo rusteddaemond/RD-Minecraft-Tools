@@ -1,0 +1,9 @@
+abnormals_delight:cherry_cookie
+abnormals_delight:maple_cookie
+abnormals_delight:mulberry_cookie
+aether:gingerbread_man
+farmersdelight:honey_cookie
+farmersdelight:sweet_berry_cookie
+rusticdelight:cherry_blossom_cookie
+rusticdelight:coffee_cookie
+rusticdelight:syrup_cookie

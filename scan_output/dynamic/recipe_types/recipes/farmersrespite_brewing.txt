@@ -1,0 +1,7 @@
+Recipe Type: farmersrespite:brewing
+Total Recipes: 1
+============================================================
+
+rusticdelight:coffee
+  Inputs: rusticdelight:roasted_coffee_beans
+

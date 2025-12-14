@@ -1,0 +1,13 @@
+aether:aerbunny_temptation_items
+aether:flying_cow_temptation_items
+aether:moa_food_items
+aether:phyg_temptation_items
+aether:sheepuff_temptation_items
+atmospheric:cochineal_food
+atmospheric:cochineal_super_love_food
+environmental:deer_food
+environmental:duck_food
+environmental:reindeer_food
+environmental:slabfish_food
+environmental:yak_food
+neapolitan:chimpanzee_food

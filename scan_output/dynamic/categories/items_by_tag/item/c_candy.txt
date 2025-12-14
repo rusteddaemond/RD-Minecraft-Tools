@@ -1,0 +1,8 @@
+aether:blue_gummy_swet
+aether:candy_cane
+aether:golden_gummy_swet
+neapolitan:chocolate_bar
+neapolitan:mint_candies
+neapolitan:mint_chocolate
+neapolitan:strawberry_bean_bonbons
+supplementaries:candy

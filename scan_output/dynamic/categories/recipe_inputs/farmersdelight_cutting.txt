@@ -1,0 +1,2 @@
+supplementaries:ash_bricks
+supplementaries:lapis_bricks

@@ -1,0 +1,5 @@
+pastel:amethyst_powder
+pastel:citrine_powder
+pastel:moonstone_powder
+pastel:onyx_powder
+pastel:topaz_powder

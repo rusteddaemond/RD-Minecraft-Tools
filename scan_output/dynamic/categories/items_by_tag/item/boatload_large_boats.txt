@@ -1,0 +1,13 @@
+atmospheric:large_aspen_boat
+atmospheric:large_grimwood_boat
+atmospheric:large_kousa_boat
+atmospheric:large_laurel_boat
+atmospheric:large_morado_boat
+atmospheric:large_rosewood_boat
+atmospheric:large_yucca_boat
+environmental:large_pine_boat
+environmental:large_plum_boat
+environmental:large_willow_boat
+environmental:large_wisteria_boat
+upgrade_aquatic:large_driftwood_boat
+upgrade_aquatic:large_river_boat

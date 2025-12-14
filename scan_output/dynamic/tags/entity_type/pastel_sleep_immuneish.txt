@@ -1,0 +1,4 @@
+#c:bosses
+minecraft:magma_cube
+minecraft:slime
+pastel:kindling

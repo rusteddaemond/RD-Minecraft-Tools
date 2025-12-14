@@ -1,0 +1,7 @@
+atmospheric:travertine
+bloomingnature:cobbled_laterit
+bloomingnature:cobbled_slate
+bloomingnature:cobbled_travertin
+eternalnether:cobbled_blackstone
+meadow:cobbled_limestone
+pastel:cobbled_blackslag

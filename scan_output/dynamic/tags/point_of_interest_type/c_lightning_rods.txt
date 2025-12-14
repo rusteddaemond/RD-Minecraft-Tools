@@ -1,0 +1,2 @@
+#friendsandfoes:lightning_rods
+minecraft:lightning_rod

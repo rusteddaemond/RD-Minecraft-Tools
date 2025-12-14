@@ -1,0 +1,13 @@
+#c:nuggets/electrum
+#c:nuggets/gold
+#c:nuggets/iesnium
+#c:nuggets/iron
+#c:nuggets/lead
+#c:nuggets/netherite
+#c:nuggets/palladium
+#c:nuggets/silver
+create:brass_nugget
+create:copper_nugget
+create:experience_nugget
+create:zinc_nugget
+create_enchantment_industry:super_experience_nugget

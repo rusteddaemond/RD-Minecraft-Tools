@@ -1,0 +1,4 @@
+bloomingnature:baobab_log
+bloomingnature:baobab_wood
+bloomingnature:stripped_baobab_log
+bloomingnature:stripped_baobab_wood

@@ -1,0 +1,8 @@
+endermanoverhaul:ancient_pearl
+endermanoverhaul:bubble_pearl
+endermanoverhaul:corrupted_pearl
+endermanoverhaul:crimson_pearl
+endermanoverhaul:icy_pearl
+endermanoverhaul:soul_pearl
+endermanoverhaul:summoner_pearl
+endermanoverhaul:warped_pearl

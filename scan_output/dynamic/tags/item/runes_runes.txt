@@ -1,0 +1,10 @@
+more_rpg_classes:aqua_stone
+more_rpg_classes:nature_stone
+more_rpg_classes:storm_stone
+more_rpg_classes:terra_stone
+runes:arcane_stone
+runes:fire_stone
+runes:frost_stone
+runes:healing_stone
+runes:lightning_stone
+runes:soul_stone

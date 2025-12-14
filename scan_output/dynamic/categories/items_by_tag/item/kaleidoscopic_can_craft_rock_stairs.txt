@@ -1,0 +1,6 @@
+minecraft:andesite_stairs
+minecraft:cobbled_deepslate_stairs
+minecraft:cobblestone_stairs
+minecraft:diorite_stairs
+minecraft:granite_stairs
+minecraft:mossy_cobblestone_stairs

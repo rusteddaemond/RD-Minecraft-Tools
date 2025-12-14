@@ -1,0 +1,8 @@
+create:deepslate_zinc_ore
+occultism:silver_ore_deepslate
+oreganized:deepslate_lead_ore
+oreganized:deepslate_silver_ore
+regions_unexplored:deepslate_grass_block
+regions_unexplored:deepslate_prismoss
+regions_unexplored:deepslate_viridescent_nylium
+theurgy:deepslate_sal_ammoniac_ore

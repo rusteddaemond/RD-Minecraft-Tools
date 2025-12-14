@@ -1,0 +1,2 @@
+minecraft:birch_forest
+minecraft:forest

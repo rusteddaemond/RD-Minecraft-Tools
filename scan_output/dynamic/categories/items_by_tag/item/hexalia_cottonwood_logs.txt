@@ -1,0 +1,4 @@
+hexalia:cottonwood_log
+hexalia:cottonwood_wood
+hexalia:stripped_cottonwood_log
+hexalia:stripped_cottonwood_wood

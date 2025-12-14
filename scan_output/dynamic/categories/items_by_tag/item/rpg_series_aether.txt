@@ -1,0 +1,15 @@
+archers:aether_heavy_crossbow
+archers:aether_longbow
+archers:aether_rapid_crossbow
+archers:aether_spear
+elemental_wizards_rpg:staff_aether
+paladins:aether_claymore
+paladins:aether_great_hammer
+paladins:aether_holy_staff
+paladins:aether_kite_shield
+paladins:aether_mace
+rogues:aether_dagger
+rogues:aether_double_axe
+rogues:aether_glaive
+rogues:aether_sickle
+wizards:aether_wizard_staff

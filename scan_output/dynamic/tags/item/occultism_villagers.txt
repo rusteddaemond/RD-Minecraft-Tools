@@ -1,0 +1,2 @@
+minecraft:villager_spawn_egg
+minecraft:wandering_trader_spawn_egg

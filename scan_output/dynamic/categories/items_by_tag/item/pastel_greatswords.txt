@@ -1,0 +1,2 @@
+pastel:glass_crest_ultra_greatsword
+pastel:malachite_ultra_greatsword

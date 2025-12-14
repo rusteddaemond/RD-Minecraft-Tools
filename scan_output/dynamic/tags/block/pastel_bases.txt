@@ -1,0 +1,12 @@
+pastel:basalt_bricks
+pastel:basalt_tiles
+pastel:calcite_bricks
+pastel:calcite_tiles
+pastel:cracked_basalt_bricks
+pastel:cracked_basalt_tiles
+pastel:cracked_calcite_bricks
+pastel:cracked_calcite_tiles
+pastel:planed_basalt
+pastel:planed_calcite
+pastel:polished_basalt
+pastel:polished_calcite

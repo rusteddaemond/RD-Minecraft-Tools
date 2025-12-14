@@ -1,0 +1,3 @@
+minecraft:cobweb
+minecraft:leaves
+minecraft:mineable/hoe

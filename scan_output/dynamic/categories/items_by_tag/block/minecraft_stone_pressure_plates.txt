@@ -1,0 +1,4 @@
+hibernalherbs:idiosyncratic_stone_pressure_plate
+hibernalherbs:necromantic_stone_pressure_plate
+occultism:otherrock_pressure_plate
+occultism:otherstone_pressure_plate

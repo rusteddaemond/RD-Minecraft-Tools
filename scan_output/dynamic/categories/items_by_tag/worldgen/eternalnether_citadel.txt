@@ -1,0 +1,3 @@
+byg:glowstone_gardens
+incendium:inverted_forest
+minecraft:warped_forest

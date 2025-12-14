@@ -1,0 +1,2 @@
+explorerscompass:explorerscompass
+naturescompass:naturescompass

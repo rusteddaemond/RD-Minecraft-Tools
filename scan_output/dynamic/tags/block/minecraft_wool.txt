@@ -1,0 +1,3 @@
+#meadow:wool
+arts_and_crafts:bleached_wool
+brewery:patterned_wool

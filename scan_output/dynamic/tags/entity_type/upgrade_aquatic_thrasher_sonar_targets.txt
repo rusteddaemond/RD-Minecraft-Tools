@@ -1,0 +1,9 @@
+#upgrade_aquatic:jellyfish
+minecraft:axolotl
+minecraft:cod
+minecraft:dolphin
+minecraft:salmon
+minecraft:tropical_fish
+upgrade_aquatic:nautilus
+upgrade_aquatic:perch
+upgrade_aquatic:pike

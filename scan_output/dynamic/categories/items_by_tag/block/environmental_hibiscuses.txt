@@ -1,0 +1,6 @@
+environmental:magenta_hibiscus
+environmental:orange_hibiscus
+environmental:pink_hibiscus
+environmental:purple_hibiscus
+environmental:red_hibiscus
+environmental:yellow_hibiscus

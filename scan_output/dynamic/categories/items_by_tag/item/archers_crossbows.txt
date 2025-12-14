@@ -1,0 +1,9 @@
+archers:aether_heavy_crossbow
+archers:aether_rapid_crossbow
+archers:heavy_crossbow
+archers:netherite_heavy_crossbow
+archers:netherite_rapid_crossbow
+archers:rapid_crossbow
+archers:ruby_heavy_crossbow
+archers:ruby_rapid_crossbow
+lne_archers:crossbows

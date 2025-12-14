@@ -1,0 +1,8 @@
+environmental:koi
+minecraft:cod
+minecraft:pufferfish
+minecraft:salmon
+minecraft:tropical_fish
+upgrade_aquatic:lionfish
+upgrade_aquatic:perch
+upgrade_aquatic:pike

@@ -1,0 +1,5 @@
+arsenal:unique_glaive_2
+arsenal:unique_hammer_1
+arsenal:unique_staff_damage_2
+arsenal:unique_staff_heal_1
+elemental_wizards_rpg:unique_staff_1

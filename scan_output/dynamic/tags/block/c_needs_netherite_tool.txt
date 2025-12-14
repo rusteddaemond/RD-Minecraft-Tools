@@ -1,0 +1,3 @@
+#pastel:dragonbone_blocks
+#pastel:malachite_ores
+pastel:rock_crystal

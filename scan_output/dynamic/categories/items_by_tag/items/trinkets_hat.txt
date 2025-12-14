@@ -1,0 +1,2 @@
+hybrid-aquatic:hat
+hybrid-aquatic:plushies

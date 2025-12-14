@@ -1,0 +1,3 @@
+aether:music.boss.slider
+aether:music.boss.sun_spirit
+aether:music.boss.valkyrie_queen

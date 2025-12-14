@@ -1,0 +1,3 @@
+minecraft:apple
+regions_unexplored:hanging_earlight_fruit
+regions_unexplored:salmonberry

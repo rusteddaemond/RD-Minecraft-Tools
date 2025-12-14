@@ -1,0 +1,5 @@
+#c:ores/lead
+#c:ores/silver
+aether:ambrosium_ore
+aether:gravitite_ore
+aether:zanite_ore

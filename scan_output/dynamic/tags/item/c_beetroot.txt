@@ -1,0 +1,2 @@
+farmersdelight:beetroot_crate
+minecraft:beetroot

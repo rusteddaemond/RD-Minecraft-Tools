@@ -1,0 +1,2 @@
+aether:zanite_gemstone
+aether:zanite_ore

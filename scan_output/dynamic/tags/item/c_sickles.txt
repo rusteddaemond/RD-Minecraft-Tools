@@ -1,0 +1,8 @@
+hibernalherbs:arkonium_sickle
+hibernalherbs:diamond_sickle
+hibernalherbs:golden_sickle
+hibernalherbs:iron_sickle
+hibernalherbs:netherite_sickle
+hibernalherbs:stone_sickle
+hibernalherbs:syrum_sickle
+hibernalherbs:wooden_sickle

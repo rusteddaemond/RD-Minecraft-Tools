@@ -1,0 +1,8 @@
+aether:gravitite_pickaxe
+aether:holystone_pickaxe
+aether:skyroot_pickaxe
+aether:valkyrie_pickaxe
+aether:zanite_pickaxe
+occultism:iesnium_pickaxe
+occultism:infused_pickaxe
+pastel:pickaxes

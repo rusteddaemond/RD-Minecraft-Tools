@@ -1,0 +1,3 @@
+c:is_snowy_plains
+minecraft:grove
+minecraft:is_taiga

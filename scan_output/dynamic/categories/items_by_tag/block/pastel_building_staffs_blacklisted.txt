@@ -1,0 +1,8 @@
+minecraft:beehive
+minecraft:brewing_stand
+minecraft:cake
+minecraft:cauldron
+minecraft:composter
+minecraft:slabs
+pastel:decay/decay
+pastel:decay_away

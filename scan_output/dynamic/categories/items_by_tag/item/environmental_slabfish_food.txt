@@ -1,0 +1,3 @@
+#minecraft:fishes
+abnormals_delight:slabdish
+minecraft:fishes

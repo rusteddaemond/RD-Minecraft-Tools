@@ -1,0 +1,7 @@
+#c:is_savanna
+byg:araucaria_savanna
+byg:atacama_desert
+byg:baobab_savanna
+byg:mojave_desert
+byg:red_rock_valley
+minecraft:savanna

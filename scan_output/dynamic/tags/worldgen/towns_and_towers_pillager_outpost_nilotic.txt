@@ -1,0 +1,6 @@
+wythers:dripleaf_swamp
+wythers:flooded_jungle
+wythers:flooded_rainforest
+wythers:flooded_savanna
+wythers:flooded_temperate_rainforest
+wythers:pantanal

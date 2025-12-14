@@ -1,0 +1,3 @@
+minecraft:bamboo
+minecraft:saplings
+minecraft:sugar_cane

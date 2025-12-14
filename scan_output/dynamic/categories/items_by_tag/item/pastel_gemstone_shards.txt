@@ -1,0 +1,5 @@
+minecraft:amethyst_shard
+pastel:citrine_shard
+pastel:moonstone_shard
+pastel:onyx_shard
+pastel:topaz_shard

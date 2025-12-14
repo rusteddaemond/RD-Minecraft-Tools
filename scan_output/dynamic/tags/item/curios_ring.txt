@@ -1,0 +1,8 @@
+occultism:familiar_ring
+pastel:azure_dike_ring
+pastel:heartsingers_reward
+pastel:jeopardant
+pastel:neat_ring
+pastel:ring_of_aerial_grace
+pastel:ring_of_denser_steps
+pastel:ring_of_pursuit

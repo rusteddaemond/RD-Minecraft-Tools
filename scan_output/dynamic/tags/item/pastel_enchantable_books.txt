@@ -1,0 +1,2 @@
+minecraft:book
+pastel:gilded_book

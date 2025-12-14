@@ -1,0 +1,2 @@
+deeperdarker:soul_elytra
+minecraft:elytra

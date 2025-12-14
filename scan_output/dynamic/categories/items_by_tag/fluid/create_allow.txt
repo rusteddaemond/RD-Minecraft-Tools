@@ -1,0 +1,6 @@
+c:beetroot_soup
+c:birch_syrup
+c:mushroom_stew
+c:peanut_butter
+minecraft:lava
+minecraft:water

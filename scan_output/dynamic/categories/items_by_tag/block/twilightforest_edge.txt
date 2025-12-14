@@ -1,0 +1,3 @@
+minecraft:dirt
+minecraft:dirt_path
+minecraft:farmland

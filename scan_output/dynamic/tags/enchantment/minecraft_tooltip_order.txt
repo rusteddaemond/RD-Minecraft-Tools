@@ -1,0 +1,2 @@
+#pastel:enchantments
+netherdepthsupgrade:hell_strider

@@ -1,0 +1,7 @@
+biomeswevegone:sierra_badlands
+minecraft:wooded_badlands
+regions_unexplored:dry_bushland
+regions_unexplored:prairie
+regions_unexplored:wooded_arid_mountains
+terralith:bryce_canyon
+terralith:painted_mountains

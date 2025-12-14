@@ -1,0 +1,2 @@
+atmospheric:snowy_cactus
+minecraft:cactus

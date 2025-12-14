@@ -1,0 +1,2 @@
+minecraft:woodland_mansions
+repurposed_structures:mansions_overworld

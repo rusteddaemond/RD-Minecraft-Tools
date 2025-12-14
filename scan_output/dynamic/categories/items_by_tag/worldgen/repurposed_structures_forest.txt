@@ -1,0 +1,3 @@
+repurposed_structures:collections/birch_forests
+repurposed_structures:collections/floral
+repurposed_structures:collections/regular_forests

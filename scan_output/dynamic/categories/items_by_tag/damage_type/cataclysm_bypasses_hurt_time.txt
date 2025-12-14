@@ -1,0 +1,6 @@
+cataclysm:abyssal_burn
+cataclysm:maledictio_sagitta
+cataclysm:shredder
+minecraft:bypasses_invulnerability
+minecraft:wither
+neoforge:poison

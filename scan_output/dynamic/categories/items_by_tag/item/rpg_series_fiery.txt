@@ -1,0 +1,6 @@
+arsenal:unique_claymore_1
+arsenal:unique_glaive_1
+arsenal:unique_hammer_2
+arsenal:unique_heavy_crossbow_1
+arsenal:unique_sickle_2
+arsenal:unique_staff_damage_3

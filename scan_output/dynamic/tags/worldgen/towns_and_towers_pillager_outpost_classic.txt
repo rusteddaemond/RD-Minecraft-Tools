@@ -1,0 +1,4 @@
+biomesoplenty:origin_valley
+minecraft:the_void
+regions_unexplored:alpha_grove
+terralith:alpha_islands

@@ -1,0 +1,4 @@
+minecraft:bastion_remnant
+regions_unexplored:blackstone_basin
+regions_unexplored:glistering_meadow
+regions_unexplored:mycotoxic_undergrowth

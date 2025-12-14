@@ -1,0 +1,15 @@
+beachparty:palm_tall_torch
+beachparty:palm_torch_item
+c:torches
+chipped:torch
+forge:tools/flint_and_steel
+forge:torches
+magnumtorch:amethyst_magnum_torch
+magnumtorch:diamond_magnum_torch
+magnumtorch:emerald_magnum_torch
+minecells:prison_torch
+minecells:promenade_torch
+minecells:ramparts_torch
+minecraft:soul_torch
+minecraft:torch
+supplementaries:sconces

@@ -1,0 +1,3 @@
+aether:bronze_dungeon
+aether:gold_dungeon
+aether:silver_dungeon

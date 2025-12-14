@@ -1,0 +1,6 @@
+pastel:crafting_tablet
+pastel:enchantment_canvas
+pastel:evernectar
+pastel:freigeist
+pastel:knowledge_gem
+pastel:nectardew_burgeon

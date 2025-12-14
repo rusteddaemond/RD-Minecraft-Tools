@@ -1,0 +1,5 @@
+alexscaves:nuclear_bomb
+c:tnt
+c:tnts
+minecraft:tnt
+oreganized:shrapnel_bomb

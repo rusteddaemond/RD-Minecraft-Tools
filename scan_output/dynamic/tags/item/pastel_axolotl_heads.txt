@@ -1,0 +1,5 @@
+pastel:axolotl_blue_head
+pastel:axolotl_cyan_head
+pastel:axolotl_gold_head
+pastel:axolotl_leucistic_head
+pastel:axolotl_wild_head

@@ -1,0 +1,4 @@
+pastel:malachite_bident
+pastel:malachite_crossbow
+pastel:malachite_ultra_greatsword
+pastel:malachite_workstaff

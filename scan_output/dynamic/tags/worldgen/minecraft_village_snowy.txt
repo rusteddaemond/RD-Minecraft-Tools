@@ -1,0 +1,13 @@
+biomesoplenty:cold_desert
+biomesoplenty:snowy_coniferous_forest
+biomeswevegone:eroded_borealis
+biomeswevegone:frosted_taiga
+byg:frosted_coniferous_forest
+byg:shattered_glacier
+minecraft:snowy_plains
+regions_unexplored:cold_boreal_taiga
+regions_unexplored:frozen_tundra
+wythers:deep_snowy_taiga
+wythers:snowy_bog
+wythers:snowy_fen
+wythers:snowy_tundra

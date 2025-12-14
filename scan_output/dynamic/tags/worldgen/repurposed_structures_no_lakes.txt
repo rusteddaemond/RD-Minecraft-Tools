@@ -1,0 +1,4 @@
+#repurposed_structures:collections/mansions
+#repurposed_structures:collections/villages
+#repurposed_structures:collections/witch_huts
+repurposed_structures:bastion_underground

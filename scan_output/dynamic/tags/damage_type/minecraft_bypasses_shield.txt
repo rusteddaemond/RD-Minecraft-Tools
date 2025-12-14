@@ -1,0 +1,13 @@
+#spell_power:all
+cataclysm:flame_strike
+cataclysm:lightning
+cataclysm:maledictio
+cataclysm:maledictio_anima
+cataclysm:maledictio_magicae
+cataclysm:storm_bringer
+more_rpg_classes:bleeding
+more_rpg_classes:molten
+pastel:floatblock
+pastel:impaling
+pastel:shooting_star
+supplementaries:bamboo_spikes

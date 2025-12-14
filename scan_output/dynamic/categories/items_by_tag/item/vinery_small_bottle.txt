@@ -1,0 +1,11 @@
+brewery:whiskey_ak
+brewery:whiskey_cristelwalker
+vinery:bolvar_wine
+vinery:bottle_mojang_noir
+vinery:cherry_wine
+vinery:clark_wine
+vinery:kelp_cider
+vinery:noir_wine
+vinery:red_wine
+vinery:solaris_wine
+vinery:villagers_fright

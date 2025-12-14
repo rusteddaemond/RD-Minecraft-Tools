@@ -1,0 +1,4 @@
+#minecraft:base_stone_overworld
+#minecraft:dirt
+galosphere:tuff_dirt
+minecraft:gravel

@@ -1,0 +1,13 @@
+pastel:deadly_poison
+pastel:decay
+pastel:dragonrot
+pastel:floatblock
+pastel:incandescence
+pastel:ink_projectile
+pastel:midnight_solution
+pastel:primordial_fire
+twilightforest:ghast_tear
+twilightforest:hydra_fire
+twilightforest:hydra_mortar
+twilightforest:slam
+twilightforest:yeeted

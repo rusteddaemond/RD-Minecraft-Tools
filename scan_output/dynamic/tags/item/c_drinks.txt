@@ -1,0 +1,4 @@
+#c:drinks/milkshake
+create:builders_tea
+neapolitan:strawberry_banana_smoothie
+supplementaries:lumisene_bottle

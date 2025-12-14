@@ -1,0 +1,6 @@
+#c:desert
+biomesoplenty:lush_desert
+minecraft:desert
+projectvibrantjourneys:desert_shrubland
+projectvibrantjourneys:verdant_sands
+terralith:lush_desert

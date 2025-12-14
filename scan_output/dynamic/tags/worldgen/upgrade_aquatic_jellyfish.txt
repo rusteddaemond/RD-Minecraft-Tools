@@ -1,0 +1,2 @@
+#upgrade_aquatic:has_spawn/cassiopea_jellyfish
+minecraft:warm_ocean

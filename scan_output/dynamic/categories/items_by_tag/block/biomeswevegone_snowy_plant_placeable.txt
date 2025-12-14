@@ -1,0 +1,3 @@
+minecraft:dirt
+minecraft:powder_snow
+minecraft:snow_block

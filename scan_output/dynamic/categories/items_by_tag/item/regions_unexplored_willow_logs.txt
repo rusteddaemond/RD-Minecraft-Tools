@@ -1,0 +1,4 @@
+regions_unexplored:stripped_willow_log
+regions_unexplored:stripped_willow_wood
+regions_unexplored:willow_log
+regions_unexplored:willow_wood

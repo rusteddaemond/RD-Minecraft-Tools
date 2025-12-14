@@ -1,0 +1,15 @@
+biomesoplenty:orchard
+biomesoplenty:seasonal_forest
+biomesoplenty:seasonal_orchard
+biomesoplenty:tundra
+biomesoplenty:woodland
+c:plains
+forge:is_plains
+minecraft:birch_forest
+minecraft:forest
+minecraft:is_hill
+minecraft:is_river
+minecraft:old_growth_birch_forest
+terralith:moonlight_valley
+terralith:orchid_swamp
+windswept:tundra

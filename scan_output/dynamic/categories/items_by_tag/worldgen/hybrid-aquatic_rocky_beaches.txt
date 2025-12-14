@@ -1,0 +1,4 @@
+biomesoplenty:gravel_beach
+biomeswevegone:basalt_barrera
+biomeswevegone:dacite_shore
+minecraft:stony_shore

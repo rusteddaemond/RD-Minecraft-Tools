@@ -1,0 +1,2 @@
+minecraft:ancient_cities
+minecraft:strongholds

@@ -1,0 +1,2 @@
+atmospheric:is_rainforest
+minecraft:is_jungle

@@ -1,0 +1,9 @@
+c:foods/nuts
+c:foods/pancakes
+creategarnished:bear_claw
+creategarnished:churchkhela
+creategarnished:peanut_butter_bottle
+creategarnished:peanut_butter_cookie
+creategarnished:praline
+creategarnished:royal_cider
+creategarnished:vegetable_stew

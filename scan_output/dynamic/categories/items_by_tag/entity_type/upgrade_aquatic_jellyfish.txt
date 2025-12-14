@@ -1,0 +1,3 @@
+upgrade_aquatic:box_jellyfish
+upgrade_aquatic:cassiopea_jellyfish
+upgrade_aquatic:immortal_jellyfish

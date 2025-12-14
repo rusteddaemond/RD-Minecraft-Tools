@@ -1,0 +1,10 @@
+Recipe Type: neoforge:conditional
+Total Recipes: 3
+============================================================
+
+supplementaries:blackboard_clear
+
+supplementaries:flag_clear
+
+supplementaries:flag_dye
+

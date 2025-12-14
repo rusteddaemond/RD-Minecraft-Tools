@@ -1,0 +1,8 @@
+beachparty:palm_fence
+cataclysm:azure_seastone_fence
+cataclysm:black_steel_fence
+cataclysm:prismarine_brick_fence
+farm_and_charm:chicken_fence
+farm_and_charm:iron_divider
+farm_and_charm:rope_knot
+vinery:dark_cherry_fence

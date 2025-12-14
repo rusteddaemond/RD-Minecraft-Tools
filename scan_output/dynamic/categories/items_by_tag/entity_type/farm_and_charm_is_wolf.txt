@@ -1,0 +1,2 @@
+doggytalents:dog
+minecraft:wolf

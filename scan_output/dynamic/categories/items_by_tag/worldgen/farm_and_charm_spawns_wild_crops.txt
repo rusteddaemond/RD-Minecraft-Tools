@@ -1,0 +1,7 @@
+minecraft:is_forest
+minecraft:is_taiga
+minecraft:meadow
+minecraft:plains
+minecraft:river
+minecraft:sunflower_plains
+minecraft:swamp

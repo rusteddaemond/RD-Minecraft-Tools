@@ -1,0 +1,2 @@
+#c:cyan_dye
+minecraft:cyan_dye

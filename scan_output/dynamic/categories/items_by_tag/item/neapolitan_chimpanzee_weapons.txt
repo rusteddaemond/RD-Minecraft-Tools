@@ -1,0 +1,2 @@
+minecraft:bamboo
+minecraft:stick

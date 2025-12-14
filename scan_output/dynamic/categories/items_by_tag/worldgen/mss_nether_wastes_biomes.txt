@@ -1,0 +1,3 @@
+byg:magma_wastes
+c:is_nether
+minecraft:nether_wastes

@@ -1,0 +1,3 @@
+#c:dusts/glowstone
+aether:ambrosium_shard
+minecraft:flint

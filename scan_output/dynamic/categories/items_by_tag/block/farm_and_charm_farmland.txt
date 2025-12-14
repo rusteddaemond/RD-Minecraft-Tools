@@ -1,0 +1,5 @@
+biomemakeover:peat_farmland
+farm_and_charm:fertilized_farmland
+farmersdelight:rich_soil_farmland
+minecraft:farmland
+swampier_swamps:fertile_farmland

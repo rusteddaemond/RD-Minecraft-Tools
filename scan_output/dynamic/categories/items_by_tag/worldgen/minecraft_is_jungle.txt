@@ -1,0 +1,5 @@
+atmospheric:is_rainforest
+biomeswevegone:jungle
+regions_unexplored:eucalyptus_forest
+regions_unexplored:rainforest
+regions_unexplored:sparse_rainforest

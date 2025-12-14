@@ -1,0 +1,8 @@
+pastel:artists_palette
+pastel:ominous_sapling
+pastel:sacred_soil
+pastel:spectral_shard
+pastel:spirit_sallow_heart
+pastel:spirit_sallow_leaves
+pastel:spirit_sallow_log
+pastel:spirit_sallow_roots

@@ -1,0 +1,5 @@
+arts_and_crafts:bleached_carpet
+biomeswevegone:cattail_thatch_carpet
+brewery:patterned_carpet_block
+meadow:wool_carpets
+twilightforest:coronation_carpet

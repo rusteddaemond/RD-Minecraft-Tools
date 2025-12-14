@@ -1,0 +1,2 @@
+aether:enchanted_gravitite
+aether:gravitite_ore

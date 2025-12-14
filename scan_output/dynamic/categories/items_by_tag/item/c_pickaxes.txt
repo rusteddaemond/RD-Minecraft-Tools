@@ -1,0 +1,2 @@
+cataclysm:infernal_forge
+cataclysm:void_forge

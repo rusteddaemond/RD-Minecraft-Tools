@@ -1,0 +1,6 @@
+create:bar_of_chocolate
+fluffy_farmer:chocolate_bar
+neapolitan:chocolate_bar
+simplefarming:chocolate
+vanillacookbook:chocolate
+xercamod:item_chocolate

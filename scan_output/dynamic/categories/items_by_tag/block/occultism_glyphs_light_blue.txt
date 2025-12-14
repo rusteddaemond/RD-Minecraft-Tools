@@ -1,0 +1,3 @@
+occultism:chalk_glyph_light_blue
+occultism:chalk_glyph_rainbow
+occultism:chalk_glyph_void

@@ -1,0 +1,2 @@
+minecraft:mineable/pickaxe
+oreganized:mineable/scribe

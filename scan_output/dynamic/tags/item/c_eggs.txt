@@ -1,0 +1,4 @@
+#aether:moa_eggs
+#minecraft:eggs
+environmental:duck_egg
+minecraft:egg

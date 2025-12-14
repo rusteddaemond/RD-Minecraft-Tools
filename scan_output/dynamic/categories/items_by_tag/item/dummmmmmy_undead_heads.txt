@@ -1,0 +1,4 @@
+minecraft:skeleton_skull
+minecraft:wither_skeleton_skull
+minecraft:zombie_head
+piglinproliferation:zombified_piglin_head

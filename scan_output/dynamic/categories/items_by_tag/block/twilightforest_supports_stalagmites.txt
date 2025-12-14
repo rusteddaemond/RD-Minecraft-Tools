@@ -1,0 +1,2 @@
+minecraft:packed_ice
+twilightforest:deadrock

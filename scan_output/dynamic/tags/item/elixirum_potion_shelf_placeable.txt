@@ -1,0 +1,11 @@
+elixirum:elixir
+elixirum:extract
+elixirum:splash_elixir
+minecraft:dragon_breath
+minecraft:experience_bottle
+minecraft:glass_bottle
+minecraft:honey_bottle
+minecraft:lingering_potion
+minecraft:ominous_bottle
+minecraft:potion
+minecraft:splash_potion

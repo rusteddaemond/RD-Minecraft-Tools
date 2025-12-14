@@ -1,0 +1,2 @@
+#c:river
+#minecraft:is_river

@@ -1,0 +1,9 @@
+#spell_power:all
+pastel:deadly_poison
+pastel:midnight_solution
+twilightforest:acid_rain
+twilightforest:leaf_brain
+twilightforest:lich_bolt
+twilightforest:lich_bomb
+twilightforest:lost_words
+twilightforest:schooled

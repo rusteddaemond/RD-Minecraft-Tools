@@ -1,0 +1,11 @@
+abnormals_delight:necromium_knife
+abnormals_delight:silver_knife
+farmersdelight:diamond_knife
+farmersdelight:flint_knife
+farmersdelight:golden_knife
+farmersdelight:iron_knife
+farmersdelight:netherite_knife
+moredelight:stone_knife
+moredelight:wooden_knife
+occultism:butcher_knife
+oreganized:electrum_knife

@@ -1,0 +1,3 @@
+#forge:is_water/overworld
+minecraft:deep_ocean
+minecraft:ocean

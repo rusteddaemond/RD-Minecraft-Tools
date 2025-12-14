@@ -1,0 +1,6 @@
+#c:is_desert
+byg:atacama_desert
+byg:mojave_desert
+byg:red_rock_valley
+byg:windswept_desert
+minecraft:desert

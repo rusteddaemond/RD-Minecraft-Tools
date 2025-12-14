@@ -1,0 +1,15 @@
+heftycrops:hefty_beetroot
+heftycrops:hefty_cabbage
+heftycrops:hefty_carrot
+heftycrops:hefty_cocoa
+heftycrops:hefty_onion
+heftycrops:hefty_potato
+heftycrops:hefty_tomato
+overweight_farming:overweight_beetroot_block
+overweight_farming:overweight_cabbage_block
+overweight_farming:overweight_carrot_block
+overweight_farming:overweight_cocoa_block
+overweight_farming:overweight_ginger_block
+overweight_farming:overweight_onion_block
+overweight_farming:overweight_potato_block
+overweight_farming:overweight_tomato_block

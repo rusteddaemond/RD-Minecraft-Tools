@@ -1,0 +1,3 @@
+minecraft:mangrove_swamp
+minecraft:river
+minecraft:swamp

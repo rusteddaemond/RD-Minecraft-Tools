@@ -1,0 +1,3 @@
+twilightforest:lich_bolt
+twilightforest:lich_bomb
+twilightforest:wand_bolt

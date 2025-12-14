@@ -1,0 +1,11 @@
+pastel:black_hole_chest
+pastel:compacting_chest
+pastel:fabrication_chest
+pastel:heartbound_chest
+pastel:preservation_chest
+sophisticatedstorage:chest
+sophisticatedstorage:copper_chest
+sophisticatedstorage:diamond_chest
+sophisticatedstorage:gold_chest
+sophisticatedstorage:iron_chest
+sophisticatedstorage:netherite_chest

@@ -1,0 +1,5 @@
+byg:atacama_desert
+c:in_mesa
+c:is_badlands
+minecraft:has_structure/mineshaft_mesa
+terralith:savanna_badlands

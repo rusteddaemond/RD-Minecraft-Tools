@@ -1,0 +1,16 @@
+minecraft:birch_forest
+minecraft:forest
+minecraft:meadow
+minecraft:plains
+minecraft:river
+minecraft:sunflower_plains
+minecraft:swamp
+terralith:blooming_plateau
+terralith:blooming_valley
+terralith:cloud_forest
+terralith:forested_highlands
+terralith:highlands
+terralith:shield
+terralith:valley_clearing
+terralith:yosemite_cliffs
+terralith:yosemite_lowlands

@@ -1,0 +1,5 @@
+cataclysm:altar_of_abyss
+cataclysm:stone_tiles
+minecraft:andesite
+minecraft:polished_andesite
+minecraft:tuff

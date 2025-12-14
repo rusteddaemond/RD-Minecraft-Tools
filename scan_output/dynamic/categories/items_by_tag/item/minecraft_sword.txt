@@ -1,0 +1,7 @@
+c:tools/sickles
+farmersdelight:skillet
+farmersdelight:tools/knives
+occultism:tools/knife
+pastel:dragon_talon
+spikyspikes:diamond_spike
+spikyspikes:netherite_spike

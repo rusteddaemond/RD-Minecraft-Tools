@@ -1,0 +1,2 @@
+pastel:moonstone_chiseled_basalt
+pastel:moonstone_chiseled_calcite

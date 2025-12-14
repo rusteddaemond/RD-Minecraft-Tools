@@ -1,0 +1,5 @@
+#c:is_mountain/peak
+#c:is_mountain/slope
+#minecraft:is_mountain
+#repurposed_structures:collections/hills
+minecraft:jagged_peaks

@@ -1,0 +1,15 @@
+biomesoplenty:rainforest
+biomesoplenty:rocky_rainforest
+biomeswevegone:tropical_rainforest
+blooming_biosphere:rainforest
+jermsy:rainforest
+minecraft:jungle
+regions_unexplored:old_growth_rainforest
+regions_unexplored:rainforest
+terralith:amethyst_rainforest
+terralith:rocky_jungle
+wythers:eucalyptus_deanei_forest
+wythers:eucalyptus_jungle
+wythers:highland_tropical_rainforest
+wythers:jungle_island
+wythers:tropical_rainforest

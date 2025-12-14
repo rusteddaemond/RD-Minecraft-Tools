@@ -1,0 +1,10 @@
+aether:dart_shooters
+aether:phoenix_bow
+create:potato_cannon
+pastel:bedrock_bow
+rpg_series:weapon_type/long_bow
+rpg_series:weapon_type/short_bow
+twilightforest:ender_bow
+twilightforest:ice_bow
+twilightforest:seeker_bow
+twilightforest:triple_bow

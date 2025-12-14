@@ -1,0 +1,3 @@
+attributeslib:cold
+attributeslib:cold_damage
+minecraft:freeze

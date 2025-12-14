@@ -1,0 +1,2 @@
+minecraft:dragon_head
+moremobheads:spider_head

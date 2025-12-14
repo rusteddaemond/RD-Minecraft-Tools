@@ -1,0 +1,11 @@
+#c:climate_hot
+#forge:is_hot
+#minecraft:is_badlands
+#minecraft:is_jungle
+#minecraft:is_nether
+#minecraft:is_savanna
+minecraft:deep_lukewarm_ocean
+minecraft:desert
+minecraft:lukewarm_ocean
+minecraft:mangrove_swamp
+minecraft:warm_ocean

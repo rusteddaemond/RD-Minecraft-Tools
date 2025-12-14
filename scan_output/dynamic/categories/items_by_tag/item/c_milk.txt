@@ -1,0 +1,8 @@
+aether:skyroot_milk_bucket
+c:drinks/milk
+farmersdelight:milk_bottle
+meadow:wooden_milk_bucket
+minecraft:milk_bucket
+neapolitan:milk_bottle
+pastel:clotted_cream
+yeastnfeast:milk_bottle

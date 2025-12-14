@@ -1,0 +1,2 @@
+regions_unexplored:rainforest
+regions_unexplored:sparse_rainforest

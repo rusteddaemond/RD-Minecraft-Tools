@@ -1,0 +1,2 @@
+malum:haunted
+minecraft:sharpness

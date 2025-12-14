@@ -1,0 +1,12 @@
+environmental:mycelium_sprouts
+farmersdelight:brown_mushroom_colony
+farmersdelight:organic_compost
+farmersdelight:red_mushroom_colony
+farmersdelight:rich_soil
+farmersdelight:rich_soil_farmland
+minecraft:brown_mushroom
+minecraft:mycelium
+minecraft:podzol
+minecraft:red_mushroom
+twilightforest:mushgloom
+twilightforest:uberous_soil

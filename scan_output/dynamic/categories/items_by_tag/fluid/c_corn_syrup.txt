@@ -1,0 +1,2 @@
+creategarnished:corn_syrup
+creategarnished:flowing_corn_syrup

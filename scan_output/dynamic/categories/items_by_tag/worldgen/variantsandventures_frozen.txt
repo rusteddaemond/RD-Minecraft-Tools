@@ -1,0 +1,4 @@
+minecraft:deep_frozen_ocean
+minecraft:frozen_ocean
+minecraft:frozen_peaks
+minecraft:frozen_river

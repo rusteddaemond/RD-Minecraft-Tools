@@ -1,0 +1,6 @@
+#atmospheric:travertine
+aether:holystone
+biomeswevegone:rocky_stone
+eternalnether:cobbled_blackstone
+meadow:cobbled_limestone
+pastel:cobbled_blackslag

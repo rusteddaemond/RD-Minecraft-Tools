@@ -1,0 +1,2 @@
+malum:spirit_plunder
+minecraft:looting

@@ -1,0 +1,3 @@
+archers:large_quiver
+archers:medium_quiver
+archers:small_quiver

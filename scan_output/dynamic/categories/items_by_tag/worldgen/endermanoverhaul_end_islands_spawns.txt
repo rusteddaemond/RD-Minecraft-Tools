@@ -1,0 +1,6 @@
+betterend:ice_starfield
+c:end_islands
+c:is_end_highland
+minecraft:end_barrens
+minecraft:has_structure/end_city
+minecraft:small_end_islands

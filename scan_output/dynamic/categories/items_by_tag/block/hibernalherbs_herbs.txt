@@ -1,0 +1,17 @@
+hibernalherbs:calendula
+hibernalherbs:ceillis
+hibernalherbs:chamomile
+hibernalherbs:chervil
+hibernalherbs:chives
+hibernalherbs:essitte
+hibernalherbs:fennel
+hibernalherbs:fennkystral
+hibernalherbs:marjoram
+hibernalherbs:punuel
+hibernalherbs:rosemary
+hibernalherbs:sage
+hibernalherbs:sorrel
+hibernalherbs:tarragon
+hibernalherbs:thyme
+hibernalherbs:thyocielle
+hibernalherbs:verbena

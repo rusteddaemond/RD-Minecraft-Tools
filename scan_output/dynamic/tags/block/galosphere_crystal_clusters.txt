@@ -1,0 +1,3 @@
+galosphere:allurite_cluster
+galosphere:lumiere_cluster
+minecraft:amethyst_cluster

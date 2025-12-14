@@ -1,0 +1,9 @@
+biomesoplenty:clover_patch
+biomesoplenty:field
+minecraft:meadow
+regions_unexplored:highland_fields
+regions_unexplored:meadow
+tectonic:alpine_meadow
+terralith:blooming_plateau
+wythers:highland_plains
+wythers:highlands

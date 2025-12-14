@@ -1,0 +1,3 @@
+pastel:donkey_head
+pastel:horse_head
+pastel:mule_head

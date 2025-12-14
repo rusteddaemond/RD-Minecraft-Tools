@@ -1,0 +1,5 @@
+biomeswevegone:atacama_outback
+biomeswevegone:mojave_desert
+biomeswevegone:rainbow_beach
+biomeswevegone:rugged_badlands
+biomeswevegone:windswept_desert

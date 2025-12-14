@@ -1,0 +1,3 @@
+bakery:jar
+minecraft:bowl
+minecraft:glass_bottle

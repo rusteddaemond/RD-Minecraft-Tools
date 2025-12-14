@@ -1,0 +1,4 @@
+#theurgy:alchemical_sulfurs/herbs/abundant
+#theurgy:alchemical_sulfurs/herbs/common
+#theurgy:alchemical_sulfurs/herbs/precious
+#theurgy:alchemical_sulfurs/herbs/rare

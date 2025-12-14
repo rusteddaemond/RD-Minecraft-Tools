@@ -1,0 +1,16 @@
+c:gems/diamond
+c:gems/emerald
+c:ingots/allthemodium
+c:ingots/netherite
+c:ingots/unobtainium
+c:ingots/vibranium
+c:ores/allthemodium
+c:ores/diamond
+c:ores/emerald
+c:ores/netherite_scrap
+c:ores/unobtainium
+c:ores/uraninite_dense
+c:ores/vibranium
+c:raw_materials/allthemodium
+c:raw_materials/unobtainium
+c:raw_materials/vibranium

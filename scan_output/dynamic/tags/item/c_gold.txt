@@ -1,0 +1,3 @@
+create:golden_sheet
+minecraft:gold_nugget
+occultism:gold_dust

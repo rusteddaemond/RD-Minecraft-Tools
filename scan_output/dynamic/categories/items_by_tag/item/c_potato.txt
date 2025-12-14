@@ -1,0 +1,4 @@
+c:crops/potato
+farmersdelight:potato_crate
+minecraft:potato
+rusticdelight:potato_slices

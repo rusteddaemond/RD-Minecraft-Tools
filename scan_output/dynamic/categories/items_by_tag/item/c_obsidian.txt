@@ -1,0 +1,4 @@
+create:powdered_obsidian
+create:sturdy_sheet
+occultism:obsidian_dust
+regions_unexplored:cobalt_obsidian

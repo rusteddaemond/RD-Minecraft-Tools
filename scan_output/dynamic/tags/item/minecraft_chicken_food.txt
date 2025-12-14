@@ -1,0 +1,12 @@
+atmospheric:aloe_kernels
+berry_good:glow_berry_pips
+berry_good:sweet_berry_pips
+biomeswevegone:pale_pumpkin_seeds
+farmersdelight:cabbage_seeds
+farmersdelight:rice
+farmersdelight:tomato_seeds
+neapolitan:strawberry_pips
+nirvana:hemp_seeds
+rusticdelight:bell_pepper_seeds
+rusticdelight:cotton_seeds
+supplementaries:flax_seeds

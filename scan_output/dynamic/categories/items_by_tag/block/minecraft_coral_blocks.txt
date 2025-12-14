@@ -1,0 +1,16 @@
+hybrid-aquatic:button_coral_block
+hybrid-aquatic:leaf_coral_block
+hybrid-aquatic:lophelia_coral_block
+hybrid-aquatic:rose_coral_block
+hybrid-aquatic:sun_coral_block
+hybrid-aquatic:thorn_coral_block
+upgrade_aquatic:acan_coral_block
+upgrade_aquatic:branch_coral_block
+upgrade_aquatic:chrome_coral_block
+upgrade_aquatic:finger_coral_block
+upgrade_aquatic:moss_coral_block
+upgrade_aquatic:petal_coral_block
+upgrade_aquatic:pillow_coral_block
+upgrade_aquatic:rock_coral_block
+upgrade_aquatic:silk_coral_block
+upgrade_aquatic:star_coral_block

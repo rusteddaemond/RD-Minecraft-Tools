@@ -1,0 +1,5 @@
+minecraft:clay_ball
+minecraft:flint
+minecraft:gravel
+minecraft:red_sand
+minecraft:sand

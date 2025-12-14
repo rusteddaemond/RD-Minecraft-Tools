@@ -1,0 +1,4 @@
+pastel:lime_log
+pastel:lime_wood
+pastel:stripped_lime_log
+pastel:stripped_lime_wood

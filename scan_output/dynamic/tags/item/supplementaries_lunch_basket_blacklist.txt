@@ -1,0 +1,7 @@
+ars_nouveau:potion_flask
+ars_nouveau:potion_flask_amplify
+ars_nouveau:potion_flask_extend_time
+minecraft:lingering_potion
+minecraft:splash_potion
+potionbundles:potion_bundle
+supplementaries:lunch_basket

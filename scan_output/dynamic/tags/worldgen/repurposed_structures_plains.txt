@@ -1,0 +1,13 @@
+#c:is_plains
+minecraft:plains
+minecraft:sunflower_plains
+projectvibrantjourneys:prairie
+regions_unexplored:barley_fields
+regions_unexplored:clover_plains
+regions_unexplored:grassland
+regions_unexplored:lupine_plains
+regions_unexplored:lush_hills
+regions_unexplored:poppy_fields
+regions_unexplored:prairie
+regions_unexplored:shrubland
+terralith:brushland

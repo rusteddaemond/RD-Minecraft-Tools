@@ -1,0 +1,2 @@
+meadow:alpine_coal_ore
+pastel:blackslag_coal_ore

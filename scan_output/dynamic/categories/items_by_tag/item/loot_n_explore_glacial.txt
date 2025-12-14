@@ -1,0 +1,14 @@
+lne_archers:glacial_bow
+lne_archers:glacial_heavy_crossbow
+lne_archers:glacial_long_bow
+lne_archers:glacial_rapid_crossbow
+lne_archers:glacial_spear
+lne_paladins:glacial_claymore
+lne_paladins:glacial_great_hammer
+lne_paladins:glacial_mace
+lne_paladins:glacial_shield
+lne_rogues:glacial_dagger
+lne_rogues:glacial_double_axe
+lne_rogues:glacial_glaive
+lne_rogues:glacial_sickle
+lne_wizards:glacial_staff_frost

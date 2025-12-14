@@ -1,0 +1,4 @@
+minecraft:basalt
+minecraft:blackstone
+minecraft:bone_block
+minecraft:netherrack

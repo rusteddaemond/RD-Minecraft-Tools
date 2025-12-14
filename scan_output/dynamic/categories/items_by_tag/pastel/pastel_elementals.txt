@@ -1,0 +1,5 @@
+pastel:black
+pastel:cyan
+pastel:magenta
+pastel:white
+pastel:yellow

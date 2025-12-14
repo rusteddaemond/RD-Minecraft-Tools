@@ -1,0 +1,10 @@
+#minecraft:portals
+minecraft:barrier
+minecraft:chain_command_block
+minecraft:command_block
+minecraft:end_portal_frame
+minecraft:jigsaw
+minecraft:moving_piston
+minecraft:repeating_command_block
+minecraft:structure_block
+pastel:decay_away

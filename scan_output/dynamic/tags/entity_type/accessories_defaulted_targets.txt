@@ -1,0 +1,2 @@
+minecraft:armor_stand
+minecraft:player

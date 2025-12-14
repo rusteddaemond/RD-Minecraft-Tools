@@ -1,0 +1,3 @@
+#galosphere:crystal_spikes_blocks
+#minecraft:base_stone_overworld
+minecraft:calcite

@@ -1,0 +1,14 @@
+archers:archery_artisan
+beachparty:sandymerchant_poi
+biomeswevegone:forager
+friendsandfoes:beekeeper_acquirable_job_site
+jewelry:jeweler
+meadow:cheesemaker_poi
+meadow:hermit_poi
+paladins:monk
+rogues:arms_merchant
+sawmill:carpenter
+village_taverns:bartender
+vinery:winemaker_poi
+wizards:wizard_merchant
+yeastnfeast:keg_poi

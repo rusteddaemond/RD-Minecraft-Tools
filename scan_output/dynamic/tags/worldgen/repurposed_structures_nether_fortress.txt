@@ -1,0 +1,3 @@
+betterfortresses:fortress
+hexfortress:nether_fortress
+minecraft:fortress

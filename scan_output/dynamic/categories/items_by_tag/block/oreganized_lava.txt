@@ -1,0 +1,5 @@
+minecraft:lava
+minecraft:lava_cauldron
+minecraft:magma_block
+oreganized:molten_lead
+oreganized:molten_lead_cauldron

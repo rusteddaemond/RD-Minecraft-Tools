@@ -1,0 +1,2 @@
+galosphere:allurite_shard
+galosphere:lichen_shelf

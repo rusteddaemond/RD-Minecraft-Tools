@@ -1,0 +1,2 @@
+twilightforest:fiery_block
+twilightforest:fiery_ingot

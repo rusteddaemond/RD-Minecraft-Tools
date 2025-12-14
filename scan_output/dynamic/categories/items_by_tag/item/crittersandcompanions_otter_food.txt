@@ -1,0 +1,3 @@
+#minecraft:fishes
+crittersandcompanions:clam
+minecraft:fishes

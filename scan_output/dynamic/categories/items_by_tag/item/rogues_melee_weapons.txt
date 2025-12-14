@@ -1,0 +1,4 @@
+rogues:daggers
+rogues:double_axes
+rogues:glaives
+rogues:sickles

@@ -1,0 +1,14 @@
+#byg:is_icy
+#c:is_icy
+#repurposed_structures:collections/icy
+#repurposed_structures:collections/snowy_forests
+#repurposed_structures:collections/snowy_mountains
+#repurposed_structures:collections/snowy_plains
+minecraft:frozen_peaks
+minecraft:ice_spikes
+regions_unexplored:icy_desert
+regions_unexplored:icy_heights
+regions_unexplored:spires
+wythers:glacial_cliffs
+wythers:ice_cap
+wythers:snowy_bog

@@ -1,0 +1,3 @@
+illagerinvasion:magic_fire
+pastel:primordial_fire
+twilightforest:ominous_fire

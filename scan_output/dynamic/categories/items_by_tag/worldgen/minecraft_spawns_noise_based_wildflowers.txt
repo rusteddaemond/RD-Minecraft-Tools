@@ -1,0 +1,6 @@
+biomesoplenty:lavender_field
+minecraft:meadow
+terralith:birch_taiga
+terralith:blooming_plateau
+terralith:blooming_valley
+windswept:lavender_fields

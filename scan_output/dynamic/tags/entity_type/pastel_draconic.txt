@@ -1,0 +1,2 @@
+minecraft:ender_dragon
+pastel:kindling

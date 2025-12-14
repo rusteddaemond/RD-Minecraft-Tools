@@ -1,0 +1,7 @@
+biomeswevegone:cattail_explosion
+create:cuckoo_surprise
+pastel:incandescence
+pastel:moonstone_strike
+supplementaries:bomb_explosion
+supplementaries:player_bomb_explosion
+twilightforest:lich_bomb

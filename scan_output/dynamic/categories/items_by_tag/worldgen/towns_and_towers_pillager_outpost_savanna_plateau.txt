@@ -1,0 +1,4 @@
+blooming_biosphere:chaparral
+minecraft:savanna_plateau
+terralith:savanna_badlands
+terralith:white_mesa

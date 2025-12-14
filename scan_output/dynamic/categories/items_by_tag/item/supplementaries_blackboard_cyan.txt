@@ -1,0 +1,4 @@
+c:cyan_dyes
+c:dyes/cyan
+chalk:cyan_chalk
+minecraft:cyan_dye

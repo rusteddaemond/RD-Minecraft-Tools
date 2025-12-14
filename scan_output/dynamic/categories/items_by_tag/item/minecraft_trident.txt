@@ -1,0 +1,5 @@
+cataclysm:coral_bardiche
+cataclysm:coral_spear
+pastel:ferocious_glass_crest_bident
+pastel:fractal_glass_crest_bident
+pastel:malachite_bident

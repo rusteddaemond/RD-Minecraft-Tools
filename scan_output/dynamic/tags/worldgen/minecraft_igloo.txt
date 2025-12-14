@@ -1,0 +1,6 @@
+biomeswevegone:eroded_borealis
+biomeswevegone:frosted_taiga
+minecraft:igloo
+regions_unexplored:cold_boreal_taiga
+regions_unexplored:frozen_tundra
+regions_unexplored:spires

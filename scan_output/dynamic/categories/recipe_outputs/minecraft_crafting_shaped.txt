@@ -1,0 +1,3 @@
+netherdepthsupgrade:crimson_kelp_block
+netherdepthsupgrade:warped_kelp_block
+wildernature:bounty_board

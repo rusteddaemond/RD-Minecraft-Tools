@@ -1,0 +1,3 @@
+twilightforest:hollow_logs_climbable
+twilightforest:hollow_logs_horizontal
+twilightforest:hollow_logs_vertical

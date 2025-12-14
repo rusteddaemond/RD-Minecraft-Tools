@@ -1,0 +1,2 @@
+pastel:cave_spider_head
+pastel:spider_head

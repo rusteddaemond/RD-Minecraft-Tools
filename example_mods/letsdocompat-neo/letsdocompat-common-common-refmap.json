@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "dev/ninjdai/letsdocompat/mixin/RecipeManagerMixin": {
+      "apply*": "Lnet/minecraft/class_1863;method_20705(Ljava/util/Map;Lnet/minecraft/class_3300;Lnet/minecraft/class_3695;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "dev/ninjdai/letsdocompat/mixin/RecipeManagerMixin": {
+        "apply*": "Lnet/minecraft/class_1863;method_20705(Ljava/util/Map;Lnet/minecraft/class_3300;Lnet/minecraft/class_3695;)V"
+      }
+    }
+  }
+}

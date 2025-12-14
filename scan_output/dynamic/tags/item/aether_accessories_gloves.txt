@@ -1,0 +1,12 @@
+aether:chainmail_gloves
+aether:diamond_gloves
+aether:golden_gloves
+aether:gravitite_gloves
+aether:iron_gloves
+aether:leather_gloves
+aether:neptune_gloves
+aether:netherite_gloves
+aether:obsidian_gloves
+aether:phoenix_gloves
+aether:valkyrie_gloves
+aether:zanite_gloves

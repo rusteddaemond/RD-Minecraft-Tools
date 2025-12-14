@@ -1,0 +1,9 @@
+archers:golden_spear
+paladins:golden_claymore
+paladins:golden_great_hammer
+paladins:golden_kite_shield
+paladins:golden_mace
+rogues:golden_dagger
+rogues:golden_double_axe
+rogues:golden_glaive
+rogues:golden_sickle

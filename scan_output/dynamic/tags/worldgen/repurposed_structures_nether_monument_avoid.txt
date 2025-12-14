@@ -1,0 +1,5 @@
+minecraft:nether_complexes
+repurposed_structures:ancient_cities_nether
+repurposed_structures:cities_nether
+repurposed_structures:outposts_nether
+repurposed_structures:shipwrecks_nether

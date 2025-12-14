@@ -1,0 +1,2 @@
+atmospheric:carmine
+upgrade_aquatic:tooth

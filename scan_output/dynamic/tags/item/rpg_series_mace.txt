@@ -1,0 +1,14 @@
+arsenal:unique_mace_1
+arsenal:unique_mace_2
+arsenal:unique_mace_sw
+lne_paladins:elder_guardian_mace
+lne_paladins:ender_dragon_mace
+lne_paladins:glacial_mace
+lne_paladins:wither_mace
+paladins:aeternium_mace
+paladins:aether_mace
+paladins:diamond_mace
+paladins:golden_mace
+paladins:iron_mace
+paladins:netherite_mace
+paladins:ruby_mace

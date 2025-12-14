@@ -1,0 +1,4 @@
+atmospheric:chiseled_red_arid_sandstone
+atmospheric:cut_red_arid_sandstone
+atmospheric:red_arid_sandstone
+atmospheric:smooth_red_arid_sandstone

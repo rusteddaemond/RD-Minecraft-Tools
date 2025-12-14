@@ -1,0 +1,3 @@
+minecraft:animals_spawnable_on
+minecraft:mud
+minecraft:water

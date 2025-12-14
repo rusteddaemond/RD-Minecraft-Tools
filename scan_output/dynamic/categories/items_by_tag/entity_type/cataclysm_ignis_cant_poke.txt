@@ -1,0 +1,4 @@
+minecraft:ender_dragon
+minecraft:magma_cube
+minecraft:slime
+minecraft:wither

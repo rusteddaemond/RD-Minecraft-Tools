@@ -1,0 +1,3 @@
+pastel:bedrock_shears
+pastel:multitool
+pastel:workstaffs

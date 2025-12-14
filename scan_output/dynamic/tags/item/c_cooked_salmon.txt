@@ -1,0 +1,2 @@
+farmersdelight:cooked_salmon_slice
+minecraft:cooked_salmon

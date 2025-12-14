@@ -1,0 +1,2 @@
+milk:still_milk
+minecraft:milk

@@ -1,0 +1,3 @@
+c:swamp
+forge:is_swamp
+minecraft:has_structure/swamp_hut

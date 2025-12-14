@@ -1,0 +1,10 @@
+amendments:dye_cauldron
+amendments:liquid_cauldron
+neapolitan:adzuki_milkshake_cauldron
+neapolitan:banana_milkshake_cauldron
+neapolitan:chocolate_milkshake_cauldron
+neapolitan:milk_cauldron
+neapolitan:mint_milkshake_cauldron
+neapolitan:strawberry_milkshake_cauldron
+neapolitan:vanilla_milkshake_cauldron
+oreganized:molten_lead_cauldron

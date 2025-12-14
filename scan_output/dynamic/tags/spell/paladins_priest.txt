@@ -1,0 +1,5 @@
+lne_paladins:holy_prevention
+paladins:barrier
+paladins:circle_of_healing
+paladins:holy_beam
+paladins:holy_shock

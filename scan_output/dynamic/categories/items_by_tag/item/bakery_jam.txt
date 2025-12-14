@@ -1,0 +1,5 @@
+bakery:apple_jam
+bakery:chocolate_jam
+bakery:glowberry_jam
+bakery:strawberry_jam
+bakery:sweetberry_jam

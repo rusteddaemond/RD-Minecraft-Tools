@@ -1,0 +1,4 @@
+moonlight:beetroot_soup
+moonlight:mushroom_stew
+moonlight:rabbit_stew
+moonlight:suspicious_stew

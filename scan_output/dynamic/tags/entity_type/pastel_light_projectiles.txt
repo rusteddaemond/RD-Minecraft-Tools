@@ -1,0 +1,3 @@
+pastel:light_mine
+pastel:light_shard
+pastel:light_spear

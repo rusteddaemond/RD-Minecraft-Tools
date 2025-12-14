@@ -1,0 +1,14 @@
+#archers:archer
+#archers_expansion:deadeye
+#archers_expansion:tundra_hunter
+#archers_expansion:war_archer
+#elemental_wizards_rpg:aqua
+#elemental_wizards_rpg:terra
+#elemental_wizards_rpg:wind
+#paladins:paladin
+#paladins:priest
+#rogues:rogue
+#rogues:warrior
+#wizards:arcane
+#wizards:fire
+#wizards:frost

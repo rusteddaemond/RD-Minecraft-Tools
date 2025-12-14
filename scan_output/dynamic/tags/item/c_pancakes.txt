@@ -1,0 +1,2 @@
+creategarnished:pancakes
+creategarnished:syrup_covered_pancakes

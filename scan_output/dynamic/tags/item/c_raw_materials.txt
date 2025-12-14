@@ -1,0 +1,7 @@
+#c:raw_materials/iesnium
+#c:raw_materials/ironwood
+#c:raw_materials/knightmetal
+#c:raw_materials/lead
+#c:raw_materials/palladium
+#c:raw_materials/silver
+create:raw_zinc

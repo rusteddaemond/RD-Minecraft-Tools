@@ -1,0 +1,6 @@
+#minecraft:lava
+#minecraft:water
+#pastel:dragonrot
+#pastel:humus
+#pastel:liquid_crystal
+#pastel:midnight_solution

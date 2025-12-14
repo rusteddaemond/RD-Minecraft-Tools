@@ -1,0 +1,6 @@
+create:deepslate_zinc_ore
+create:raw_zinc
+create:zinc_block
+create:zinc_ingot
+create:zinc_nugget
+create:zinc_ore

@@ -1,0 +1,4 @@
+environmental:blossom_valleys
+environmental:old_growth_pine_barrens
+environmental:snowy_old_growth_pine_barrens
+neapolitan:strawberry_fields

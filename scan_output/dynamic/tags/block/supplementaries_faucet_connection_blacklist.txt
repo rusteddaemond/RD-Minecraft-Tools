@@ -1,0 +1,16 @@
+#ceramics:porcelain_cistern
+#ceramics:terracotta_cisterns
+ceramics:clay_channel
+ceramics:porcelain_channel
+ceramics:terracotta_channel
+ceramics:unfired_channel
+create:basin
+minecraft:sponge
+minecraft:wet_sponge
+tconstruct:casting_basin
+tconstruct:channel
+tconstruct:scorched_channel
+tconstruct:seared_channel
+tconstrust:casting_table
+tconstrust:scorched_basin
+tconstrust:seared_basin

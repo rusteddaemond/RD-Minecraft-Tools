@@ -1,0 +1,5 @@
+cataclysm:aptrgangr
+cataclysm:draugr
+cataclysm:elite_draugr
+cataclysm:maledictus
+cataclysm:royal_draugr

@@ -1,0 +1,7 @@
+minecraft:binding_curse
+minecraft:efficiency
+minecraft:infinity
+minecraft:mending
+minecraft:protection
+minecraft:unbreaking
+pastel:indestructible

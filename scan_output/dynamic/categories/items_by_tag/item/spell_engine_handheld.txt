@@ -1,0 +1,5 @@
+c:shields
+c:tools/ranged_weapons
+minecraft:enchantable/bow
+minecraft:enchantable/crossbow
+minecraft:enchantable/weapon

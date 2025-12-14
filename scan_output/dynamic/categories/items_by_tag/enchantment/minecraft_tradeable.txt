@@ -1,0 +1,3 @@
+hibernalherbs:culling
+hibernalherbs:rapid
+hibernalherbs:slashing

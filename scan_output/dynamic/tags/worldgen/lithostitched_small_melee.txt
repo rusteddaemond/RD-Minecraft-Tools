@@ -1,0 +1,4 @@
+minecraft:trial_chambers/spawner/small_melee/baby_zombie
+minecraft:trial_chambers/spawner/small_melee/cave_spider
+minecraft:trial_chambers/spawner/small_melee/silverfish
+minecraft:trial_chambers/spawner/small_melee/slime

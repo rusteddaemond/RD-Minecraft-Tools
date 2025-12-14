@@ -1,0 +1,14 @@
+#biomeswevegone:climate/cold
+#biomeswevegone:climate/dry
+#biomeswevegone:climate/hot
+#biomeswevegone:climate/temperate
+#biomeswevegone:climate/wet
+#biomeswevegone:density/dense
+#biomeswevegone:density/sparse
+environmental:blossom_woods
+environmental:marsh
+environmental:old_growth_pine_barrens
+environmental:pine_barrens
+environmental:pine_slopes
+environmental:snowy_old_growth_pine_barrens
+environmental:snowy_pine_barrens

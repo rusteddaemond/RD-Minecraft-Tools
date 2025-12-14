@@ -1,0 +1,4 @@
+minecraft:grove
+minecraft:the_void
+regions_unexplored:temperate_grove
+terralith:siberian_grove

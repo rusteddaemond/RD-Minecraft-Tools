@@ -1,0 +1,2 @@
+archers:quivers
+runes:pouches

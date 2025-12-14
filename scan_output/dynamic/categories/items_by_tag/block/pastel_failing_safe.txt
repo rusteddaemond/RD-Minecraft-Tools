@@ -1,0 +1,3 @@
+minecraft:bedrock
+pastel:bedrock_dust_block
+pastel:decay/ruin_safe

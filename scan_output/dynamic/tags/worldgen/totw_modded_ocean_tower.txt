@@ -1,0 +1,2 @@
+#c:is_deep_ocean
+minecraft:deep_ocean

@@ -1,0 +1,13 @@
+environmental:duck
+farmersdelight:chicken_cuts
+hexalia:saltsprout
+hybrid-aquatic:blowfish
+hybrid-aquatic:blue_spotted_stingray
+hybrid-aquatic:boxfish
+hybrid-aquatic:lionfish
+hybrid-aquatic:spotted_eagle_ray
+hybrid-aquatic:stonefish
+neapolitan:chocolate_spider_eye
+upgrade_aquatic:lionfish
+upgrade_aquatic:perch
+upgrade_aquatic:pike

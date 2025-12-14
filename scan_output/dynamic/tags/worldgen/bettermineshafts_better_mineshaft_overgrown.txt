@@ -1,0 +1,14 @@
+#c:forest
+#forge:is_forest
+#minecraft:is_forest
+biomesoplenty:cherry_blossom_grove
+biomesoplenty:old_growth_woodland
+biomesoplenty:orchard
+biomesoplenty:seasonal_forest
+biomesoplenty:woodland
+byg:autumnal_forest
+byg:cherry_blossom_forest
+byg:orchard
+byg:red_oak_forest
+byg:temperate_rainforest
+magicalforest:magical_forest

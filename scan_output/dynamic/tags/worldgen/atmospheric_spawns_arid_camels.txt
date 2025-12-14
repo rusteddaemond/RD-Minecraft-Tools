@@ -1,0 +1,3 @@
+#atmospheric:is_dunes
+#atmospheric:is_scrubland
+atmospheric:spiny_thicket

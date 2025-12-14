@@ -1,0 +1,4 @@
+aether:aether_dirt
+pastel:overgrown_slush
+pastel:slush
+regions_unexplored:ashen_dirt

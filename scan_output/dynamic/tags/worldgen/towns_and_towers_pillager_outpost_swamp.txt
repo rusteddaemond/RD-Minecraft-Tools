@@ -1,0 +1,11 @@
+biomesoplenty:wetland
+biomeswevegone:cypress_swamplands
+blooming_biosphere:marsh
+minecraft:swamp
+regions_unexplored:fen
+terralith:ice_marsh
+terralith:orchid_swamp
+wythers:ancient_mossy_swamp
+wythers:ancient_oak_swamp
+wythers:marsh
+wythers:waterlilly_swamp

@@ -1,0 +1,2 @@
+minecraft:is_taiga
+minecraft:meadow

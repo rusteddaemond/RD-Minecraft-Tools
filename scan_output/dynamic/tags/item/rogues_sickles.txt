@@ -1,0 +1,7 @@
+rogues:aeternium_sickle
+rogues:aether_sickle
+rogues:diamond_sickle
+rogues:golden_sickle
+rogues:iron_sickle
+rogues:netherite_sickle
+rogues:ruby_sickle

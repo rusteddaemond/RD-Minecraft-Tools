@@ -1,0 +1,3 @@
+farm_and_charm:chicken_parts
+farmersdelight:chicken_cuts
+minecraft:chicken

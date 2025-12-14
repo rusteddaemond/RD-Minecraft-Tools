@@ -1,0 +1,10 @@
+c:caves
+c:is_mountain
+minecraft:desert
+minecraft:dripstone_caves
+minecraft:is_mountain
+minecraft:lush_caves
+minecraft:plains
+minecraft:savanna
+minecraft:sunflower_plains
+minecraft:windswept_hills

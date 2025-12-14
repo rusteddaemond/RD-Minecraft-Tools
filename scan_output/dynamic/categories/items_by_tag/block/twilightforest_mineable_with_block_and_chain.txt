@@ -1,0 +1,4 @@
+minecraft:mineable/axe
+minecraft:mineable/hoe
+minecraft:mineable/pickaxe
+minecraft:mineable/shovel

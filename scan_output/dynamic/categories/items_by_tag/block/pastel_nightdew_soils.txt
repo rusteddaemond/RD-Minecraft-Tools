@@ -1,0 +1,7 @@
+pastel:basal_marbles
+pastel:blackslags
+pastel:deep_soils
+pastel:downstone
+pastel:groundcover
+pastel:pyrite
+pastel:rock_crystal

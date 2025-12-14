@@ -1,0 +1,11 @@
+#c:is_plains
+#c:is_savanna
+#c:is_snowy_plains
+#c:plains
+#c:savanna
+#c:snowy_plains
+#minecraft:is_savanna
+minecraft:meadow
+minecraft:plains
+minecraft:snowy_plains
+minecraft:sunflower_plains

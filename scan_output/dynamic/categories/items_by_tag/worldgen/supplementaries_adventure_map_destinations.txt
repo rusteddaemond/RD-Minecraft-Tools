@@ -1,0 +1,12 @@
+minecraft:bastion_remnant
+minecraft:desert_pyramid
+minecraft:end_city
+minecraft:igloo
+minecraft:jungle_pyramid
+minecraft:mineshaft
+minecraft:ocean_ruin
+minecraft:pillager_outpost
+minecraft:ruined_portal
+minecraft:shipwreck
+minecraft:swamp_hut
+minecraft:village

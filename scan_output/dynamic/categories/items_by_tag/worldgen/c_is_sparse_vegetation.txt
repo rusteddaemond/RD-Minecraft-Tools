@@ -1,0 +1,3 @@
+pastel:deep_barrens
+pastel:howling_spires
+pastel:razor_edge

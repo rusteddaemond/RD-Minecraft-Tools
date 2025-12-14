@@ -1,0 +1,4 @@
+#theurgy:alchemical_sulfurs/animals/abundant
+#theurgy:alchemical_sulfurs/animals/common
+#theurgy:alchemical_sulfurs/animals/precious
+#theurgy:alchemical_sulfurs/animals/rare

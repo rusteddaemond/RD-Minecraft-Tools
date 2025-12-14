@@ -1,0 +1,13 @@
+#c:foods/currant
+aether:blue_berry
+aether:enchanted_berry
+biomeswevegone:blueberries
+create:chocolate_glazed_berries
+creategarnished:elven_sweet_berries
+hexalia:chillberries
+hexalia:galeberries
+twilightforest:torchberries
+upgrade_aquatic:mulberry
+yeastnfeast:elderberries
+yeastnfeast:hawthorn_berries
+yeastnfeast:rose_hips

@@ -1,0 +1,4 @@
+minecraft:badlands
+minecraft:plains
+minecraft:savanna
+minecraft:sunflower_plains

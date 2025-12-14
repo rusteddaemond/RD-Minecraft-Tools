@@ -1,0 +1,6 @@
+malum:scythe
+minecraft:enchantable/bow
+minecraft:enchantable/crossbow
+minecraft:enchantable/mining
+minecraft:enchantable/weapon
+pastel:fishing_rods

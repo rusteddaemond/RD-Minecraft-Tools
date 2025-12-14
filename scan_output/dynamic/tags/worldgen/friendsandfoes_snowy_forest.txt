@@ -1,0 +1,13 @@
+biomesoplenty:muskeg
+biomesoplenty:rainbow_hills
+biomesoplenty:snowy_coniferous_forest
+biomesoplenty:snowy_maple_woods
+byg:frosted_coniferous_forest
+byg:frosted_taiga
+minecraft:grove
+minecraft:snowy_taiga
+projectvibrantjourneys:snowy_boreal_forest
+projectvibrantjourneys:snowy_redwoods
+wythers:deep_snowy_taiga
+wythers:snowy_fen
+wythers:snowy_thermal_taiga

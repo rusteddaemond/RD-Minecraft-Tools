@@ -1,0 +1,7 @@
+c:is_savanna
+minecraft:is_savanna
+projectvibrantjourneys:baobab_fields
+terralith:arid_highlands
+terralith:hot_shrubland
+terralith:sakura_grove
+terralith:sakura_valley

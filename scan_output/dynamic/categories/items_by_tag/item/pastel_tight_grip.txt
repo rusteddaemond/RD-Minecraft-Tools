@@ -1,0 +1,2 @@
+malum:scythe
+minecraft:enchantable/sword

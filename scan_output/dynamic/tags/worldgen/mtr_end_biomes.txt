@@ -1,0 +1,4 @@
+byg:cryptic_wastes
+byg:imparius_grove
+byg:viscal_isles
+minecraft:end_highlands

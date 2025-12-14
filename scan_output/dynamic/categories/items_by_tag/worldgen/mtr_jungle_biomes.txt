@@ -1,0 +1,3 @@
+byg:guiana_shield
+byg:jacaranda_forest
+minecraft:is_jungle

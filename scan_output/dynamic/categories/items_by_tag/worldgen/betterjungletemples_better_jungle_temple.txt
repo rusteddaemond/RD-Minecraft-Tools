@@ -1,0 +1,1 @@
+minecraft:has_structure/jungle_temple

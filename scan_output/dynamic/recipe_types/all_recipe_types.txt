@@ -1,0 +1,14 @@
+All Recipe Types Discovered
+============================================================
+
+botanypots:crop                                   :     6 recipes
+farmersdelight:cutting                            :     2 recipes
+farmersrespite:brewing                            :     1 recipes
+lilis_lucky_lures:fish_trap                       :     6 recipes
+minecraft:campfire_cooking                        :     5 recipes
+minecraft:crafting_shaped                         :     3 recipes
+minecraft:crafting_shapeless                      :     5 recipes
+minecraft:smelting                                :     5 recipes
+minecraft:smoking                                 :     5 recipes
+neoforge:conditional                              :     3 recipes
+wildernature:truffling                            :     1 recipes

@@ -1,0 +1,3 @@
+aether:block.aether_portal.ambient
+aether:block.aether_portal.travel
+aether:block.aether_portal.trigger

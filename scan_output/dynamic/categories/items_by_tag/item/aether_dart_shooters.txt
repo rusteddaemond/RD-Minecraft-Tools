@@ -1,0 +1,3 @@
+aether:enchanted_dart_shooter
+aether:golden_dart_shooter
+aether:poison_dart_shooter

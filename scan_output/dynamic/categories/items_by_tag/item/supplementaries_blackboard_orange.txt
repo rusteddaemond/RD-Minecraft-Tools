@@ -1,0 +1,4 @@
+c:dyes/orange
+c:orange_dyes
+chalk:orange_chalk
+minecraft:orange_dye

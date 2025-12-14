@@ -1,0 +1,11 @@
+twilightforest:auroralized_glass
+twilightforest:brazier
+twilightforest:cinder_furnace
+twilightforest:cinder_log
+twilightforest:cinder_wood
+twilightforest:cube_of_annihilation
+twilightforest:cube_talisman
+twilightforest:final_boss_boss_spawner
+twilightforest:maze_slime_block
+twilightforest:quest_ram_banner_pattern
+twilightforest:slider

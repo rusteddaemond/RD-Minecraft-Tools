@@ -1,0 +1,7 @@
+kibe:cursed_dirt
+malum:blighted_earth
+malum:blighted_soil
+minecraft:sculk
+minecraft:sculk_catalyst
+pastel:black_materia
+pastel:decay/decay

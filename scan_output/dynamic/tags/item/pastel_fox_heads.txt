@@ -1,0 +1,2 @@
+pastel:fox_arctic_head
+pastel:fox_head

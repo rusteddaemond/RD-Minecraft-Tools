@@ -1,0 +1,5 @@
+netherdepthsupgrade:crimson_kelp
+netherdepthsupgrade:warped_kelp
+wildernature:diamond_ammunition
+wildernature:fish_oil
+wildernature:flint_ammunition

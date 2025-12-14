@@ -1,0 +1,5 @@
+pastel:amethyst_ores
+pastel:citrine_ores
+pastel:moonstone_ores
+pastel:onyx_ores
+pastel:topaz_ores

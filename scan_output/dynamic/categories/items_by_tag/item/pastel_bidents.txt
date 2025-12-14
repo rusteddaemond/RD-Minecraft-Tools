@@ -1,0 +1,3 @@
+pastel:ferocious_glass_crest_bident
+pastel:fractal_glass_crest_bident
+pastel:malachite_bident

@@ -1,0 +1,2 @@
+c:lime_dye
+minecraft:lime_dye

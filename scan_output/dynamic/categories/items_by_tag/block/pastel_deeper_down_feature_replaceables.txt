@@ -1,0 +1,15 @@
+minecraft:fern
+minecraft:large_fern
+minecraft:short_grass
+minecraft:small_flowers
+minecraft:tall_grass
+pastel:aloe
+pastel:bismuth_buds
+pastel:bristle_sprouts
+pastel:dragonjags
+pastel:noxshrooms
+pastel:pyrite_ripper
+pastel:sag_bubble
+pastel:sag_leaf
+pastel:sawblade_holly_bush
+pastel:varia_sprout

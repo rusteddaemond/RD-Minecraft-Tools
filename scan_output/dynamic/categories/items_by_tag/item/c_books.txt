@@ -1,0 +1,3 @@
+minecraft:book
+occultism:dictionary_of_spirits
+pastel:gilded_book

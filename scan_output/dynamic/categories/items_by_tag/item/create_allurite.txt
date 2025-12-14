@@ -1,0 +1,10 @@
+galosphere:allurite_block
+galosphere:allurite_brick_slab
+galosphere:allurite_brick_stairs
+galosphere:allurite_bricks
+galosphere:allurite_slab
+galosphere:allurite_stairs
+galosphere:chiseled_allurite
+galosphere:smooth_allurite
+galosphere:smooth_allurite_slab
+galosphere:smooth_allurite_stairs

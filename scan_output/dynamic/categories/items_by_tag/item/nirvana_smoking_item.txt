@@ -1,0 +1,4 @@
+nirvana:joint
+nirvana:potion_bong
+nirvana:stuffed_pipe
+nirvana:suspicious_pipe

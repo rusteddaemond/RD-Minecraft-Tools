@@ -1,0 +1,9 @@
+byg:aspen_forest
+byg:howling_peaks
+byg:seasonal_birch_forest
+byg:seasonal_birch_forest_hill
+byg:temperate_grove
+byg:zelkova_forest
+c:is_birch_forest
+minecraft:birch_forest
+minecraft:forest

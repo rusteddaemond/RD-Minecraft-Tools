@@ -1,0 +1,4 @@
+minecraft:ocean_monuments
+repurposed_structures:ancient_cities_overworld
+repurposed_structures:pyramids_overworld
+repurposed_structures:villages_overworld

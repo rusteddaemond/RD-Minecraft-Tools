@@ -1,0 +1,2 @@
+minecraft:water
+spelunkery:spring_water

@@ -1,0 +1,2 @@
+minecraft:warden
+occultism:possessed_warden

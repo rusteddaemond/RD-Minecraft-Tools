@@ -1,0 +1,4 @@
+biomeswevegone:blue_enchanted_log
+biomeswevegone:blue_enchanted_wood
+biomeswevegone:stripped_blue_enchanted_log
+biomeswevegone:stripped_blue_enchanted_wood

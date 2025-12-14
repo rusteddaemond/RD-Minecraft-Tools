@@ -1,0 +1,5 @@
+pastel:amethyst_chime
+pastel:citrine_chime
+pastel:moonstone_chime
+pastel:onyx_chime
+pastel:topaz_chime

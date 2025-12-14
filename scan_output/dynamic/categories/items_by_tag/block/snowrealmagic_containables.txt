@@ -1,0 +1,8 @@
+minecraft:big_dripleaf
+minecraft:bush
+minecraft:cactus_flower
+minecraft:closed_eyeblossom
+minecraft:firefly_bush
+minecraft:open_eyeblossom
+minecraft:short_dry_grass
+minecraft:tall_dry_grass

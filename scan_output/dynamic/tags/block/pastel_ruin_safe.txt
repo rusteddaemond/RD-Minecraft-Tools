@@ -1,0 +1,2 @@
+#pastel:decay/forfeiture_safe
+minecraft:snow

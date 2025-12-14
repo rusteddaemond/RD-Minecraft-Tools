@@ -1,0 +1,2 @@
+supplementaries:candle_holders
+supplementaries:sconces

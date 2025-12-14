@@ -1,0 +1,7 @@
+rogues:aeternium_glaive
+rogues:aether_glaive
+rogues:diamond_glaive
+rogues:golden_glaive
+rogues:iron_glaive
+rogues:netherite_glaive
+rogues:ruby_glaive

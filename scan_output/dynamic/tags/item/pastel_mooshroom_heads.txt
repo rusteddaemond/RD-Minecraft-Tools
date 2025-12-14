@@ -1,0 +1,2 @@
+pastel:mooshroom_brown_head
+pastel:mooshroom_red_head

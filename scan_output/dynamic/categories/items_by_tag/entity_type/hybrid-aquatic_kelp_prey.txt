@@ -1,0 +1,3 @@
+hybrid-aquatic:crustacean
+hybrid-aquatic:sea_urchin
+hybrid-aquatic:small_prey

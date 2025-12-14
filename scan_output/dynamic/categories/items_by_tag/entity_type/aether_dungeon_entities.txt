@@ -1,0 +1,9 @@
+aether:fire_crystal
+aether:fire_minion
+aether:ice_crystal
+aether:sentry
+aether:slider
+aether:sun_spirit
+aether:thunder_crystal
+aether:valkyrie
+aether:valkyrie_queen

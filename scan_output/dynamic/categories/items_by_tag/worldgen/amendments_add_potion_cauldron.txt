@@ -1,0 +1,4 @@
+betterwitchhuts:witch_hut
+minecraft:swamp_hut
+repurposed_structures:collections/witch_huts
+snowyspirit:gingerbread_house

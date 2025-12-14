@@ -1,0 +1,6 @@
+biomesoplenty:floodplain
+biomesoplenty:marsh
+biomesoplenty:wetland
+regions_unexplored:marsh
+still_life:mediterranean_marsh
+still_life:temperate_marsh

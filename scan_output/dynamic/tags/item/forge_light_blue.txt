@@ -1,0 +1,2 @@
+minecraft:light_blue_bundle
+minecraft:light_blue_harness

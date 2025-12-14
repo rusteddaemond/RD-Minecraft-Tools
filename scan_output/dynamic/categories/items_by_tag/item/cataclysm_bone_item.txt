@@ -1,0 +1,2 @@
+cataclysm:koboleton_bone
+minecraft:bone

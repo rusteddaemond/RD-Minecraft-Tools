@@ -1,0 +1,6 @@
+occultism:silver_block
+occultism:silver_ore
+occultism:silver_ore_deepslate
+oreganized:deepslate_silver_ore
+oreganized:silver_block
+oreganized:silver_ore

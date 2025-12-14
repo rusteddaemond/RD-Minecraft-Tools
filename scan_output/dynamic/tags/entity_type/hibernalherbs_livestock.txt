@@ -1,0 +1,11 @@
+minecraft:camel
+minecraft:chicken
+minecraft:cow
+minecraft:donkey
+minecraft:hoglin
+minecraft:horse
+minecraft:llama
+minecraft:mule
+minecraft:pig
+minecraft:sheep
+minecraft:trader_llama

@@ -1,0 +1,3 @@
+minecraft:is_taiga
+minecraft:plains
+minecraft:sunflower_plains

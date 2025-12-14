@@ -1,0 +1,11 @@
+pastel:blue
+pastel:brown
+pastel:gray
+pastel:green
+pastel:light_blue
+pastel:light_gray
+pastel:lime
+pastel:orange
+pastel:pink
+pastel:purple
+pastel:red

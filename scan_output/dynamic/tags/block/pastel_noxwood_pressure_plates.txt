@@ -1,0 +1,4 @@
+pastel:chestnut_noxwood_pressure_plate
+pastel:ebony_noxwood_pressure_plate
+pastel:ivory_noxwood_pressure_plate
+pastel:slate_noxwood_pressure_plate

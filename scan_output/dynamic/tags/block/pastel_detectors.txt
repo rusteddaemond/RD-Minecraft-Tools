@@ -1,0 +1,5 @@
+pastel:creature_detector
+pastel:item_detector
+pastel:light_level_detector
+pastel:player_detector
+pastel:weather_detector

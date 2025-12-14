@@ -1,0 +1,9 @@
+aether:skyroot_poison_bucket
+aether:skyroot_remedy_bucket
+c:buckets/dragon_breath
+c:buckets/dye
+c:buckets/molten_lead
+create:chocolate_bucket
+create:honey_bucket
+create_enchantment_industry:experience_bucket
+supplementaries:lumisene_bucket

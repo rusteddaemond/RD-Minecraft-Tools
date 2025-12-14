@@ -1,0 +1,4 @@
+#c:dyes/pink
+#c:pink_dyes
+chalk:pink_chalk
+minecraft:pink_dye

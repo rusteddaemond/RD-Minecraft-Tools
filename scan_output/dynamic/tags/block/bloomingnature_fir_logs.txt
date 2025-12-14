@@ -1,0 +1,4 @@
+bloomingnature:fir_log
+bloomingnature:fir_wood
+bloomingnature:stripped_fir_log
+bloomingnature:stripped_fir_wood

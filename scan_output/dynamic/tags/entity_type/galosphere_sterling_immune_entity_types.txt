@@ -1,0 +1,3 @@
+minecraft:evoker_fangs
+minecraft:ravager
+minecraft:vex

@@ -1,0 +1,15 @@
+arsenal:unique_double_axe_1
+arsenal:unique_double_axe_2
+arsenal:unique_double_axe_sw
+lne_rogues:elder_guardian_double_axe
+lne_rogues:ender_dragon_double_axe
+lne_rogues:glacial_double_axe
+lne_rogues:wither_double_axe
+rogues:aeternium_double_axe
+rogues:aether_double_axe
+rogues:diamond_double_axe
+rogues:golden_double_axe
+rogues:iron_double_axe
+rogues:netherite_double_axe
+rogues:ruby_double_axe
+rogues:stone_double_axe

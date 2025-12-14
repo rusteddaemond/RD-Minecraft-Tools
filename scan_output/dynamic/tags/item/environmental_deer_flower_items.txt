@@ -1,0 +1,3 @@
+#environmental:deer_strong_flower_items
+#environmental:deer_super_flower_items
+minecraft:apple

@@ -1,0 +1,2 @@
+pastel:amethyst_chiseled_basalt
+pastel:amethyst_chiseled_calcite

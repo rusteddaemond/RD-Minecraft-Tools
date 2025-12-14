@@ -1,0 +1,2 @@
+blueprint:beehive
+friendsandfoes:beekeeper_acquirable_job_site

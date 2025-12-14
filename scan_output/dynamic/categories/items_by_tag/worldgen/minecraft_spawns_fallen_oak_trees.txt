@@ -1,0 +1,11 @@
+biomesoplenty:orchard
+biomesoplenty:seasonal_forest
+biomesoplenty:woodland
+c:plains
+forge:is_plains
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:is_badlands
+minecraft:is_hill
+minecraft:is_savanna

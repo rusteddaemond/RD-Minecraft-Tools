@@ -1,0 +1,45 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+#issueTrackerURL = ""
+license = "GPLv3"
+
+[[mods]]
+modId = "letsdocompat"
+version = "2.3.1"
+displayName = "[Let's Do Addon] Compat"
+authors = "Ninjdai"
+description = '''
+Adds compatibility between Let's Do and a plethora of mods sos you don't have to !
+'''
+logoFile = "assets/letsdocompat/icon.png"
+
+[[mixins]]
+config = "letsdocompat.mixins.json"
+
+[[dependencies.letsdocompat]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.letsdocompat]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.letsdocompat]]
+modId = "architectury"
+mandatory = true
+versionRange = "[9.2.14,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.letsdocompat]]
+modId = "farm_and_charm"
+mandatory = false
+versionRange = "[1.1.6,)"
+ordering = "AFTER"
+side = "BOTH"

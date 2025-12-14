@@ -1,0 +1,2 @@
+minecraft:end_cities
+repurposed_structures:ancient_cities_end

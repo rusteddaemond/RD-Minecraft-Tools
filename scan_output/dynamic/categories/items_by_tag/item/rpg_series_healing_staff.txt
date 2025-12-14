@@ -1,0 +1,9 @@
+arsenal:unique_staff_heal_1
+arsenal:unique_staff_heal_2
+arsenal:unique_staff_heal_sw
+lne_paladins:elder_guardian_holy_staff
+paladins:aether_holy_staff
+paladins:diamond_holy_staff
+paladins:holy_staff
+paladins:netherite_holy_staff
+paladins:ruby_holy_staff

@@ -1,0 +1,4 @@
+pastel:demon_trifle
+pastel:jaramel_trifle
+pastel:monster_trifle
+pastel:salted_jaramel_trifle

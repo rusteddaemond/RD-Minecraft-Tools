@@ -1,0 +1,3 @@
+pastel:divinity
+pastel:fatal_slumber
+pastel:immunity

@@ -1,0 +1,16 @@
+pastel:pyrite
+pastel:pyrite_paneling
+pastel:pyrite_pile
+pastel:pyrite_plating
+pastel:pyrite_projector
+pastel:pyrite_relief
+pastel:pyrite_slab
+pastel:pyrite_stack
+pastel:pyrite_stairs
+pastel:pyrite_tiles
+pastel:pyrite_tiles_slab
+pastel:pyrite_tiles_stairs
+pastel:pyrite_tiles_wall
+pastel:pyrite_tubing
+pastel:pyrite_vent
+pastel:pyrite_wall

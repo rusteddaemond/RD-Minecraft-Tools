@@ -1,0 +1,4 @@
+minecraft:clay
+minecraft:dirt
+minecraft:grass_block
+minecraft:sand

@@ -1,0 +1,5 @@
+farm_and_charm:corn
+farm_and_charm:lettuce
+farm_and_charm:onion
+farm_and_charm:strawberry
+farm_and_charm:tomato

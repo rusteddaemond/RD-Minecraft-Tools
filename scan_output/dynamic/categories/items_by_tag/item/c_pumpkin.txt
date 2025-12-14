@@ -1,0 +1,2 @@
+biomeswevegone:pale_pumpkin
+biomeswevegone:pale_pumpkin_seeds

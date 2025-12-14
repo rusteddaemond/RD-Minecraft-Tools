@@ -1,0 +1,8 @@
+create:asurine
+create:crimsite
+create:limestone
+create:ochrum
+create:scorchia
+create:scoria
+create:veridium
+pastel:blackslag

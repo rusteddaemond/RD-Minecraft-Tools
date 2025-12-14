@@ -1,0 +1,6 @@
+pastel:black_langast
+pastel:crystal_gardens
+pastel:deep_barrens
+pastel:deep_dripstone_caves
+pastel:noxshroom_forest
+pastel:razor_edge

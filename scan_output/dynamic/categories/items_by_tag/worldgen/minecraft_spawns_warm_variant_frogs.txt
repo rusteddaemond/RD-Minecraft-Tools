@@ -1,0 +1,13 @@
+atmospheric:is_dunes
+atmospheric:scrubland
+atmospheric:spiny_thicket
+regions_unexplored:bamboo_forest
+regions_unexplored:fungal_fen
+regions_unexplored:joshua_desert
+regions_unexplored:marsh
+regions_unexplored:old_growth_bayou
+regions_unexplored:outback
+regions_unexplored:saguaro_desert
+regions_unexplored:tropics
+twilightforest:fire_swamp
+twilightforest:oak_savannah

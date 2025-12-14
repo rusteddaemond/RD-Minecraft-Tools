@@ -1,0 +1,7 @@
+toxony:bolt
+toxony:glowing_bolt
+toxony:poison_bolt
+toxony:regeneration_bolt
+toxony:smoke_bolt
+toxony:toxin_bolt
+toxony:witchfire_bolt

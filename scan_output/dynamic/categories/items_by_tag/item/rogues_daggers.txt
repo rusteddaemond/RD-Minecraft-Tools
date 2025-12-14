@@ -1,0 +1,8 @@
+rogues:aeternium_dagger
+rogues:aether_dagger
+rogues:diamond_dagger
+rogues:flint_dagger
+rogues:golden_dagger
+rogues:iron_dagger
+rogues:netherite_dagger
+rogues:ruby_dagger

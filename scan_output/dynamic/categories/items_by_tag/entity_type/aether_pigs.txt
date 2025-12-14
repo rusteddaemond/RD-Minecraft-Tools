@@ -1,0 +1,8 @@
+aether:phyg
+minecraft:hoglin
+minecraft:pig
+minecraft:piglin
+minecraft:piglin_brute
+minecraft:zoglin
+minecraft:zombified_piglin
+twilightforest:boar

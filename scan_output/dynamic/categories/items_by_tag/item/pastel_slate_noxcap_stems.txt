@@ -1,0 +1,4 @@
+pastel:slate_noxcap_hyphae
+pastel:slate_noxcap_stem
+pastel:stripped_slate_noxcap_hyphae
+pastel:stripped_slate_noxcap_stem

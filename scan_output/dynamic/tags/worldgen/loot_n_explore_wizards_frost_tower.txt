@@ -1,0 +1,5 @@
+#c:icy
+minecraft:frozen_peaks
+minecraft:ice_spikes
+minecraft:snowy_slopes
+minecraft:snowy_taiga

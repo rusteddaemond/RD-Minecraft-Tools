@@ -1,0 +1,2 @@
+c:blue_dye
+minecraft:blue_dye

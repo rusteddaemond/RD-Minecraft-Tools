@@ -1,0 +1,5 @@
+archers:bows
+archers:crossbows
+minecraft:bow
+minecraft:crossbow
+rpg_series:archetype/ranged_damage_weapon

@@ -1,0 +1,2 @@
+pastel:black_materia
+pastel:blackslag

@@ -1,0 +1,3 @@
+#byg:crimson_gardens
+#incendium:ash_barrens
+minecraft:crimson_forest

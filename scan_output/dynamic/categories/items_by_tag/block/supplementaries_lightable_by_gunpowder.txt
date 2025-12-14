@@ -1,0 +1,12 @@
+alexcaves:nuclear_bomb
+amendments:skull_candles
+bbb:brazier
+bbb:braziers
+bbb:soul_brazier
+c:braziers
+caverns_and_chasms:braziers
+decorative_blocks:braziers
+minecraft:campfires
+minecraft:candle_cakes
+minecraft:candles
+supplementaries:trapped_presents

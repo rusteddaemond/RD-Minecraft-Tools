@@ -1,0 +1,5 @@
+c:seeds/canola
+c:seeds/sunflower
+frycooks_delight:canola_seeds
+minecraft:pumpkin_seeds
+rusticdelight:cotton_seeds

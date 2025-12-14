@@ -1,0 +1,12 @@
+biomeswevegone:aspen_forest
+biomeswevegone:temperate_grove
+minecraft:birch_forest
+minecraft:old_growth_birch_forest
+minecraft:plains
+regions_unexplored:silver_birch_forest
+tectonic:autumn_birch_forest
+terralith:birch_taiga
+terralith:temperate_highlands
+wythers:autumnal_birch_forest
+wythers:birch_taiga
+wythers:warm_birch_forest

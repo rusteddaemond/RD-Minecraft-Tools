@@ -1,0 +1,8 @@
+aether:holystone_button
+hibernalherbs:idiosyncratic_stone_button
+hibernalherbs:necromantic_stone_button
+occultism:otherrock_button
+occultism:otherstone_button
+pastel:polished_basalt_button
+pastel:polished_blackslag_button
+pastel:polished_calcite_button

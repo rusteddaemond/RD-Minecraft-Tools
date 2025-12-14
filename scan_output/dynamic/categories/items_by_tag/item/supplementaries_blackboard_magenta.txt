@@ -1,0 +1,4 @@
+c:dyes/magenta
+c:magenta_dyes
+chalk:magenta_chalk
+minecraft:magenta_dye

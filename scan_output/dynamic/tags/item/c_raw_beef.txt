@@ -1,0 +1,5 @@
+#candlelight:raw_beef
+candlelight:beef_tartare
+farm_and_charm:minced_beef
+farmersdelight:minced_beef
+minecraft:beef

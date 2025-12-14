@@ -1,0 +1,3 @@
+armory_rpgs:improved_arcane_beam
+armory_rpgs:improved_frost_shield
+armory_rpgs:improved_meteor

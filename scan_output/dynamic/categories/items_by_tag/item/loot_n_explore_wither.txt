@@ -1,0 +1,15 @@
+lne_archers:wither_bow
+lne_archers:wither_heavy_crossbow
+lne_archers:wither_long_bow
+lne_archers:wither_rapid_crossbow
+lne_archers:wither_spear
+lne_paladins:wither_claymore
+lne_paladins:wither_great_hammer
+lne_paladins:wither_mace
+lne_paladins:wither_shield
+lne_rogues:wither_dagger
+lne_rogues:wither_double_axe
+lne_rogues:wither_glaive
+lne_rogues:wither_sickle
+lne_wizards:wither_staff_fire
+lne_wizards:wither_staff_terra

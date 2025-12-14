@@ -1,0 +1,2 @@
+#c:flower_forests
+minecraft:flower_forest

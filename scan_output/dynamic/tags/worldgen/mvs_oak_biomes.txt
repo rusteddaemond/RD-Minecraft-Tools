@@ -1,0 +1,6 @@
+biomesoplenty:orchard
+byg:allium_fields
+byg:autumnal_forest
+byg:firecracker_shrubland
+byg:red_oak_forest
+minecraft:forest

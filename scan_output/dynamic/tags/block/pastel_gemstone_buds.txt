@@ -1,0 +1,5 @@
+#pastel:amethyst_buds
+#pastel:citrine_buds
+#pastel:moonstone_buds
+#pastel:onyx_buds
+#pastel:topaz_buds

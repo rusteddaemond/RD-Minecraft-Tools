@@ -1,0 +1,4 @@
+#regions_unexplored:brimwood_logs
+pastel:blazing_crystal
+regions_unexplored:brimwood_planks
+twilightforest:fiery_block

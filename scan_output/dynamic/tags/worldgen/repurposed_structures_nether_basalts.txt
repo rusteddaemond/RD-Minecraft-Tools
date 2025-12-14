@@ -1,0 +1,10 @@
+betternether:flooded_deltas
+betternether:gravel_desert
+betternether:magma_land
+biomesoplenty:withered_abyss
+byg:brimstone_caverns
+byg:magma_wastes
+incendium:ash_barrens
+incendium:volcanic_deltas
+incendium:withered_forest
+minecraft:basalt_deltas

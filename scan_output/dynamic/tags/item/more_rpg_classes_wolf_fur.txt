@@ -1,0 +1,3 @@
+environmentz:wolf_pelt
+frostiful:wolf_fur_tuft
+more_rpg_classes:wolf_fur

@@ -1,0 +1,5 @@
+lne_rogues:dancing_dagger
+rogues:shadow_step
+rogues:shock_powder
+rogues:slice_and_dice
+rogues:vanish

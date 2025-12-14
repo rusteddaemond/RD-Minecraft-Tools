@@ -1,0 +1,4 @@
+minecraft:air
+minecraft:base_stone_overworld
+minecraft:cave_air
+pastel:base_stone_deeper_down

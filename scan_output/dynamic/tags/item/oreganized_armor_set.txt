@@ -1,0 +1,8 @@
+alexscaves:hazmat_boots
+alexscaves:hazmat_chestplate
+alexscaves:hazmat_leggings
+alexscaves:hazmat_mask
+thermal:hazmat_boots
+thermal:hazmat_chestplate
+thermal:hazmat_helmet
+thermal:hazmat_leggings

@@ -1,0 +1,10 @@
+galosphere:amethyst_block
+galosphere:amethyst_brick_slab
+galosphere:amethyst_brick_stairs
+galosphere:amethyst_bricks
+galosphere:amethyst_slab
+galosphere:amethyst_stairs
+galosphere:chiseled_amethyst
+galosphere:smooth_amethyst
+galosphere:smooth_amethyst_slab
+galosphere:smooth_amethyst_stairs

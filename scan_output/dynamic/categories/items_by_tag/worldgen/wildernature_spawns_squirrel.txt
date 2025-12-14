@@ -1,0 +1,4 @@
+minecraft:flower_forest
+minecraft:forest
+minecraft:plains
+minecraft:sunflower_plains

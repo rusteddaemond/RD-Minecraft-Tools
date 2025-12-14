@@ -1,0 +1,4 @@
+minecraft:is_forest
+minecraft:plains
+minecraft:river
+minecraft:sunflower_plains

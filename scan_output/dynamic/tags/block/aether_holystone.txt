@@ -1,0 +1,5 @@
+aether:ambrosium_ore
+aether:gravitite_ore
+aether:holystone
+aether:mossy_holystone
+aether:zanite_ore

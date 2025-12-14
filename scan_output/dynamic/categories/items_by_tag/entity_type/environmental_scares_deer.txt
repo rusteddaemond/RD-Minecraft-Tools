@@ -1,0 +1,4 @@
+environmental:scares_trusting_deer
+minecraft:player
+minecraft:villager
+minecraft:wandering_trader

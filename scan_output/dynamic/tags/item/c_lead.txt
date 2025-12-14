@@ -1,0 +1,6 @@
+oreganized:deepslate_lead_ore
+oreganized:lead_block
+oreganized:lead_ingot
+oreganized:lead_nugget
+oreganized:lead_ore
+oreganized:raw_lead

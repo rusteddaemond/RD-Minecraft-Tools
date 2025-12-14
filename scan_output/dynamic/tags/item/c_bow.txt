@@ -1,0 +1,6 @@
+aether:phoenix_bow
+pastel:bedrock_bow
+twilightforest:ender_bow
+twilightforest:ice_bow
+twilightforest:seeker_bow
+twilightforest:triple_bow

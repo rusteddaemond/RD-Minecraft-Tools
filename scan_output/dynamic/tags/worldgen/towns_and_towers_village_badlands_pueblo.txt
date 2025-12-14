@@ -1,0 +1,13 @@
+biomeswevegone:autacama_desert
+jermsy:red_desert
+minecraft:badlands
+regions_unexplored:outback
+tectonic:red_desert
+tectonic:red_desert_dunes
+terralith:arid_highlands
+terralith:red_oasis
+terralith:snowy_badlands
+wythers:badlands_desert
+wythers:kwongan_heath
+wythers:outback_desert
+wythers:red_desert

@@ -1,0 +1,24 @@
+Recipe Type: minecraft:crafting_shapeless
+Total Recipes: 5
+============================================================
+
+minecraft:crimson_kelp
+  Inputs: netherdepthsupgrade:crimson_kelp_block
+  Outputs: netherdepthsupgrade:crimson_kelp
+
+minecraft:warped_kelp
+  Inputs: netherdepthsupgrade:warped_kelp_block
+  Outputs: netherdepthsupgrade:warped_kelp
+
+wildernature:diamond_ammunition
+  Inputs: minecraft:diamond, minecraft:gunpowder
+  Outputs: wildernature:diamond_ammunition
+
+wildernature:fish_oil
+  Inputs: #minecraft:fishes
+  Outputs: wildernature:fish_oil
+
+wildernature:flint_ammunition
+  Inputs: minecraft:flint, minecraft:gunpowder
+  Outputs: wildernature:flint_ammunition
+

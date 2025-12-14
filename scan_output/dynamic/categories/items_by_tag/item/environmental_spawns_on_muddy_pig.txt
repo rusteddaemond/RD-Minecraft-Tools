@@ -1,0 +1,8 @@
+environmental:cattail
+environmental:dianthus
+minecraft:blue_orchid
+minecraft:brown_mushroom
+minecraft:dandelion
+minecraft:lily_pad
+minecraft:poppy
+minecraft:red_mushroom

@@ -1,0 +1,8 @@
+minecraft:mangrove_swamp
+wythers:autumnal_swamp
+wythers:bamboo_swamp
+wythers:bayou
+wythers:berry_bog
+wythers:coastal_mangroves
+wythers:dripleaf_swamp
+wythers:tangled_forest

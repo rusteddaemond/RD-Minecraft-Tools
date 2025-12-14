@@ -1,0 +1,2 @@
+theurgy:mercury_crystal
+theurgy:mercury_shard

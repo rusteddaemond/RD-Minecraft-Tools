@@ -1,0 +1,2 @@
+#atmospheric:rosewood_logs
+atmospheric:rosewood_leaves

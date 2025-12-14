@@ -1,0 +1,4 @@
+biomeswevegone:fir_log
+biomeswevegone:fir_wood
+biomeswevegone:stripped_fir_log
+biomeswevegone:stripped_fir_wood

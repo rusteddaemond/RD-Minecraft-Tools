@@ -1,0 +1,2 @@
+minecraft:gold_ingot
+minecraft:honeycomb

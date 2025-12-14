@@ -1,0 +1,2 @@
+minecraft:llama
+minecraft:trader_llama

@@ -1,0 +1,5 @@
+cataclysm:chiseled_obsidian_bricks
+cataclysm:obsidian_brick_slab
+cataclysm:obsidian_brick_wall
+cataclysm:polished_end_stone_stairs
+minecraft:end_stone_brick_stairs
