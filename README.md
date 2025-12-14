@@ -51,17 +51,37 @@ cd RD-Minecraft-Tools-main
 
 Scans mod JAR files and extracts tags, recipes, and items.
 
+Scan all types (default):
+
 ```bash
-# Scan all types (default)
 python scanner.py
+```
 
-# Scan specific types
-python scanner.py -i          # Items only
-python scanner.py -b          # Blocks only
-python scanner.py -f          # Fluids only
-python scanner.py -i -b       # Items and blocks
+Scan specific types:
 
-# Custom directories
+```bash
+# Items only
+python scanner.py -i
+```
+
+```bash
+# Blocks only
+python scanner.py -b
+```
+
+```bash
+# Fluids only
+python scanner.py -f
+```
+
+```bash
+# Items and blocks
+python scanner.py -i -b
+```
+
+Custom directories:
+
+```bash
 python scanner.py -m ./my_mods -o ./my_output
 ```
 
@@ -76,17 +96,37 @@ python scanner.py -m ./my_mods -o ./my_output
 
 Finds mod pairs with overlapping base names for datapack generation.
 
+Find pairs for all types (default):
+
 ```bash
-# Find pairs for all types (default)
 python finder.py
+```
 
-# Find pairs for specific types
-python finder.py -i          # Items only
-python finder.py -b           # Blocks only
-python finder.py -f           # Fluids only
-python finder.py -i -b        # Items and blocks
+Find pairs for specific types:
 
-# Custom options
+```bash
+# Items only
+python finder.py -i
+```
+
+```bash
+# Blocks only
+python finder.py -b
+```
+
+```bash
+# Fluids only
+python finder.py -f
+```
+
+```bash
+# Items and blocks
+python finder.py -i -b
+```
+
+Custom options:
+
+```bash
 python finder.py -m 5 -o ./my_find_output
 ```
 
@@ -101,20 +141,33 @@ python finder.py -m 5 -o ./my_find_output
 
 Builds datapack files from scanned mod data.
 
+Build items datapack:
+
 ```bash
-# Build items datapack
 python builder.py -i
+```
 
-# Build blocks datapack
+Build blocks datapack:
+
+```bash
 python builder.py -b
+```
 
-# Build fluids datapack
+Build fluids datapack:
+
+```bash
 python builder.py -f
+```
 
-# Specify result namespace
+Specify result namespace:
+
+```bash
 python builder.py -i -n create
+```
 
-# Custom output directory
+Custom output directory:
+
+```bash
 python builder.py -i -o ./my_datapack
 ```
 
@@ -150,11 +203,6 @@ find_output/          # Finder output
 build_output/         # Builder output
 └── [datapack files]
 ```
-
-## Requirements
-
-- Python 3.7+
-- No external dependencies (uses only Python standard library)
 
 ## License
 
