@@ -2,196 +2,160 @@
 
 **Version 0.1.0**
 
-A collection of standalone Python scripts for scanning and analyzing Minecraft mod JAR files. Each script is independent and uses only Python standard library - no external dependencies required.
+A unified dynamic scanner for analyzing Minecraft mod JAR files. Uses tags as the primary truth - everything else is derived from them.
 
-## Overview
+## Installation
 
-These tools scan Minecraft mod JAR files to extract and categorize:
-- Blocks and items
-- Recipes and recipe types
-- Tags and tag groups
-- Item categories and properties
+### Using Git
 
-All scripts are standalone and can be run independently without any configuration or setup.
-
-## Tools
-
-### 🔍 Block and Item Scanner
-
-**Script:** `scan_mods_blocks_items.py`
-
-Scans all mod JAR files in the `/mods` directory and extracts blocks and items.
-
-**Features:**
-- Discovers blocks and items from multiple sources (data files, assets, blockstates, models)
-- Outputs complete catalogues: `blocks.txt` and `items.txt`
-- Organizes by namespace: `blocks/{namespace}.txt` and `items/{namespace}.txt`
-- Format: `namespace:item` (one per line)
-
-**Usage:**
 ```bash
-python scan_mods_blocks_items.py
-# Or specify custom mods directory:
-python scan_mods_blocks_items.py /path/to/mods
+git clone https://github.com/rusteddaemond/RD-Minecraft-Tools.git
+cd RD-Minecraft-Tools
 ```
 
-**Output:**
-- `scan_output/blocks.txt` - All blocks (complete catalogue)
-- `scan_output/items.txt` - All items (complete catalogue)
-- `scan_output/blocks/{namespace}.txt` - Blocks per namespace
-- `scan_output/items/{namespace}.txt` - Items per namespace
+### Using Wget
 
----
-
-### 📊 Block and Item Categorizer
-
-**Script:** `categorize_blocks_items.py`
-
-Categorizes blocks and items from scan output into common categories (wood, stone, ore, metal, etc.).
-
-**Features:**
-- Reads `blocks.txt` and `items.txt` from scan output
-- Categorizes by name patterns (wood, stone, ore, metal, gem, food, tool, armor, etc.)
-- Outputs categorized files for easy searching
-
-**Usage:**
 ```bash
-python categorize_blocks_items.py
-# Or specify custom output directory:
-python categorize_blocks_items.py scan_output
+wget https://github.com/rusteddaemond/RD-Minecraft-Tools/archive/refs/heads/main.zip
+unzip main.zip
+cd RD-Minecraft-Tools-main
 ```
 
-**Output:**
-- `scan_output/categories/blocks/{category}.txt` - Blocks by category
-- `scan_output/categories/items/{category}.txt` - Items by category
-- `scan_output/categories/summary.txt` - Summary with counts
+### Using Curl
 
-**Categories:**
-- Wood (logs, planks, fences, doors, etc.)
-- Stone (stone, cobblestone, bricks, etc.)
-- Ore (ores, ingots, nuggets, gems, etc.)
-- Metal (iron, gold, copper, steel, etc.)
-- Gem (diamond, emerald, ruby, etc.)
-- Food (berries, fruits, vegetables, etc.)
-- Tool (pickaxes, axes, swords, etc.)
-- Armor (helmets, chestplates, etc.)
-- And many more...
-
----
-
-### 🔬 Dynamic Recipe and Tag Scanner
-
-**Script:** `scan_mods_recipes_dynamic.py`
-
-Dynamically discovers ALL recipe types and tag groups from mods, including custom mod recipe types.
-
-**Features:**
-- **Two-pass scanning:**
-  - Pass 1: Collects ALL tags from all mods
-  - Pass 2: Scans recipes and categorizes using collected tags
-- Discovers all recipe types dynamically (not just predefined ones)
-- Discovers all tag types dynamically (blocks, items, fluids, entity_types, worldgen, etc.)
-- Categorizes items by recipe properties (smeltable, craftable, pickaxeable, wearable, etc.)
-- Creates reverse lookups (item → tags)
-
-**Usage:**
 ```bash
-python scan_mods_recipes_dynamic.py
-# Or specify custom mods directory:
-python scan_mods_recipes_dynamic.py /path/to/mods
+curl -L https://github.com/rusteddaemond/RD-Minecraft-Tools/archive/refs/heads/main.zip -o RD-Minecraft-Tools.zip
+unzip RD-Minecraft-Tools.zip
+cd RD-Minecraft-Tools-main
 ```
-
-**Output:**
-- `scan_output/dynamic/recipe_types/` - All discovered recipe types
-  - `all_recipe_types.txt` - Summary of all types
-  - `recipes/{recipe_type}.txt` - Recipes per type
-- `scan_output/dynamic/tags/` - All discovered tag groups
-  - `all_tags_summary.txt` - Summary with common c: tags check
-  - `{tag_type}/{tag_name}.txt` - Items in each tag
-- `scan_output/dynamic/categories/` - Categorized items
-  - `recipe_inputs/{recipe_type}.txt` - Items used as inputs
-  - `recipe_outputs/{recipe_type}.txt` - Items produced
-  - `items_by_tag/{tag_type}/{tag_name}.txt` - Items categorized by tags
-  - `item_to_tags/all_items_with_tags.txt` - Reverse lookup
-- `scan_output/dynamic/summary.txt` - Comprehensive summary
-
-**Recipe Types Discovered:**
-- All standard Minecraft recipe types (crafting, smelting, blasting, etc.)
-- Custom mod recipe types (woodcutting, sawmill, etc.)
-- Any recipe type introduced by mods
-
-**Tag Types Discovered:**
-- Blocks, Items, Fluids, Entity Types
-- Worldgen tags
-- Any custom tag types from mods
-
----
 
 ## Quick Start
 
-1. **Clone the repository:**
+1. Place your mod JAR files in the `mods/` directory
+2. Run the scanner:
    ```bash
-   git clone <repository-url>
-   cd RD-Minecraft-Tools
+   python scanner.py
+   ```
+3. Find mod pairs:
+   ```bash
+   python finder.py
+   ```
+4. Build datapacks:
+   ```bash
+   python builder.py -i
    ```
 
-2. **Place your mod JAR files in the `mods/` directory**
+## Commands
 
-3. **Run the scanners:**
-   ```bash
-   # Scan blocks and items
-   python scan_mods_blocks_items.py
-   
-   # Categorize blocks and items
-   python categorize_blocks_items.py
-   
-   # Scan recipes and tags
-   python scan_mods_recipes_dynamic.py
-   ```
+### Scanner
 
-4. **Check the output in `scan_output/` directory**
+Scans mod JAR files and extracts tags, recipes, and items.
+
+```bash
+# Scan all types (default)
+python scanner.py
+
+# Scan specific types
+python scanner.py -i          # Items only
+python scanner.py -b          # Blocks only
+python scanner.py -f          # Fluids only
+python scanner.py -i -b       # Items and blocks
+
+# Custom directories
+python scanner.py -m ./my_mods -o ./my_output
+```
+
+**Flags:**
+- `-m, --mods-dir` - Directory containing mod JAR files (default: `mods/`)
+- `-o, --output-dir` - Directory to save scan results (default: `scan_output/`)
+- `-i, --items` - Process items
+- `-b, --blocks` - Process blocks
+- `-f, --fluids` - Process fluids
+
+### Finder
+
+Finds mod pairs with overlapping base names for datapack generation.
+
+```bash
+# Find pairs for all types (default)
+python finder.py
+
+# Find pairs for specific types
+python finder.py -i          # Items only
+python finder.py -b           # Blocks only
+python finder.py -f           # Fluids only
+python finder.py -i -b        # Items and blocks
+
+# Custom options
+python finder.py -m 5 -o ./my_find_output
+```
+
+**Flags:**
+- `-m, --min-matches` - Minimum matches required (default: 1)
+- `-o, --output` - Output directory (default: `find_output/`)
+- `-i, --items` - Process items
+- `-b, --blocks` - Process blocks
+- `-f, --fluids` - Process fluids
+
+### Builder
+
+Builds datapack files from scanned mod data.
+
+```bash
+# Build items datapack
+python builder.py -i
+
+# Build blocks datapack
+python builder.py -b
+
+# Build fluids datapack
+python builder.py -f
+
+# Specify result namespace
+python builder.py -i -n create
+
+# Custom output directory
+python builder.py -i -o ./my_datapack
+```
+
+**Flags:**
+- `-i, --items` - Build items datapack
+- `-b, --blocks` - Build blocks datapack
+- `-f, --fluids` - Build fluids datapack
+- `-n, --result-namespace` - Result namespace (default: prompts for selection)
+- `-o, --output-dir` - Output directory (default: `build_output/`)
+
+**Note:** Builder searches for `.txt` files in the project root directory. Place your mod files there before running.
+
+## Output Structure
+
+```
+scan_output/          # Scanner output
+├── tags/             # Tag groups by type
+├── tag_to_items/     # Tag → items (installed/not_installed)
+├── item_to_tags/     # Item → tags (installed/not_installed)
+├── recipes/          # Recipe data (by_mod, by_type, item_inputs, item_outputs)
+├── items/            # Items by namespace (installed/not_installed)
+├── blocks/           # Blocks by namespace (installed/not_installed)
+├── fluids/           # Fluids by namespace (installed/not_installed)
+├── mods/             # Mod information (installed/not_installed)
+└── summary.txt       # Summary
+
+find_output/          # Finder output
+├── items/            # Items pairs and summaries
+├── blocks/           # Blocks pairs and summaries
+├── fluids/           # Fluids pairs and summaries
+└── *_summary.txt     # Type-specific summaries
+
+build_output/         # Builder output
+└── [datapack files]
+```
 
 ## Requirements
 
-- **Python 3.7 or higher**
-- **No external dependencies** - uses only Python standard library:
-  - `zipfile` - For reading JAR files
-  - `json` - For parsing JSON files
-  - `pathlib` - For file operations
-  - `collections` - For data structures
-  - `re` - For pattern matching
-
-## Directory Structure
-
-```
-RD-Minecraft-Tools/
-├── scan_mods_blocks_items.py      # Block/item scanner
-├── categorize_blocks_items.py      # Block/item categorizer
-├── scan_mods_recipes_dynamic.py    # Recipe/tag scanner
-├── mods/                           # Your mod JAR files (place here)
-├── example_mods/                   # Example mod files
-├── scan_output/                    # Output from scanners
-└── README.md                       # This file
-```
-
-## Output Format
-
-All output files use the format `namespace:item` (one per line), for example:
-```
-minecraft:oak_log
-minecraft:oak_planks
-aether:skyroot_log
-create:copper_ore
-```
+- Python 3.7+
+- No external dependencies (uses only Python standard library)
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
-
-## Version History
-
-### 0.1.0 (Current)
-- Initial release with standalone scanners
-- Block and item scanner
-- Block and item categorizer
-- Dynamic recipe and tag scanner
+MIT License
